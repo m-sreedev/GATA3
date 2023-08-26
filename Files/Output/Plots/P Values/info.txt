@@ -1,0 +1,19 @@
+Naming Convention :
+
+1 : DP
+2 : CD4
+3 : CD8
+4 : Th1
+5 : Th2
+6 : Th17
+7 : iTreg
+8 : nTreg
+9 : NKT
+10 : CD8 -Fli1
+11 : CD8 - GATA3 -KO - Fli1
+12 : Th2 -Fli1
+13 : DP -Replicate
+14 : CD8 - GATA3 -KO - GATA3 # has no motifs
+15: Th2  GATA3 Replicate
+
+Open {number}c.html to view best results

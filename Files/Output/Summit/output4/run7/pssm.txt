@@ -1,0 +1,41 @@
+Number of sequences: 899
+Number of programs: 4
+Number of motifs: 3
+Motif widths: 9 13 13 
+Program 1: total 484
+ motif #1: 484 of 484 (0.999793 posterior)
+
+Program 2: total 232
+
+Program 3: total 99
+ motif #1: 93 of 99 (0.938508 posterior)
+ motif #2: 99 of 99 (0.998992 posterior)
+
+Program 4: total 84
+ motif #1: 72 of 84 (0.856295 posterior)
+ motif #2: 13 of 84 (0.155582 posterior)
+ motif #3: 84 of 84 (0.998812 posterior)
+
+Motif #1
+total sequences 649
+A	[ 198.0	22.0	41.0	36.0	57.0	644.0	0.0	-0.0	167.0	]
+C	[ 90.0	178.0	321.0	122.0	31.0	5.0	0.0	622.0	5.0	]
+G	[ 80.0	129.0	159.0	5.0	2.0	0.0	-0.0	7.0	10.0	]
+T	[ 281.0	320.0	128.0	486.0	559.0	-0.0	649.0	20.0	467.0	]
+Motif #2
+total sequences 112
+A	[ 13.0	13.0	79.0	0.0	12.0	0.0	0.0	1.0	0.0	-0.0	6.0	14.0	11.0	]
+C	[ 43.0	57.0	8.0	73.0	5.0	0.0	112.0	111.0	4.0	28.0	31.0	26.0	25.0	]
+G	[ 6.0	25.0	25.0	-0.0	0.0	0.0	0.0	0.0	0.0	71.0	-0.0	29.0	21.0	]
+T	[ 50.0	17.0	-0.0	39.0	95.0	112.0	-0.0	0.0	108.0	13.0	75.0	43.0	55.0	]
+Motif #3
+total sequences 84
+A	[ 25.0	14.0	11.0	21.0	-0.0	0.0	83.0	0.0	0.0	-0.0	84.0	-0.0	23.0	]
+C	[ 20.0	23.0	13.0	30.0	0.0	0.0	0.0	27.0	-0.0	84.0	0.0	26.0	46.0	]
+G	[ 1.0	41.0	24.0	20.0	-0.0	75.0	1.0	52.0	0.0	0.0	0.0	26.0	0.0	]
+T	[ 38.0	6.0	36.0	13.0	84.0	9.0	0.0	5.0	84.0	0.0	0.0	32.0	15.0	]
+Motif #1; total sequences 649; NNNtTATCt / aGATAaNNN
+Motif #2; total sequences 112; NcacTTCCTgtNN / NNacAGGAAgtgN
+Motif #3; total sequences 84; NNNNTGAgTCANc / gNTGAcTCANNNN
+
+Full posterior for run 7 is 4584.510513

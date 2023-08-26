@@ -1,0 +1,96 @@
+Number of sequences: 6502
+Number of programs: 5
+Number of motifs: 8
+Motif widths: 9 9 11 12 12 12 12 12 
+Program 1: total 2799
+ motif #1: 2797 of 2799 (0.999250 posterior)
+ motif #3: 545 of 2799 (0.194734 posterior)
+ motif #4: 122 of 2799 (0.043620 posterior)
+ motif #5: 12 of 2799 (0.004323 posterior)
+ motif #6: 38 of 2799 (0.013611 posterior)
+ motif #7: 33 of 2799 (0.011825 posterior)
+ motif #8: 32 of 2799 (0.011468 posterior)
+
+Program 2: total 1471
+ motif #1: 282 of 1471 (0.191748 posterior)
+ motif #2: 1471 of 1471 (0.999932 posterior)
+ motif #3: 148 of 1471 (0.100666 posterior)
+ motif #4: 60 of 1471 (0.040851 posterior)
+ motif #5: 62 of 1471 (0.042210 posterior)
+ motif #6: 52 of 1471 (0.035413 posterior)
+ motif #7: 22 of 1471 (0.015022 posterior)
+ motif #8: 5 of 1471 (0.003467 posterior)
+
+Program 3: total 1445
+
+Program 4: total 743
+ motif #2: 45 of 743 (0.060684 posterior)
+ motif #3: 604 of 743 (0.812836 posterior)
+ motif #4: 47 of 743 (0.063375 posterior)
+ motif #5: 59 of 743 (0.079521 posterior)
+ motif #6: 39 of 743 (0.052610 posterior)
+ motif #7: 30 of 743 (0.040501 posterior)
+
+Program 5: total 44
+ motif #3: 42 of 44 (0.952489 posterior)
+ motif #4: 1 of 44 (0.024887 posterior)
+ motif #5: 33 of 44 (0.748869 posterior)
+
+Motif #1
+total sequences 3079
+A	[ 813.0	249.0	258.0	0.0	299.0	2999.0	-0.0	-0.0	935.0	]
+C	[ 477.0	680.0	1401.0	549.0	152.0	-0.0	0.0	3079.0	-0.0	]
+G	[ 452.0	555.0	744.0	21.0	0.0	80.0	0.0	-0.0	49.0	]
+T	[ 1337.0	1595.0	676.0	2509.0	2628.0	-0.0	3079.0	0.0	2095.0	]
+Motif #2
+total sequences 1516
+A	[ 375.0	204.0	0.0	41.0	43.0	153.0	2.0	229.0	342.0	]
+C	[ 643.0	1.0	24.0	-0.0	0.0	4.0	363.0	157.0	100.0	]
+G	[ 109.0	0.0	1446.0	35.0	1473.0	1357.0	190.0	29.0	261.0	]
+T	[ 389.0	1311.0	46.0	1440.0	0.0	2.0	961.0	1101.0	813.0	]
+Motif #3
+total sequences 1339
+A	[ 167.0	179.0	826.0	-0.0	52.0	-0.0	-0.0	-0.0	0.0	19.0	111.0	]
+C	[ 469.0	603.0	147.0	804.0	-0.0	-0.0	1339.0	1339.0	0.0	288.0	329.0	]
+G	[ 142.0	245.0	228.0	0.0	-0.0	-0.0	0.0	0.0	-0.0	778.0	112.0	]
+T	[ 561.0	312.0	138.0	535.0	1287.0	1339.0	-0.0	-0.0	1339.0	254.0	787.0	]
+Motif #4
+total sequences 230
+A	[ 67.0	80.0	36.0	83.0	-0.0	-0.0	230.0	-0.0	-0.0	0.0	230.0	-0.0	]
+C	[ 16.0	46.0	21.0	30.0	-0.0	-0.0	-0.0	129.0	-0.0	228.0	-0.0	61.0	]
+G	[ 75.0	55.0	92.0	91.0	-0.0	224.0	-0.0	101.0	-0.0	-0.0	-0.0	102.0	]
+T	[ 72.0	49.0	81.0	26.0	230.0	6.0	-0.0	-0.0	230.0	2.0	-0.0	67.0	]
+Motif #5
+total sequences 166
+A	[ 115.0	-0.0	166.0	-0.0	21.0	53.0	33.0	58.0	162.0	-0.0	-0.0	84.0	]
+C	[ 4.0	-0.0	-0.0	-0.0	78.0	40.0	49.0	-0.0	-0.0	4.0	166.0	-0.0	]
+G	[ -0.0	166.0	-0.0	-0.0	34.0	33.0	23.0	0.0	4.0	1.0	-0.0	4.0	]
+T	[ 47.0	-0.0	-0.0	166.0	33.0	40.0	61.0	108.0	-0.0	161.0	-0.0	78.0	]
+Motif #6
+total sequences 129
+A	[ 85.0	0.0	129.0	-0.0	2.0	12.0	29.0	129.0	0.0	1.0	53.0	35.0	]
+C	[ 4.0	-0.0	0.0	-0.0	-0.0	52.0	1.0	-0.0	0.0	128.0	0.0	43.0	]
+G	[ 1.0	129.0	-0.0	-0.0	93.0	54.0	-0.0	0.0	4.0	-0.0	-0.0	39.0	]
+T	[ 39.0	0.0	-0.0	129.0	34.0	11.0	99.0	-0.0	125.0	-0.0	76.0	12.0	]
+Motif #7
+total sequences 85
+A	[ 26.0	36.0	19.0	66.0	-0.0	0.0	80.0	28.0	1.0	-0.0	-0.0	0.0	]
+C	[ 25.0	0.0	27.0	4.0	0.0	-0.0	4.0	-0.0	-0.0	-0.0	-0.0	-0.0	]
+G	[ 34.0	25.0	39.0	15.0	85.0	85.0	-0.0	4.0	84.0	-0.0	80.0	85.0	]
+T	[ 0.0	24.0	-0.0	-0.0	-0.0	-0.0	1.0	53.0	-0.0	85.0	5.0	-0.0	]
+Motif #8
+total sequences 37
+A	[ 7.0	-0.0	-0.0	24.0	-0.0	-0.0	-0.0	-0.0	-0.0	33.0	3.0	-0.0	]
+C	[ 30.0	37.0	33.0	0.0	37.0	37.0	37.0	36.0	36.0	-0.0	32.0	37.0	]
+G	[ -0.0	-0.0	0.0	5.0	-0.0	0.0	-0.0	0.0	-0.0	4.0	2.0	0.0	]
+T	[ 0.0	-0.0	4.0	8.0	0.0	-0.0	-0.0	1.0	1.0	-0.0	-0.0	-0.0	]
+Motif #1; total sequences 3079; NtNTTATCt / aGATAANaN
+Motif #2; total sequences 1516; NTGTGGttt / aaaCCACAN
+Motif #3; total sequences 1339; NNacTTCCTgt / acAGGAAgtNN
+Motif #4; total sequences 230; NNNNTGAcTCAN / NTGAgTCANNNN
+Motif #5; total sequences 166; aGATNNNtATCa / tGATaNNNATCt
+Motif #6; total sequences 129; aGATgNtATCtN / NaGATaNcATCt
+Motif #7; total sequences 85; NNNaGGAtGTGG / CCACaTCCtNNN
+Motif #8; total sequences 37; CCCaCCCCCACC / GGTGGGGGtGGG
+
+Full posterior for run 9 is 31429.694327

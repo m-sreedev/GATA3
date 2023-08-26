@@ -1,0 +1,22 @@
+Name of input file: /home/sreedev/Downloads/Processed/masked/masked8.fa
+Maximum number of regulatory programs: 15
+Maximum number of motifs: 30
+Maximum number of iterations per run: 5000
+Number of distinct runs: 10
+Starting width of each motif : 12
+Minimum width of a motif: 6
+Maximum width of a motif: 200
+Initial probability of a motif in a sequence: 1.000000
+Will print progress in a file called progress in each run directory 
+Will look on both strands
+Minimum number of sites to create a motif: 20
+Minimum number of sequences to create a regulatory program: 20
+Pseudocount for the PWMs: 0.100000
+Pseudocount for the regulatory programs: 1.000000
+Pseudocount for module to have a PWM: 0.100000
+Pseudocount for module to NOT have a PWM: 0.100000
+Order of the background Markov model: 2
+Likelihood must not improve for 500 iterations (convergence criterion)
+Will use 2 cores
+Will use 1 as the primary seed for the random number generator
+Will NOT remove motifs with low information content

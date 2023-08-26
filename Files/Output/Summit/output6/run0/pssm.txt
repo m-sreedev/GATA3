@@ -1,0 +1,37 @@
+Number of sequences: 236
+Number of programs: 3
+Number of motifs: 3
+Motif widths: 13 12 14 
+Program 1: total 128
+
+Program 2: total 81
+ motif #1: 64 of 81 (0.789409 posterior)
+ motif #2: 28 of 81 (0.346059 posterior)
+
+Program 3: total 27
+ motif #2: 13 of 27 (0.481618 posterior)
+ motif #3: 27 of 27 (0.996324 posterior)
+
+Motif #1
+total sequences 64
+A	[ 8.0	47.0	1.0	63.0	0.0	57.0	46.0	8.0	22.0	51.0	0.0	4.0	22.0	]
+C	[ 31.0	2.0	0.0	-0.0	0.0	1.0	3.0	22.0	17.0	10.0	12.0	53.0	0.0	]
+G	[ 19.0	0.0	63.0	0.0	0.0	0.0	9.0	30.0	25.0	3.0	5.0	6.0	6.0	]
+T	[ 6.0	15.0	0.0	1.0	64.0	6.0	6.0	4.0	0.0	0.0	47.0	1.0	36.0	]
+Motif #2
+total sequences 41
+A	[ 13.0	6.0	9.0	31.0	-0.0	-0.0	-0.0	-0.0	1.0	-0.0	4.0	-0.0	]
+C	[ 15.0	16.0	28.0	-0.0	27.0	2.0	-0.0	41.0	40.0	-0.0	8.0	15.0	]
+G	[ 5.0	10.0	4.0	10.0	1.0	-0.0	-0.0	-0.0	-0.0	-0.0	23.0	-0.0	]
+T	[ 8.0	9.0	-0.0	-0.0	13.0	39.0	41.0	0.0	-0.0	41.0	6.0	26.0	]
+Motif #3
+total sequences 27
+A	[ 2.0	21.0	0.0	26.0	0.0	3.0	0.0	0.0	23.0	0.0	0.0	12.0	2.0	1.0	]
+C	[ 11.0	1.0	3.0	0.0	1.0	11.0	8.0	0.0	0.0	0.0	27.0	0.0	6.0	9.0	]
+G	[ 7.0	0.0	24.0	0.0	6.0	13.0	0.0	0.0	4.0	0.0	0.0	2.0	13.0	3.0	]
+T	[ 7.0	5.0	0.0	1.0	20.0	0.0	19.0	27.0	0.0	27.0	0.0	13.0	6.0	14.0	]
+Motif #1; total sequences 64; NaGATAaNNatCt / aGatNNtTATCtN
+Motif #2; total sequences 41; NNcacTTCCTgt / acAGGAAgtgNN
+Motif #3; total sequences 27; NaGAtNtTATCWNt / aNWGATAaNaTCtN
+
+Full posterior for run 0 is 897.684027

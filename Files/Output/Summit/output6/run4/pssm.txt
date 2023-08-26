@@ -1,0 +1,28 @@
+Number of sequences: 236
+Number of programs: 3
+Number of motifs: 2
+Motif widths: 14 14 
+Program 1: total 120
+
+Program 2: total 68
+ motif #1: 68 of 68 (0.998534 posterior)
+
+Program 3: total 48
+ motif #2: 48 of 48 (0.997925 posterior)
+
+Motif #1
+total sequences 68
+A	[ 27.0	21.0	0.0	0.0	0.0	0.0	66.0	0.0	0.0	13.0	7.0	12.0	15.0	25.0	]
+C	[ 11.0	4.0	21.0	41.0	4.0	5.0	0.0	0.0	68.0	0.0	21.0	9.0	9.0	21.0	]
+G	[ 25.0	6.0	23.0	18.0	0.0	0.0	2.0	1.0	0.0	2.0	21.0	11.0	21.0	22.0	]
+T	[ 5.0	37.0	24.0	9.0	64.0	63.0	0.0	67.0	0.0	53.0	19.0	36.0	23.0	0.0	]
+Motif #2
+total sequences 48
+A	[ 3.0	7.0	21.0	0.0	7.0	0.0	0.0	0.0	0.0	5.0	9.0	6.0	13.0	18.0	]
+C	[ 31.0	23.0	7.0	28.0	0.0	2.0	48.0	48.0	-0.0	0.0	9.0	27.0	0.0	12.0	]
+G	[ 2.0	8.0	18.0	6.0	0.0	1.0	0.0	0.0	0.0	35.0	8.0	2.0	7.0	10.0	]
+T	[ 12.0	10.0	2.0	14.0	41.0	45.0	-0.0	0.0	48.0	8.0	22.0	13.0	28.0	8.0	]
+Motif #1; total sequences 68; NtNcTTATCtNtNN / NNaNaGATAAgNaN
+Motif #2; total sequences 48; cNNcTTCCTgNctN / NagNcAGGAAgNNg
+
+Full posterior for run 4 is 703.292298

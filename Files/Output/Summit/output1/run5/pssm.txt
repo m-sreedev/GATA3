@@ -1,0 +1,46 @@
+Number of sequences: 1706
+Number of programs: 3
+Number of motifs: 4
+Motif widths: 9 11 14 17 
+Program 1: total 1217
+ motif #1: 1210 of 1217 (0.994167 posterior)
+ motif #3: 20 of 1217 (0.016513 posterior)
+ motif #4: 20 of 1217 (0.016513 posterior)
+
+Program 2: total 307
+
+Program 3: total 182
+ motif #1: 179 of 182 (0.982986 posterior)
+ motif #2: 182 of 182 (0.999451 posterior)
+ motif #3: 2 of 182 (0.011526 posterior)
+
+Motif #1
+total sequences 1389
+A	[ 331.0	82.0	126.0	55.0	178.0	1298.0	13.0	-0.0	339.0	]
+C	[ 251.0	392.0	611.0	302.0	156.0	22.0	0.0	1350.0	15.0	]
+G	[ 153.0	229.0	349.0	71.0	0.0	69.0	0.0	1.0	25.0	]
+T	[ 654.0	686.0	303.0	961.0	1055.0	0.0	1376.0	38.0	1010.0	]
+Motif #2
+total sequences 182
+A	[ 13.0	18.0	147.0	0.0	20.0	0.0	3.0	0.0	-0.0	-0.0	8.0	]
+C	[ 70.0	105.0	1.0	101.0	0.0	0.0	179.0	182.0	0.0	17.0	55.0	]
+G	[ 36.0	26.0	33.0	-0.0	0.0	-0.0	0.0	0.0	-0.0	111.0	18.0	]
+T	[ 63.0	33.0	1.0	81.0	162.0	182.0	0.0	0.0	182.0	54.0	101.0	]
+Motif #3
+total sequences 22
+A	[ 1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	2.0	0.0	0.0	-0.0	]
+C	[ 1.0	0.0	0.0	0.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	]
+G	[ 20.0	22.0	21.0	20.0	0.0	22.0	22.0	22.0	21.0	21.0	1.0	21.0	20.0	18.0	]
+T	[ -0.0	0.0	0.0	1.0	15.0	0.0	0.0	0.0	0.0	0.0	19.0	1.0	2.0	0.0	]
+Motif #4
+total sequences 20
+A	[ 6.0	4.0	1.0	0.0	15.0	0.0	-0.0	20.0	0.0	4.0	0.0	0.0	0.0	2.0	5.0	0.0	8.0	]
+C	[ 3.0	0.0	18.0	20.0	0.0	16.0	20.0	0.0	0.0	0.0	0.0	0.0	0.0	18.0	0.0	18.0	5.0	]
+G	[ 9.0	13.0	0.0	0.0	2.0	4.0	0.0	0.0	20.0	16.0	17.0	20.0	20.0	0.0	15.0	2.0	-0.0	]
+T	[ 2.0	3.0	1.0	0.0	3.0	0.0	-0.0	0.0	0.0	0.0	3.0	0.0	0.0	-0.0	0.0	0.0	7.0	]
+Motif #1; total sequences 1389; NNNttATCt / aGATaaNNN
+Motif #2; total sequences 182; NcAcTTCCTgt / acAGGAAgTgN
+Motif #3; total sequences 22; GGGGtGGGGGTGGG / CCCACCCCCaCCCC
+Motif #4; total sequences 20; NgCCacCAGgGGGCgCN / NGcGCCCcCTGgtGGcN
+
+Full posterior for run 5 is 8400.605672

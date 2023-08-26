@@ -1,0 +1,4516 @@
+Number of sequences: 257
+Number of programs: 15
+Number of motifs: 30
+Motif widths: 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 
+Program 1: total 16
+ motif #1: 13 of 16 (0.808642 posterior)
+ motif #2: 12 of 16 (0.746914 posterior)
+ motif #3: 12 of 16 (0.746914 posterior)
+ motif #4: 13 of 16 (0.808642 posterior)
+ motif #5: 14 of 16 (0.870370 posterior)
+ motif #6: 15 of 16 (0.932099 posterior)
+ motif #7: 14 of 16 (0.870370 posterior)
+ motif #8: 14 of 16 (0.870370 posterior)
+ motif #9: 14 of 16 (0.870370 posterior)
+ motif #10: 13 of 16 (0.808642 posterior)
+ motif #11: 14 of 16 (0.870370 posterior)
+ motif #12: 15 of 16 (0.932099 posterior)
+ motif #13: 12 of 16 (0.746914 posterior)
+ motif #14: 14 of 16 (0.870370 posterior)
+ motif #15: 13 of 16 (0.808642 posterior)
+ motif #16: 13 of 16 (0.808642 posterior)
+ motif #17: 14 of 16 (0.870370 posterior)
+ motif #18: 15 of 16 (0.932099 posterior)
+ motif #19: 12 of 16 (0.746914 posterior)
+ motif #20: 14 of 16 (0.870370 posterior)
+ motif #21: 14 of 16 (0.870370 posterior)
+ motif #22: 14 of 16 (0.870370 posterior)
+ motif #23: 12 of 16 (0.746914 posterior)
+ motif #24: 14 of 16 (0.870370 posterior)
+ motif #25: 12 of 16 (0.746914 posterior)
+ motif #26: 13 of 16 (0.808642 posterior)
+ motif #27: 15 of 16 (0.932099 posterior)
+ motif #28: 13 of 16 (0.808642 posterior)
+ motif #29: 11 of 16 (0.685185 posterior)
+ motif #30: 13 of 16 (0.808642 posterior)
+
+Program 2: total 12
+ motif #1: 10 of 12 (0.827869 posterior)
+ motif #2: 9 of 12 (0.745902 posterior)
+ motif #3: 9 of 12 (0.745902 posterior)
+ motif #4: 10 of 12 (0.827869 posterior)
+ motif #5: 9 of 12 (0.745902 posterior)
+ motif #6: 10 of 12 (0.827869 posterior)
+ motif #7: 8 of 12 (0.663934 posterior)
+ motif #8: 10 of 12 (0.827869 posterior)
+ motif #9: 10 of 12 (0.827869 posterior)
+ motif #10: 10 of 12 (0.827869 posterior)
+ motif #11: 10 of 12 (0.827869 posterior)
+ motif #12: 10 of 12 (0.827869 posterior)
+ motif #13: 10 of 12 (0.827869 posterior)
+ motif #14: 10 of 12 (0.827869 posterior)
+ motif #15: 8 of 12 (0.663934 posterior)
+ motif #16: 9 of 12 (0.745902 posterior)
+ motif #17: 10 of 12 (0.827869 posterior)
+ motif #18: 10 of 12 (0.827869 posterior)
+ motif #19: 11 of 12 (0.909836 posterior)
+ motif #20: 12 of 12 (0.991803 posterior)
+ motif #21: 9 of 12 (0.745902 posterior)
+ motif #22: 10 of 12 (0.827869 posterior)
+ motif #23: 9 of 12 (0.745902 posterior)
+ motif #24: 9 of 12 (0.745902 posterior)
+ motif #25: 9 of 12 (0.745902 posterior)
+ motif #26: 11 of 12 (0.909836 posterior)
+ motif #27: 9 of 12 (0.745902 posterior)
+ motif #28: 9 of 12 (0.745902 posterior)
+ motif #29: 10 of 12 (0.827869 posterior)
+ motif #30: 8 of 12 (0.663934 posterior)
+
+Program 3: total 18
+ motif #1: 17 of 18 (0.939560 posterior)
+ motif #2: 14 of 18 (0.774725 posterior)
+ motif #3: 16 of 18 (0.884615 posterior)
+ motif #4: 15 of 18 (0.829670 posterior)
+ motif #5: 15 of 18 (0.829670 posterior)
+ motif #6: 15 of 18 (0.829670 posterior)
+ motif #7: 12 of 18 (0.664835 posterior)
+ motif #8: 15 of 18 (0.829670 posterior)
+ motif #9: 16 of 18 (0.884615 posterior)
+ motif #10: 17 of 18 (0.939560 posterior)
+ motif #11: 15 of 18 (0.829670 posterior)
+ motif #12: 14 of 18 (0.774725 posterior)
+ motif #13: 16 of 18 (0.884615 posterior)
+ motif #14: 16 of 18 (0.884615 posterior)
+ motif #15: 14 of 18 (0.774725 posterior)
+ motif #16: 15 of 18 (0.829670 posterior)
+ motif #17: 16 of 18 (0.884615 posterior)
+ motif #18: 16 of 18 (0.884615 posterior)
+ motif #19: 17 of 18 (0.939560 posterior)
+ motif #20: 14 of 18 (0.774725 posterior)
+ motif #21: 14 of 18 (0.774725 posterior)
+ motif #22: 15 of 18 (0.829670 posterior)
+ motif #23: 17 of 18 (0.939560 posterior)
+ motif #24: 15 of 18 (0.829670 posterior)
+ motif #25: 15 of 18 (0.829670 posterior)
+ motif #26: 14 of 18 (0.774725 posterior)
+ motif #27: 18 of 18 (0.994505 posterior)
+ motif #28: 15 of 18 (0.829670 posterior)
+ motif #29: 13 of 18 (0.719780 posterior)
+ motif #30: 16 of 18 (0.884615 posterior)
+
+Program 4: total 15
+ motif #1: 13 of 15 (0.861842 posterior)
+ motif #2: 14 of 15 (0.927632 posterior)
+ motif #3: 13 of 15 (0.861842 posterior)
+ motif #4: 13 of 15 (0.861842 posterior)
+ motif #5: 13 of 15 (0.861842 posterior)
+ motif #6: 14 of 15 (0.927632 posterior)
+ motif #7: 13 of 15 (0.861842 posterior)
+ motif #8: 14 of 15 (0.927632 posterior)
+ motif #9: 13 of 15 (0.861842 posterior)
+ motif #10: 13 of 15 (0.861842 posterior)
+ motif #11: 12 of 15 (0.796053 posterior)
+ motif #12: 11 of 15 (0.730263 posterior)
+ motif #13: 13 of 15 (0.861842 posterior)
+ motif #14: 13 of 15 (0.861842 posterior)
+ motif #15: 12 of 15 (0.796053 posterior)
+ motif #16: 14 of 15 (0.927632 posterior)
+ motif #17: 13 of 15 (0.861842 posterior)
+ motif #18: 12 of 15 (0.796053 posterior)
+ motif #19: 12 of 15 (0.796053 posterior)
+ motif #20: 12 of 15 (0.796053 posterior)
+ motif #21: 12 of 15 (0.796053 posterior)
+ motif #22: 12 of 15 (0.796053 posterior)
+ motif #23: 12 of 15 (0.796053 posterior)
+ motif #24: 11 of 15 (0.730263 posterior)
+ motif #25: 14 of 15 (0.927632 posterior)
+ motif #26: 15 of 15 (0.993421 posterior)
+ motif #27: 14 of 15 (0.927632 posterior)
+ motif #28: 14 of 15 (0.927632 posterior)
+ motif #29: 12 of 15 (0.796053 posterior)
+ motif #30: 13 of 15 (0.861842 posterior)
+
+Program 5: total 14
+ motif #1: 13 of 14 (0.922535 posterior)
+ motif #2: 10 of 14 (0.711268 posterior)
+ motif #3: 13 of 14 (0.922535 posterior)
+ motif #4: 12 of 14 (0.852113 posterior)
+ motif #5: 13 of 14 (0.922535 posterior)
+ motif #6: 14 of 14 (0.992958 posterior)
+ motif #7: 12 of 14 (0.852113 posterior)
+ motif #8: 11 of 14 (0.781690 posterior)
+ motif #9: 11 of 14 (0.781690 posterior)
+ motif #10: 14 of 14 (0.992958 posterior)
+ motif #11: 14 of 14 (0.992958 posterior)
+ motif #12: 13 of 14 (0.922535 posterior)
+ motif #13: 13 of 14 (0.922535 posterior)
+ motif #14: 10 of 14 (0.711268 posterior)
+ motif #15: 12 of 14 (0.852113 posterior)
+ motif #16: 12 of 14 (0.852113 posterior)
+ motif #17: 12 of 14 (0.852113 posterior)
+ motif #18: 11 of 14 (0.781690 posterior)
+ motif #19: 12 of 14 (0.852113 posterior)
+ motif #20: 10 of 14 (0.711268 posterior)
+ motif #21: 12 of 14 (0.852113 posterior)
+ motif #22: 12 of 14 (0.852113 posterior)
+ motif #23: 13 of 14 (0.922535 posterior)
+ motif #24: 12 of 14 (0.852113 posterior)
+ motif #25: 12 of 14 (0.852113 posterior)
+ motif #26: 12 of 14 (0.852113 posterior)
+ motif #27: 11 of 14 (0.781690 posterior)
+ motif #28: 13 of 14 (0.922535 posterior)
+ motif #29: 13 of 14 (0.922535 posterior)
+ motif #30: 13 of 14 (0.922535 posterior)
+
+Program 6: total 22
+ motif #1: 20 of 22 (0.905405 posterior)
+ motif #2: 19 of 22 (0.860360 posterior)
+ motif #3: 19 of 22 (0.860360 posterior)
+ motif #4: 21 of 22 (0.950450 posterior)
+ motif #5: 19 of 22 (0.860360 posterior)
+ motif #6: 21 of 22 (0.950450 posterior)
+ motif #7: 20 of 22 (0.905405 posterior)
+ motif #8: 22 of 22 (0.995495 posterior)
+ motif #9: 20 of 22 (0.905405 posterior)
+ motif #10: 19 of 22 (0.860360 posterior)
+ motif #11: 20 of 22 (0.905405 posterior)
+ motif #12: 19 of 22 (0.860360 posterior)
+ motif #13: 20 of 22 (0.905405 posterior)
+ motif #14: 19 of 22 (0.860360 posterior)
+ motif #15: 20 of 22 (0.905405 posterior)
+ motif #16: 21 of 22 (0.950450 posterior)
+ motif #17: 19 of 22 (0.860360 posterior)
+ motif #18: 20 of 22 (0.905405 posterior)
+ motif #19: 21 of 22 (0.950450 posterior)
+ motif #20: 21 of 22 (0.950450 posterior)
+ motif #21: 21 of 22 (0.950450 posterior)
+ motif #22: 20 of 22 (0.905405 posterior)
+ motif #23: 21 of 22 (0.950450 posterior)
+ motif #24: 21 of 22 (0.950450 posterior)
+ motif #25: 20 of 22 (0.905405 posterior)
+ motif #26: 20 of 22 (0.905405 posterior)
+ motif #27: 21 of 22 (0.950450 posterior)
+ motif #28: 22 of 22 (0.995495 posterior)
+ motif #29: 20 of 22 (0.905405 posterior)
+ motif #30: 21 of 22 (0.950450 posterior)
+
+Program 7: total 20
+ motif #1: 15 of 20 (0.747525 posterior)
+ motif #2: 15 of 20 (0.747525 posterior)
+ motif #3: 18 of 20 (0.896040 posterior)
+ motif #4: 16 of 20 (0.797030 posterior)
+ motif #5: 16 of 20 (0.797030 posterior)
+ motif #6: 17 of 20 (0.846535 posterior)
+ motif #7: 15 of 20 (0.747525 posterior)
+ motif #8: 17 of 20 (0.846535 posterior)
+ motif #9: 17 of 20 (0.846535 posterior)
+ motif #10: 17 of 20 (0.846535 posterior)
+ motif #11: 15 of 20 (0.747525 posterior)
+ motif #12: 16 of 20 (0.797030 posterior)
+ motif #13: 17 of 20 (0.846535 posterior)
+ motif #14: 17 of 20 (0.846535 posterior)
+ motif #15: 18 of 20 (0.896040 posterior)
+ motif #16: 16 of 20 (0.797030 posterior)
+ motif #17: 15 of 20 (0.747525 posterior)
+ motif #18: 17 of 20 (0.846535 posterior)
+ motif #19: 17 of 20 (0.846535 posterior)
+ motif #20: 16 of 20 (0.797030 posterior)
+ motif #21: 17 of 20 (0.846535 posterior)
+ motif #22: 16 of 20 (0.797030 posterior)
+ motif #23: 14 of 20 (0.698020 posterior)
+ motif #24: 15 of 20 (0.747525 posterior)
+ motif #25: 19 of 20 (0.945545 posterior)
+ motif #26: 17 of 20 (0.846535 posterior)
+ motif #27: 16 of 20 (0.797030 posterior)
+ motif #28: 18 of 20 (0.896040 posterior)
+ motif #29: 19 of 20 (0.945545 posterior)
+ motif #30: 17 of 20 (0.846535 posterior)
+
+Program 8: total 15
+ motif #1: 12 of 15 (0.796053 posterior)
+ motif #2: 13 of 15 (0.861842 posterior)
+ motif #3: 14 of 15 (0.927632 posterior)
+ motif #4: 10 of 15 (0.664474 posterior)
+ motif #5: 13 of 15 (0.861842 posterior)
+ motif #6: 13 of 15 (0.861842 posterior)
+ motif #7: 13 of 15 (0.861842 posterior)
+ motif #8: 12 of 15 (0.796053 posterior)
+ motif #9: 14 of 15 (0.927632 posterior)
+ motif #10: 13 of 15 (0.861842 posterior)
+ motif #11: 13 of 15 (0.861842 posterior)
+ motif #12: 12 of 15 (0.796053 posterior)
+ motif #13: 11 of 15 (0.730263 posterior)
+ motif #14: 13 of 15 (0.861842 posterior)
+ motif #15: 12 of 15 (0.796053 posterior)
+ motif #16: 12 of 15 (0.796053 posterior)
+ motif #17: 13 of 15 (0.861842 posterior)
+ motif #18: 14 of 15 (0.927632 posterior)
+ motif #19: 13 of 15 (0.861842 posterior)
+ motif #20: 12 of 15 (0.796053 posterior)
+ motif #21: 14 of 15 (0.927632 posterior)
+ motif #22: 13 of 15 (0.861842 posterior)
+ motif #23: 13 of 15 (0.861842 posterior)
+ motif #24: 11 of 15 (0.730263 posterior)
+ motif #25: 13 of 15 (0.861842 posterior)
+ motif #26: 13 of 15 (0.861842 posterior)
+ motif #27: 12 of 15 (0.796053 posterior)
+ motif #28: 12 of 15 (0.796053 posterior)
+ motif #29: 13 of 15 (0.861842 posterior)
+ motif #30: 12 of 15 (0.796053 posterior)
+
+Program 9: total 15
+ motif #1: 13 of 15 (0.861842 posterior)
+ motif #2: 14 of 15 (0.927632 posterior)
+ motif #3: 15 of 15 (0.993421 posterior)
+ motif #4: 15 of 15 (0.993421 posterior)
+ motif #5: 13 of 15 (0.861842 posterior)
+ motif #6: 14 of 15 (0.927632 posterior)
+ motif #7: 14 of 15 (0.927632 posterior)
+ motif #8: 13 of 15 (0.861842 posterior)
+ motif #9: 13 of 15 (0.861842 posterior)
+ motif #10: 14 of 15 (0.927632 posterior)
+ motif #11: 15 of 15 (0.993421 posterior)
+ motif #12: 15 of 15 (0.993421 posterior)
+ motif #13: 14 of 15 (0.927632 posterior)
+ motif #14: 14 of 15 (0.927632 posterior)
+ motif #15: 13 of 15 (0.861842 posterior)
+ motif #16: 14 of 15 (0.927632 posterior)
+ motif #17: 14 of 15 (0.927632 posterior)
+ motif #18: 15 of 15 (0.993421 posterior)
+ motif #19: 14 of 15 (0.927632 posterior)
+ motif #20: 15 of 15 (0.993421 posterior)
+ motif #21: 14 of 15 (0.927632 posterior)
+ motif #22: 14 of 15 (0.927632 posterior)
+ motif #23: 15 of 15 (0.993421 posterior)
+ motif #24: 14 of 15 (0.927632 posterior)
+ motif #25: 15 of 15 (0.993421 posterior)
+ motif #26: 14 of 15 (0.927632 posterior)
+ motif #27: 13 of 15 (0.861842 posterior)
+ motif #28: 13 of 15 (0.861842 posterior)
+ motif #29: 15 of 15 (0.993421 posterior)
+ motif #30: 15 of 15 (0.993421 posterior)
+
+Program 10: total 11
+ motif #1: 9 of 11 (0.812500 posterior)
+ motif #2: 8 of 11 (0.723214 posterior)
+ motif #3: 10 of 11 (0.901786 posterior)
+ motif #4: 10 of 11 (0.901786 posterior)
+ motif #5: 8 of 11 (0.723214 posterior)
+ motif #6: 8 of 11 (0.723214 posterior)
+ motif #7: 11 of 11 (0.991071 posterior)
+ motif #8: 10 of 11 (0.901786 posterior)
+ motif #9: 9 of 11 (0.812500 posterior)
+ motif #10: 7 of 11 (0.633929 posterior)
+ motif #11: 7 of 11 (0.633929 posterior)
+ motif #12: 8 of 11 (0.723214 posterior)
+ motif #13: 9 of 11 (0.812500 posterior)
+ motif #14: 7 of 11 (0.633929 posterior)
+ motif #15: 9 of 11 (0.812500 posterior)
+ motif #16: 9 of 11 (0.812500 posterior)
+ motif #17: 7 of 11 (0.633929 posterior)
+ motif #18: 8 of 11 (0.723214 posterior)
+ motif #19: 6 of 11 (0.544643 posterior)
+ motif #20: 8 of 11 (0.723214 posterior)
+ motif #21: 7 of 11 (0.633929 posterior)
+ motif #22: 7 of 11 (0.633929 posterior)
+ motif #23: 10 of 11 (0.901786 posterior)
+ motif #24: 9 of 11 (0.812500 posterior)
+ motif #25: 7 of 11 (0.633929 posterior)
+ motif #26: 10 of 11 (0.901786 posterior)
+ motif #27: 8 of 11 (0.723214 posterior)
+ motif #28: 6 of 11 (0.544643 posterior)
+ motif #29: 8 of 11 (0.723214 posterior)
+ motif #30: 9 of 11 (0.812500 posterior)
+
+Program 11: total 21
+ motif #1: 17 of 21 (0.806604 posterior)
+ motif #2: 17 of 21 (0.806604 posterior)
+ motif #3: 16 of 21 (0.759434 posterior)
+ motif #4: 17 of 21 (0.806604 posterior)
+ motif #5: 19 of 21 (0.900943 posterior)
+ motif #6: 20 of 21 (0.948113 posterior)
+ motif #7: 17 of 21 (0.806604 posterior)
+ motif #8: 18 of 21 (0.853774 posterior)
+ motif #9: 20 of 21 (0.948113 posterior)
+ motif #10: 19 of 21 (0.900943 posterior)
+ motif #11: 15 of 21 (0.712264 posterior)
+ motif #12: 19 of 21 (0.900943 posterior)
+ motif #13: 15 of 21 (0.712264 posterior)
+ motif #14: 19 of 21 (0.900943 posterior)
+ motif #15: 17 of 21 (0.806604 posterior)
+ motif #16: 20 of 21 (0.948113 posterior)
+ motif #17: 18 of 21 (0.853774 posterior)
+ motif #18: 19 of 21 (0.900943 posterior)
+ motif #19: 18 of 21 (0.853774 posterior)
+ motif #20: 20 of 21 (0.948113 posterior)
+ motif #21: 18 of 21 (0.853774 posterior)
+ motif #22: 21 of 21 (0.995283 posterior)
+ motif #23: 20 of 21 (0.948113 posterior)
+ motif #24: 20 of 21 (0.948113 posterior)
+ motif #25: 19 of 21 (0.900943 posterior)
+ motif #26: 19 of 21 (0.900943 posterior)
+ motif #27: 18 of 21 (0.853774 posterior)
+ motif #28: 18 of 21 (0.853774 posterior)
+ motif #29: 18 of 21 (0.853774 posterior)
+ motif #30: 20 of 21 (0.948113 posterior)
+
+Program 12: total 20
+ motif #1: 16 of 20 (0.797030 posterior)
+ motif #2: 13 of 20 (0.648515 posterior)
+ motif #3: 16 of 20 (0.797030 posterior)
+ motif #4: 16 of 20 (0.797030 posterior)
+ motif #5: 16 of 20 (0.797030 posterior)
+ motif #6: 13 of 20 (0.648515 posterior)
+ motif #7: 16 of 20 (0.797030 posterior)
+ motif #8: 16 of 20 (0.797030 posterior)
+ motif #9: 16 of 20 (0.797030 posterior)
+ motif #10: 16 of 20 (0.797030 posterior)
+ motif #11: 16 of 20 (0.797030 posterior)
+ motif #12: 15 of 20 (0.747525 posterior)
+ motif #13: 16 of 20 (0.797030 posterior)
+ motif #14: 16 of 20 (0.797030 posterior)
+ motif #15: 16 of 20 (0.797030 posterior)
+ motif #16: 16 of 20 (0.797030 posterior)
+ motif #17: 15 of 20 (0.747525 posterior)
+ motif #18: 17 of 20 (0.846535 posterior)
+ motif #19: 17 of 20 (0.846535 posterior)
+ motif #20: 16 of 20 (0.797030 posterior)
+ motif #21: 15 of 20 (0.747525 posterior)
+ motif #22: 17 of 20 (0.846535 posterior)
+ motif #23: 16 of 20 (0.797030 posterior)
+ motif #24: 13 of 20 (0.648515 posterior)
+ motif #25: 17 of 20 (0.846535 posterior)
+ motif #26: 16 of 20 (0.797030 posterior)
+ motif #27: 16 of 20 (0.797030 posterior)
+ motif #28: 16 of 20 (0.797030 posterior)
+ motif #29: 16 of 20 (0.797030 posterior)
+ motif #30: 15 of 20 (0.747525 posterior)
+
+Program 13: total 23
+ motif #1: 17 of 23 (0.737069 posterior)
+ motif #2: 15 of 23 (0.650862 posterior)
+ motif #3: 17 of 23 (0.737069 posterior)
+ motif #4: 18 of 23 (0.780172 posterior)
+ motif #5: 16 of 23 (0.693966 posterior)
+ motif #6: 15 of 23 (0.650862 posterior)
+ motif #7: 17 of 23 (0.737069 posterior)
+ motif #8: 15 of 23 (0.650862 posterior)
+ motif #9: 15 of 23 (0.650862 posterior)
+ motif #10: 14 of 23 (0.607759 posterior)
+ motif #11: 14 of 23 (0.607759 posterior)
+ motif #12: 15 of 23 (0.650862 posterior)
+ motif #13: 17 of 23 (0.737069 posterior)
+ motif #14: 16 of 23 (0.693966 posterior)
+ motif #15: 14 of 23 (0.607759 posterior)
+ motif #16: 16 of 23 (0.693966 posterior)
+ motif #17: 15 of 23 (0.650862 posterior)
+ motif #18: 15 of 23 (0.650862 posterior)
+ motif #19: 18 of 23 (0.780172 posterior)
+ motif #20: 18 of 23 (0.780172 posterior)
+ motif #21: 18 of 23 (0.780172 posterior)
+ motif #22: 17 of 23 (0.737069 posterior)
+ motif #23: 19 of 23 (0.823276 posterior)
+ motif #24: 16 of 23 (0.693966 posterior)
+ motif #25: 17 of 23 (0.737069 posterior)
+ motif #26: 13 of 23 (0.564655 posterior)
+ motif #27: 14 of 23 (0.607759 posterior)
+ motif #28: 16 of 23 (0.693966 posterior)
+ motif #29: 16 of 23 (0.693966 posterior)
+ motif #30: 18 of 23 (0.780172 posterior)
+
+Program 14: total 18
+ motif #1: 17 of 18 (0.939560 posterior)
+ motif #2: 16 of 18 (0.884615 posterior)
+ motif #3: 13 of 18 (0.719780 posterior)
+ motif #4: 14 of 18 (0.774725 posterior)
+ motif #5: 15 of 18 (0.829670 posterior)
+ motif #6: 15 of 18 (0.829670 posterior)
+ motif #7: 15 of 18 (0.829670 posterior)
+ motif #8: 14 of 18 (0.774725 posterior)
+ motif #9: 17 of 18 (0.939560 posterior)
+ motif #10: 15 of 18 (0.829670 posterior)
+ motif #11: 18 of 18 (0.994505 posterior)
+ motif #12: 17 of 18 (0.939560 posterior)
+ motif #13: 15 of 18 (0.829670 posterior)
+ motif #14: 15 of 18 (0.829670 posterior)
+ motif #15: 17 of 18 (0.939560 posterior)
+ motif #16: 17 of 18 (0.939560 posterior)
+ motif #17: 14 of 18 (0.774725 posterior)
+ motif #18: 15 of 18 (0.829670 posterior)
+ motif #19: 17 of 18 (0.939560 posterior)
+ motif #20: 16 of 18 (0.884615 posterior)
+ motif #21: 14 of 18 (0.774725 posterior)
+ motif #22: 18 of 18 (0.994505 posterior)
+ motif #23: 15 of 18 (0.829670 posterior)
+ motif #24: 16 of 18 (0.884615 posterior)
+ motif #25: 14 of 18 (0.774725 posterior)
+ motif #26: 15 of 18 (0.829670 posterior)
+ motif #27: 15 of 18 (0.829670 posterior)
+ motif #28: 15 of 18 (0.829670 posterior)
+ motif #29: 17 of 18 (0.939560 posterior)
+ motif #30: 15 of 18 (0.829670 posterior)
+
+Program 15: total 17
+ motif #1: 15 of 17 (0.877907 posterior)
+ motif #2: 12 of 17 (0.703488 posterior)
+ motif #3: 16 of 17 (0.936047 posterior)
+ motif #4: 16 of 17 (0.936047 posterior)
+ motif #5: 16 of 17 (0.936047 posterior)
+ motif #6: 15 of 17 (0.877907 posterior)
+ motif #7: 16 of 17 (0.936047 posterior)
+ motif #8: 16 of 17 (0.936047 posterior)
+ motif #9: 15 of 17 (0.877907 posterior)
+ motif #10: 14 of 17 (0.819767 posterior)
+ motif #11: 13 of 17 (0.761628 posterior)
+ motif #12: 15 of 17 (0.877907 posterior)
+ motif #13: 15 of 17 (0.877907 posterior)
+ motif #14: 16 of 17 (0.936047 posterior)
+ motif #15: 14 of 17 (0.819767 posterior)
+ motif #16: 16 of 17 (0.936047 posterior)
+ motif #17: 16 of 17 (0.936047 posterior)
+ motif #18: 14 of 17 (0.819767 posterior)
+ motif #19: 16 of 17 (0.936047 posterior)
+ motif #20: 16 of 17 (0.936047 posterior)
+ motif #21: 15 of 17 (0.877907 posterior)
+ motif #22: 14 of 17 (0.819767 posterior)
+ motif #23: 15 of 17 (0.877907 posterior)
+ motif #24: 17 of 17 (0.994186 posterior)
+ motif #25: 14 of 17 (0.819767 posterior)
+ motif #26: 15 of 17 (0.877907 posterior)
+ motif #27: 14 of 17 (0.819767 posterior)
+ motif #28: 14 of 17 (0.819767 posterior)
+ motif #29: 17 of 17 (0.994186 posterior)
+ motif #30: 16 of 17 (0.936047 posterior)
+
+Motif #1
+total sequences 217
+A	[ 49.0	66.0	57.0	50.0	63.0	55.0	54.0	70.0	51.0	63.0	61.0	65.0	]
+C	[ 52.0	50.0	51.0	49.0	44.0	50.0	52.0	39.0	56.0	46.0	50.0	47.0	]
+G	[ 55.0	51.0	44.0	64.0	53.0	57.0	53.0	48.0	49.0	52.0	57.0	52.0	]
+T	[ 61.0	50.0	65.0	54.0	57.0	55.0	58.0	60.0	61.0	56.0	49.0	53.0	]
+Motif #2
+total sequences 201
+A	[ 49.0	53.0	59.0	46.0	47.0	52.0	52.0	49.0	53.0	59.0	60.0	58.0	]
+C	[ 50.0	41.0	32.0	35.0	61.0	48.0	48.0	49.0	43.0	43.0	39.0	39.0	]
+G	[ 44.0	50.0	58.0	68.0	45.0	46.0	50.0	51.0	52.0	48.0	50.0	47.0	]
+T	[ 58.0	57.0	52.0	52.0	48.0	55.0	51.0	52.0	53.0	51.0	52.0	57.0	]
+Motif #3
+total sequences 217
+A	[ 52.0	53.0	58.0	59.0	65.0	73.0	64.0	62.0	59.0	73.0	58.0	55.0	]
+C	[ 58.0	53.0	50.0	48.0	55.0	51.0	41.0	55.0	56.0	51.0	53.0	62.0	]
+G	[ 54.0	57.0	52.0	51.0	45.0	43.0	61.0	48.0	44.0	42.0	55.0	43.0	]
+T	[ 53.0	54.0	57.0	59.0	52.0	50.0	51.0	52.0	58.0	51.0	51.0	57.0	]
+Motif #4
+total sequences 216
+A	[ 53.0	61.0	55.0	69.0	62.0	61.0	54.0	66.0	52.0	50.0	54.0	59.0	]
+C	[ 51.0	51.0	59.0	48.0	48.0	49.0	52.0	43.0	54.0	41.0	53.0	41.0	]
+G	[ 52.0	57.0	50.0	50.0	56.0	51.0	51.0	53.0	46.0	65.0	48.0	50.0	]
+T	[ 60.0	47.0	52.0	49.0	50.0	55.0	59.0	54.0	64.0	60.0	61.0	66.0	]
+Motif #5
+total sequences 215
+A	[ 64.0	56.0	59.0	68.0	64.0	60.0	59.0	65.0	60.0	54.0	66.0	59.0	]
+C	[ 49.0	52.0	47.0	58.0	54.0	46.0	49.0	43.0	60.0	53.0	51.0	54.0	]
+G	[ 54.0	41.0	53.0	45.0	48.0	47.0	47.0	53.0	38.0	46.0	50.0	46.0	]
+T	[ 48.0	66.0	56.0	44.0	49.0	62.0	60.0	54.0	57.0	62.0	48.0	56.0	]
+Motif #6
+total sequences 219
+A	[ 56.0	61.0	60.0	65.0	74.0	70.0	51.0	63.0	59.0	71.0	59.0	58.0	]
+C	[ 50.0	38.0	45.0	53.0	48.0	51.0	55.0	55.0	45.0	35.0	52.0	54.0	]
+G	[ 52.0	55.0	46.0	42.0	46.0	42.0	49.0	49.0	61.0	53.0	58.0	57.0	]
+T	[ 61.0	65.0	68.0	59.0	51.0	56.0	64.0	52.0	54.0	60.0	50.0	50.0	]
+Motif #7
+total sequences 213
+A	[ 51.0	54.0	55.0	52.0	60.0	61.0	59.0	54.0	49.0	53.0	57.0	63.0	]
+C	[ 50.0	53.0	52.0	48.0	58.0	58.0	49.0	50.0	47.0	46.0	51.0	52.0	]
+G	[ 50.0	52.0	50.0	47.0	36.0	43.0	57.0	54.0	61.0	68.0	49.0	46.0	]
+T	[ 62.0	54.0	56.0	66.0	59.0	51.0	48.0	55.0	56.0	46.0	56.0	52.0	]
+Motif #8
+total sequences 217
+A	[ 60.0	60.0	52.0	58.0	59.0	54.0	64.0	54.0	52.0	65.0	48.0	56.0	]
+C	[ 52.0	50.0	49.0	52.0	48.0	60.0	52.0	55.0	47.0	46.0	63.0	53.0	]
+G	[ 58.0	56.0	60.0	46.0	52.0	50.0	49.0	52.0	57.0	60.0	48.0	47.0	]
+T	[ 47.0	51.0	56.0	61.0	58.0	53.0	52.0	56.0	61.0	46.0	58.0	61.0	]
+Motif #9
+total sequences 220
+A	[ 65.0	54.0	52.0	64.0	66.0	56.0	51.0	55.0	48.0	57.0	57.0	69.0	]
+C	[ 45.0	64.0	44.0	46.0	50.0	54.0	48.0	55.0	58.0	51.0	56.0	53.0	]
+G	[ 42.0	45.0	55.0	55.0	46.0	53.0	51.0	53.0	52.0	51.0	45.0	52.0	]
+T	[ 68.0	57.0	69.0	55.0	58.0	57.0	70.0	57.0	62.0	61.0	62.0	46.0	]
+Motif #10
+total sequences 215
+A	[ 60.0	58.0	61.0	50.0	60.0	64.0	50.0	51.0	62.0	41.0	64.0	50.0	]
+C	[ 51.0	54.0	53.0	47.0	60.0	42.0	55.0	58.0	44.0	57.0	56.0	46.0	]
+G	[ 47.0	48.0	39.0	56.0	42.0	53.0	62.0	49.0	54.0	57.0	52.0	57.0	]
+T	[ 57.0	55.0	62.0	62.0	53.0	56.0	48.0	57.0	55.0	60.0	43.0	62.0	]
+Motif #11
+total sequences 211
+A	[ 51.0	65.0	58.0	62.0	47.0	58.0	50.0	62.0	50.0	60.0	47.0	55.0	]
+C	[ 54.0	52.0	48.0	39.0	64.0	58.0	51.0	50.0	52.0	47.0	52.0	46.0	]
+G	[ 56.0	41.0	45.0	48.0	51.0	46.0	52.0	45.0	57.0	52.0	48.0	54.0	]
+T	[ 50.0	53.0	60.0	62.0	49.0	49.0	58.0	54.0	52.0	52.0	64.0	56.0	]
+Motif #12
+total sequences 214
+A	[ 52.0	60.0	63.0	68.0	48.0	46.0	49.0	48.0	56.0	62.0	51.0	60.0	]
+C	[ 55.0	57.0	48.0	37.0	57.0	41.0	58.0	45.0	56.0	51.0	50.0	47.0	]
+G	[ 58.0	41.0	50.0	53.0	60.0	58.0	50.0	58.0	53.0	49.0	52.0	50.0	]
+T	[ 49.0	56.0	53.0	56.0	49.0	69.0	57.0	63.0	49.0	52.0	61.0	57.0	]
+Motif #13
+total sequences 213
+A	[ 59.0	45.0	46.0	45.0	50.0	52.0	56.0	50.0	56.0	45.0	59.0	53.0	]
+C	[ 44.0	53.0	54.0	56.0	49.0	48.0	53.0	51.0	56.0	67.0	50.0	51.0	]
+G	[ 58.0	58.0	45.0	51.0	45.0	50.0	51.0	51.0	53.0	44.0	48.0	61.0	]
+T	[ 52.0	57.0	68.0	61.0	69.0	63.0	53.0	61.0	48.0	57.0	56.0	48.0	]
+Motif #14
+total sequences 215
+A	[ 42.0	63.0	56.0	54.0	46.0	51.0	59.0	59.0	64.0	54.0	40.0	67.0	]
+C	[ 61.0	51.0	50.0	61.0	65.0	60.0	48.0	52.0	49.0	46.0	63.0	51.0	]
+G	[ 63.0	45.0	53.0	46.0	43.0	41.0	54.0	48.0	51.0	56.0	54.0	43.0	]
+T	[ 49.0	56.0	56.0	54.0	61.0	63.0	54.0	56.0	51.0	59.0	58.0	54.0	]
+Motif #15
+total sequences 209
+A	[ 63.0	55.0	62.0	57.0	55.0	55.0	51.0	53.0	52.0	54.0	53.0	51.0	]
+C	[ 48.0	41.0	46.0	54.0	45.0	51.0	46.0	47.0	45.0	50.0	61.0	44.0	]
+G	[ 43.0	58.0	52.0	48.0	49.0	55.0	65.0	53.0	51.0	47.0	41.0	53.0	]
+T	[ 55.0	55.0	49.0	50.0	60.0	48.0	47.0	56.0	61.0	58.0	54.0	61.0	]
+Motif #16
+total sequences 220
+A	[ 62.0	53.0	60.0	47.0	59.0	57.0	56.0	52.0	49.0	57.0	61.0	64.0	]
+C	[ 53.0	59.0	58.0	47.0	64.0	59.0	54.0	50.0	57.0	64.0	52.0	51.0	]
+G	[ 52.0	55.0	46.0	54.0	39.0	42.0	46.0	59.0	54.0	50.0	46.0	45.0	]
+T	[ 53.0	53.0	56.0	72.0	58.0	62.0	64.0	59.0	60.0	49.0	61.0	60.0	]
+Motif #17
+total sequences 211
+A	[ 48.0	57.0	58.0	68.0	58.0	44.0	58.0	43.0	60.0	55.0	54.0	53.0	]
+C	[ 58.0	48.0	57.0	42.0	55.0	45.0	41.0	57.0	48.0	45.0	49.0	51.0	]
+G	[ 47.0	47.0	49.0	51.0	51.0	54.0	48.0	46.0	48.0	41.0	54.0	52.0	]
+T	[ 58.0	59.0	47.0	50.0	47.0	68.0	64.0	65.0	55.0	70.0	54.0	55.0	]
+Motif #18
+total sequences 218
+A	[ 55.0	54.0	48.0	50.0	71.0	60.0	61.0	62.0	44.0	55.0	62.0	67.0	]
+C	[ 61.0	53.0	46.0	61.0	47.0	40.0	46.0	44.0	54.0	61.0	44.0	40.0	]
+G	[ 43.0	49.0	58.0	54.0	49.0	46.0	59.0	54.0	66.0	52.0	60.0	51.0	]
+T	[ 59.0	62.0	66.0	53.0	51.0	72.0	52.0	58.0	54.0	50.0	52.0	60.0	]
+Motif #19
+total sequences 221
+A	[ 54.0	64.0	54.0	48.0	64.0	56.0	60.0	70.0	56.0	71.0	61.0	63.0	]
+C	[ 53.0	48.0	61.0	51.0	54.0	69.0	45.0	58.0	63.0	59.0	51.0	56.0	]
+G	[ 57.0	53.0	50.0	52.0	41.0	40.0	60.0	46.0	48.0	41.0	53.0	44.0	]
+T	[ 57.0	56.0	56.0	70.0	62.0	56.0	56.0	47.0	54.0	50.0	56.0	58.0	]
+Motif #20
+total sequences 220
+A	[ 57.0	67.0	63.0	54.0	56.0	59.0	56.0	51.0	56.0	54.0	57.0	55.0	]
+C	[ 54.0	50.0	51.0	63.0	59.0	50.0	55.0	53.0	45.0	54.0	53.0	54.0	]
+G	[ 59.0	59.0	52.0	47.0	49.0	57.0	55.0	55.0	48.0	49.0	58.0	56.0	]
+T	[ 50.0	44.0	54.0	56.0	56.0	54.0	54.0	61.0	71.0	63.0	52.0	55.0	]
+Motif #21
+total sequences 214
+A	[ 56.0	51.0	60.0	63.0	67.0	66.0	52.0	56.0	46.0	53.0	53.0	55.0	]
+C	[ 48.0	57.0	46.0	37.0	47.0	61.0	46.0	42.0	43.0	47.0	51.0	42.0	]
+G	[ 54.0	58.0	57.0	50.0	50.0	44.0	51.0	56.0	65.0	64.0	51.0	61.0	]
+T	[ 56.0	48.0	51.0	64.0	50.0	43.0	65.0	60.0	60.0	50.0	59.0	56.0	]
+Motif #22
+total sequences 220
+A	[ 47.0	69.0	65.0	53.0	69.0	50.0	60.0	72.0	61.0	61.0	66.0	50.0	]
+C	[ 55.0	46.0	44.0	61.0	40.0	53.0	48.0	37.0	54.0	52.0	61.0	59.0	]
+G	[ 61.0	50.0	54.0	52.0	45.0	58.0	54.0	53.0	50.0	56.0	43.0	48.0	]
+T	[ 57.0	55.0	57.0	54.0	66.0	59.0	58.0	58.0	55.0	51.0	50.0	63.0	]
+Motif #23
+total sequences 221
+A	[ 54.0	57.0	46.0	58.0	58.0	65.0	54.0	52.0	62.0	53.0	55.0	69.0	]
+C	[ 49.0	68.0	64.0	45.0	52.0	50.0	57.0	52.0	55.0	55.0	66.0	45.0	]
+G	[ 59.0	42.0	48.0	58.0	59.0	48.0	47.0	58.0	45.0	52.0	45.0	41.0	]
+T	[ 59.0	54.0	63.0	60.0	52.0	58.0	63.0	59.0	59.0	61.0	55.0	66.0	]
+Motif #24
+total sequences 213
+A	[ 49.0	41.0	59.0	56.0	62.0	56.0	57.0	67.0	52.0	57.0	64.0	63.0	]
+C	[ 63.0	63.0	51.0	55.0	56.0	58.0	47.0	48.0	53.0	51.0	54.0	52.0	]
+G	[ 44.0	55.0	45.0	51.0	45.0	52.0	46.0	47.0	60.0	46.0	43.0	46.0	]
+T	[ 57.0	54.0	58.0	51.0	50.0	47.0	63.0	51.0	48.0	59.0	52.0	52.0	]
+Motif #25
+total sequences 217
+A	[ 57.0	48.0	52.0	47.0	58.0	61.0	47.0	48.0	61.0	67.0	56.0	62.0	]
+C	[ 53.0	49.0	56.0	51.0	49.0	42.0	51.0	43.0	47.0	56.0	58.0	49.0	]
+G	[ 54.0	56.0	52.0	53.0	52.0	50.0	60.0	59.0	56.0	38.0	44.0	55.0	]
+T	[ 53.0	64.0	57.0	66.0	58.0	64.0	59.0	67.0	53.0	56.0	59.0	51.0	]
+Motif #26
+total sequences 217
+A	[ 59.0	64.0	47.0	43.0	55.0	66.0	52.0	56.0	48.0	56.0	57.0	59.0	]
+C	[ 48.0	53.0	45.0	59.0	63.0	40.0	52.0	47.0	53.0	57.0	50.0	56.0	]
+G	[ 60.0	54.0	67.0	54.0	49.0	45.0	56.0	43.0	61.0	58.0	50.0	48.0	]
+T	[ 50.0	46.0	58.0	61.0	50.0	66.0	57.0	71.0	55.0	46.0	60.0	54.0	]
+Motif #27
+total sequences 214
+A	[ 50.0	55.0	46.0	55.0	67.0	51.0	66.0	55.0	49.0	55.0	60.0	48.0	]
+C	[ 55.0	50.0	56.0	55.0	47.0	61.0	55.0	61.0	50.0	55.0	44.0	52.0	]
+G	[ 51.0	53.0	56.0	48.0	49.0	46.0	45.0	53.0	49.0	47.0	50.0	60.0	]
+T	[ 58.0	56.0	56.0	56.0	51.0	56.0	48.0	45.0	66.0	57.0	60.0	54.0	]
+Motif #28
+total sequences 214
+A	[ 50.0	56.0	56.0	60.0	58.0	63.0	59.0	60.0	54.0	53.0	49.0	61.0	]
+C	[ 44.0	46.0	62.0	52.0	47.0	52.0	53.0	52.0	62.0	47.0	49.0	47.0	]
+G	[ 56.0	43.0	43.0	44.0	48.0	45.0	59.0	51.0	38.0	47.0	57.0	66.0	]
+T	[ 64.0	69.0	53.0	58.0	61.0	54.0	43.0	51.0	60.0	67.0	59.0	40.0	]
+Motif #29
+total sequences 218
+A	[ 57.0	54.0	56.0	58.0	55.0	65.0	52.0	56.0	56.0	64.0	54.0	59.0	]
+C	[ 49.0	44.0	62.0	56.0	56.0	51.0	62.0	58.0	53.0	52.0	59.0	46.0	]
+G	[ 55.0	66.0	47.0	54.0	50.0	49.0	53.0	45.0	47.0	50.0	54.0	55.0	]
+T	[ 57.0	54.0	53.0	50.0	57.0	53.0	51.0	59.0	62.0	52.0	51.0	58.0	]
+Motif #30
+total sequences 221
+A	[ 58.0	48.0	51.0	54.0	60.0	63.0	44.0	50.0	70.0	63.0	43.0	60.0	]
+C	[ 51.0	63.0	58.0	48.0	59.0	51.0	61.0	55.0	46.0	49.0	55.0	52.0	]
+G	[ 50.0	50.0	42.0	61.0	58.0	42.0	56.0	57.0	54.0	53.0	61.0	51.0	]
+T	[ 62.0	60.0	70.0	58.0	44.0	65.0	60.0	59.0	51.0	56.0	62.0	58.0	]
+Motif #1; total sequences 217; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #2; total sequences 201; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #3; total sequences 217; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #4; total sequences 216; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #5; total sequences 215; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #6; total sequences 219; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #7; total sequences 213; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #8; total sequences 217; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #9; total sequences 220; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #10; total sequences 215; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #11; total sequences 211; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #12; total sequences 214; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #13; total sequences 213; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #14; total sequences 215; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #15; total sequences 209; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #16; total sequences 220; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #17; total sequences 211; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #18; total sequences 218; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #19; total sequences 221; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #20; total sequences 220; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #21; total sequences 214; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #22; total sequences 220; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #23; total sequences 221; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #24; total sequences 213; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #25; total sequences 217; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #26; total sequences 217; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #27; total sequences 214; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #28; total sequences 214; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #29; total sequences 218; NNNNNNNNNNNN / NNNNNNNNNNNN
+Motif #30; total sequences 221; NNNNNNNNNNNN / NNNNNNNNNNNN
+
+Iter 1: Current posterior -1969.937963, best -1969.937963
+
+Number of sequences: 257
+Number of programs: 8
+Number of motifs: 30
+Motif widths: 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 
+Program 2: total 1
+ motif #8: 1 of 1 (0.916667 posterior)
+ motif #11: 1 of 1 (0.916667 posterior)
+ motif #19: 1 of 1 (0.916667 posterior)
+ motif #22: 1 of 1 (0.916667 posterior)
+ motif #23: 1 of 1 (0.916667 posterior)
+ motif #27: 1 of 1 (0.916667 posterior)
+
+Program 3: total 1
+ motif #3: 1 of 1 (0.916667 posterior)
+ motif #4: 1 of 1 (0.916667 posterior)
+ motif #5: 1 of 1 (0.916667 posterior)
+ motif #8: 1 of 1 (0.916667 posterior)
+ motif #9: 1 of 1 (0.916667 posterior)
+ motif #10: 1 of 1 (0.916667 posterior)
+ motif #11: 1 of 1 (0.916667 posterior)
+ motif #12: 1 of 1 (0.916667 posterior)
+ motif #14: 1 of 1 (0.916667 posterior)
+ motif #15: 1 of 1 (0.916667 posterior)
+ motif #16: 1 of 1 (0.916667 posterior)
+ motif #22: 1 of 1 (0.916667 posterior)
+ motif #25: 1 of 1 (0.916667 posterior)
+ motif #27: 1 of 1 (0.916667 posterior)
+ motif #28: 1 of 1 (0.916667 posterior)
+ motif #30: 1 of 1 (0.916667 posterior)
+
+Program 7: total 1
+ motif #2: 1 of 1 (0.916667 posterior)
+ motif #3: 1 of 1 (0.916667 posterior)
+ motif #11: 1 of 1 (0.916667 posterior)
+ motif #12: 1 of 1 (0.916667 posterior)
+ motif #16: 1 of 1 (0.916667 posterior)
+ motif #17: 1 of 1 (0.916667 posterior)
+ motif #20: 1 of 1 (0.916667 posterior)
+ motif #21: 1 of 1 (0.916667 posterior)
+ motif #23: 1 of 1 (0.916667 posterior)
+ motif #25: 1 of 1 (0.916667 posterior)
+ motif #28: 1 of 1 (0.916667 posterior)
+ motif #29: 1 of 1 (0.916667 posterior)
+
+Program 8: total 3
+ motif #3: 3 of 3 (0.968750 posterior)
+ motif #5: 1 of 3 (0.343750 posterior)
+ motif #7: 3 of 3 (0.968750 posterior)
+ motif #16: 2 of 3 (0.656250 posterior)
+ motif #17: 1 of 3 (0.343750 posterior)
+ motif #18: 1 of 3 (0.343750 posterior)
+ motif #20: 1 of 3 (0.343750 posterior)
+ motif #25: 3 of 3 (0.968750 posterior)
+ motif #28: 3 of 3 (0.968750 posterior)
+
+Program 10: total 6
+ motif #3: 2 of 6 (0.338710 posterior)
+ motif #4: 3 of 6 (0.500000 posterior)
+ motif #5: 4 of 6 (0.661290 posterior)
+ motif #7: 2 of 6 (0.338710 posterior)
+ motif #8: 3 of 6 (0.500000 posterior)
+ motif #9: 3 of 6 (0.500000 posterior)
+ motif #11: 2 of 6 (0.338710 posterior)
+ motif #12: 2 of 6 (0.338710 posterior)
+ motif #13: 3 of 6 (0.500000 posterior)
+ motif #14: 1 of 6 (0.177419 posterior)
+ motif #15: 4 of 6 (0.661290 posterior)
+ motif #16: 3 of 6 (0.500000 posterior)
+ motif #17: 1 of 6 (0.177419 posterior)
+ motif #19: 2 of 6 (0.338710 posterior)
+ motif #20: 6 of 6 (0.983871 posterior)
+ motif #21: 1 of 6 (0.177419 posterior)
+ motif #22: 1 of 6 (0.177419 posterior)
+ motif #23: 4 of 6 (0.661290 posterior)
+ motif #24: 6 of 6 (0.983871 posterior)
+ motif #25: 3 of 6 (0.500000 posterior)
+ motif #27: 3 of 6 (0.500000 posterior)
+ motif #28: 4 of 6 (0.661290 posterior)
+ motif #29: 2 of 6 (0.338710 posterior)
+ motif #30: 6 of 6 (0.983871 posterior)
+
+Program 12: total 2
+ motif #5: 1 of 2 (0.500000 posterior)
+ motif #6: 2 of 2 (0.954545 posterior)
+ motif #7: 1 of 2 (0.500000 posterior)
+ motif #9: 1 of 2 (0.500000 posterior)
+ motif #10: 2 of 2 (0.954545 posterior)
+ motif #11: 1 of 2 (0.500000 posterior)
+ motif #12: 1 of 2 (0.500000 posterior)
+ motif #14: 2 of 2 (0.954545 posterior)
+ motif #15: 1 of 2 (0.500000 posterior)
+ motif #16: 1 of 2 (0.500000 posterior)
+ motif #17: 1 of 2 (0.500000 posterior)
+ motif #18: 1 of 2 (0.500000 posterior)
+ motif #19: 1 of 2 (0.500000 posterior)
+ motif #20: 2 of 2 (0.954545 posterior)
+ motif #24: 1 of 2 (0.500000 posterior)
+ motif #25: 2 of 2 (0.954545 posterior)
+ motif #26: 2 of 2 (0.954545 posterior)
+ motif #27: 1 of 2 (0.500000 posterior)
+ motif #28: 2 of 2 (0.954545 posterior)
+ motif #30: 2 of 2 (0.954545 posterior)
+
+Program 13: total 242
+ motif #1: 37 of 242 (0.153179 posterior)
+ motif #2: 23 of 242 (0.095376 posterior)
+ motif #3: 33 of 242 (0.136664 posterior)
+ motif #4: 31 of 242 (0.128406 posterior)
+ motif #5: 40 of 242 (0.165566 posterior)
+ motif #6: 26 of 242 (0.107762 posterior)
+ motif #7: 40 of 242 (0.165566 posterior)
+ motif #8: 44 of 242 (0.182081 posterior)
+ motif #9: 41 of 242 (0.169694 posterior)
+ motif #10: 52 of 242 (0.215111 posterior)
+ motif #11: 45 of 242 (0.186210 posterior)
+ motif #12: 42 of 242 (0.173823 posterior)
+ motif #13: 46 of 242 (0.190339 posterior)
+ motif #14: 52 of 242 (0.215111 posterior)
+ motif #15: 44 of 242 (0.182081 posterior)
+ motif #16: 51 of 242 (0.210983 posterior)
+ motif #17: 53 of 242 (0.219240 posterior)
+ motif #18: 65 of 242 (0.268786 posterior)
+ motif #19: 75 of 242 (0.310074 posterior)
+ motif #20: 68 of 242 (0.281173 posterior)
+ motif #21: 60 of 242 (0.248142 posterior)
+ motif #22: 71 of 242 (0.293559 posterior)
+ motif #23: 86 of 242 (0.355491 posterior)
+ motif #24: 81 of 242 (0.334847 posterior)
+ motif #25: 95 of 242 (0.392651 posterior)
+ motif #26: 97 of 242 (0.400908 posterior)
+ motif #27: 93 of 242 (0.384393 posterior)
+ motif #28: 104 of 242 (0.429810 posterior)
+ motif #29: 115 of 242 (0.475227 posterior)
+ motif #30: 157 of 242 (0.648637 posterior)
+
+Program 14: total 1
+ motif #1: 1 of 1 (0.916667 posterior)
+ motif #6: 1 of 1 (0.916667 posterior)
+ motif #11: 1 of 1 (0.916667 posterior)
+ motif #17: 1 of 1 (0.916667 posterior)
+ motif #19: 1 of 1 (0.916667 posterior)
+ motif #20: 1 of 1 (0.916667 posterior)
+ motif #22: 1 of 1 (0.916667 posterior)
+ motif #25: 1 of 1 (0.916667 posterior)
+ motif #28: 1 of 1 (0.916667 posterior)
+ motif #30: 1 of 1 (0.916667 posterior)
+
+Motif #1; total sequences 38; NNNNNNNNNNNNNN / NNNNNNNNNNNNNN
+Motif #2; total sequences 24; NNNNNNNNNNNNNN / NNNNNNNNNNNNNN
+Motif #3; total sequences 40; NNNNNNNNNNNNNa / tNNNNNNNNNNNNN
+Motif #4; total sequences 35; NNNNNNNNaNNNNN / NNNNNtNNNNNNNN
+Motif #5; total sequences 47; NNNNNNNNNNNNNN / NNNNNNNNNNNNNN
+Motif #6; total sequences 29; NgNNNNNNNNNNNN / NNNNNNNNNNNNcN
+Motif #7; total sequences 46; NNNNNNNNNNgNNN / NNNcNNNNNNNNNN
+Motif #8; total sequences 49; NNNNNNNNNNNcNN / NNgNNNNNNNNNNN
+Motif #9; total sequences 46; NNNNNNNNNNNNNN / NNNNNNNNNNNNNN
+Motif #10; total sequences 55; NNNNNNNNNNNNNN / NNNNNNNNNNNNNN
+Motif #11; total sequences 52; NNNNNNNNNNNNNN / NNNNNNNNNNNNNN
+Motif #12; total sequences 47; NNaNNNNNNNNNNN / NNNNNNNNNNNtNN
+Motif #13; total sequences 49; NgNNNNNNNNNNNN / NNNNNNNNNNNNcN
+Motif #14; total sequences 56; NNNNNNNNNctNNN / NNNagNNNNNNNNN
+Motif #15; total sequences 50; NNNNNNNNNNNNNN / NNNNNNNNNNNNNN
+Motif #16; total sequences 59; NNNNNNNNNNNNNN / NNNNNNNNNNNNNN
+Motif #17; total sequences 58; NNNNaNgaNNNNNN / NNNNNNtcNtNNNN
+Motif #18; total sequences 67; NNNNNNNNNNNNNN / NNNNNNNNNNNNNN
+Motif #19; total sequences 80; NNNNNNNNNNNNNN / NNNNNNNNNNNNNN
+Motif #20; total sequences 79; NNNNNNNNNNNNNN / NNNNNNNNNNNNNN
+Motif #21; total sequences 62; NNNNNNNNNaNNNN / NNNNtNNNNNNNNN
+Motif #22; total sequences 75; NNNNNNNaNNNNNN / NNNNNNtNNNNNNN
+Motif #23; total sequences 92; NNNNNNNNNNNNNN / NNNNNNNNNNNNNN
+Motif #24; total sequences 88; NNNNNNNNNNNNNN / NNNNNNNNNNNNNN
+Motif #25; total sequences 106; NNNNNNNNNNNNNN / NNNNNNNNNNNNNN
+Motif #26; total sequences 99; NNNNNNNNNNNNNN / NNNNNNNNNNNNNN
+Motif #27; total sequences 99; NNNNNaNNNNNNNN / NNNNNNNNtNNNNN
+Motif #28; total sequences 116; NNNNNNNNNNNNNN / NNNNNNNNNNNNNN
+Motif #29; total sequences 118; NNNNNNNNNNNNNN / NNNNNNNNNNNNNN
+Motif #30; total sequences 167; NNNNNNNNNNNNNN / NNNNNNNNNNNNNN
+.
+Iter 2: Current posterior 475.050082, best 476.532962
+
+Number of sequences: 257
+Number of programs: 4
+Number of motifs: 30
+Motif widths: 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 
+Program 8: total 1
+ motif #3: 1 of 1 (0.916667 posterior)
+ motif #7: 1 of 1 (0.916667 posterior)
+ motif #16: 1 of 1 (0.916667 posterior)
+ motif #20: 1 of 1 (0.916667 posterior)
+ motif #28: 1 of 1 (0.916667 posterior)
+
+Program 10: total 3
+ motif #4: 1 of 3 (0.343750 posterior)
+ motif #8: 3 of 3 (0.968750 posterior)
+ motif #11: 1 of 3 (0.343750 posterior)
+ motif #13: 3 of 3 (0.968750 posterior)
+ motif #16: 3 of 3 (0.968750 posterior)
+ motif #20: 3 of 3 (0.968750 posterior)
+ motif #24: 3 of 3 (0.968750 posterior)
+ motif #27: 1 of 3 (0.343750 posterior)
+ motif #28: 1 of 3 (0.343750 posterior)
+ motif #30: 3 of 3 (0.968750 posterior)
+
+Program 12: total 2
+ motif #6: 2 of 2 (0.954545 posterior)
+ motif #10: 2 of 2 (0.954545 posterior)
+ motif #12: 1 of 2 (0.500000 posterior)
+ motif #16: 1 of 2 (0.500000 posterior)
+ motif #18: 2 of 2 (0.954545 posterior)
+ motif #20: 2 of 2 (0.954545 posterior)
+ motif #25: 2 of 2 (0.954545 posterior)
+ motif #26: 2 of 2 (0.954545 posterior)
+ motif #28: 2 of 2 (0.954545 posterior)
+ motif #30: 2 of 2 (0.954545 posterior)
+
+Program 13: total 251
+ motif #1: 11 of 251 (0.044188 posterior)
+ motif #2: 10 of 251 (0.040207 posterior)
+ motif #3: 9 of 251 (0.036226 posterior)
+ motif #4: 24 of 251 (0.095939 posterior)
+ motif #5: 15 of 251 (0.060111 posterior)
+ motif #6: 10 of 251 (0.040207 posterior)
+ motif #7: 13 of 251 (0.052150 posterior)
+ motif #8: 5 of 251 (0.020303 posterior)
+ motif #9: 20 of 251 (0.080016 posterior)
+ motif #10: 21 of 251 (0.083997 posterior)
+ motif #11: 7 of 251 (0.028264 posterior)
+ motif #12: 23 of 251 (0.091959 posterior)
+ motif #13: 14 of 251 (0.056131 posterior)
+ motif #14: 15 of 251 (0.060111 posterior)
+ motif #15: 21 of 251 (0.083997 posterior)
+ motif #16: 23 of 251 (0.091959 posterior)
+ motif #17: 14 of 251 (0.056131 posterior)
+ motif #18: 26 of 251 (0.103901 posterior)
+ motif #19: 26 of 251 (0.103901 posterior)
+ motif #20: 28 of 251 (0.111863 posterior)
+ motif #21: 30 of 251 (0.119825 posterior)
+ motif #22: 31 of 251 (0.123806 posterior)
+ motif #23: 42 of 251 (0.167596 posterior)
+ motif #24: 55 of 251 (0.219347 posterior)
+ motif #25: 38 of 251 (0.151672 posterior)
+ motif #26: 42 of 251 (0.167596 posterior)
+ motif #27: 48 of 251 (0.191481 posterior)
+ motif #28: 64 of 251 (0.255175 posterior)
+ motif #29: 85 of 251 (0.338774 posterior)
+ motif #30: 136 of 251 (0.541799 posterior)
+
+Motif #1; total sequences 11; NNcNttNNNcaNNc / gNNtgNNNaaNgNN
+Motif #2; total sequences 10; NNNNattNaNaNgt / acNtNtNaatNNNN
+Motif #3; total sequences 10; NNNNatgNNgagcN / NgctcNNcatNNNN
+Motif #4; total sequences 25; cNtNtNtNNcNaNN / NNtNgNNaNaNaNg
+Motif #5; total sequences 15; NaNtctNtNNtaat / attaNNaNagaNtN
+Motif #6; total sequences 12; aStaNNNNNANNNN / NNNNTNNNNNtaSt
+Motif #7; total sequences 14; aNaNNNccaagNNN / NNNcttggNNNtNt
+Motif #8; total sequences 8; tNNNNNNgNNtcNN / NNgaNNcNNNNNNa
+Motif #9; total sequences 20; NNaNNNNNNaNtNc / gNaNtNNNNNNtNN
+Motif #10; total sequences 23; NaNNtNgNNNNNat / atNNNNNcNaNNtN
+Motif #11; total sequences 8; NNNNgNNatNNNNN / NNNNNatNNcNNNN
+Motif #12; total sequences 24; NNaaNNNNNaaNgN / NcNttNNNNNttNN
+Motif #13; total sequences 17; aNNNcNNtgtcctN / NaggacaNNgNNNt
+Motif #14; total sequences 15; aNNNNctNactNag / ctNagtNagNNNNt
+Motif #15; total sequences 21; NtNNNNagtttNNN / NNNaaactNNNNaN
+Motif #16; total sequences 28; NNNNNNNNNNNNNt / aNNNNNNNNNNNNN
+Motif #17; total sequences 14; gctNNaGNNNNtgT / AcaNNNNCtNNagc
+Motif #18; total sequences 28; NNNgNNNNagNNaN / NtNNctNNNNcNNN
+Motif #19; total sequences 26; NtNNNtNaNNNNNN / NNNNNNtNaNNNaN
+Motif #20; total sequences 34; NNggNggNNNNNNN / NNNNNNNccNccNN
+Motif #21; total sequences 30; NtaNNNNNNNNtNN / NNaNNNNNNNNtaN
+Motif #22; total sequences 31; NNNaNNcAtNNNNa / tNNNNaTgNNtNNN
+Motif #23; total sequences 42; NNNNNgaNNNNNaN / NtNNNNNtcNNNNN
+Motif #24; total sequences 58; NNNNaNNNNaNNNN / NNNNtNNNNtNNNN
+Motif #25; total sequences 40; NNNgNNNNNNNNaN / NtNNNNNNNNcNNN
+Motif #26; total sequences 44; NNNNNNgNNNNNNN / NNNNNNNcNNNNNN
+Motif #27; total sequences 49; NNtNNaNNNtNtNN / NNaNaNNNtNNaNN
+Motif #28; total sequences 68; NNNNNNNNNcNtNN / NNaNgNNNNNNNNN
+Motif #29; total sequences 85; gtNNaNNNNNNNNt / aNNNNNNNNtNNac
+Motif #30; total sequences 141; NNNNNNNNNNNNNN / NNNNNNNNNNNNNN
+.
+Iter 3: Current posterior 1323.060352, best 1346.496679
+
+Number of sequences: 257
+Number of programs: 4
+Number of motifs: 29
+Motif widths: 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 
+Program 10: total 2
+ motif #8: 2 of 2 (0.954545 posterior)
+ motif #11: 1 of 2 (0.500000 posterior)
+ motif #13: 2 of 2 (0.954545 posterior)
+ motif #14: 1 of 2 (0.500000 posterior)
+ motif #16: 2 of 2 (0.954545 posterior)
+ motif #20: 1 of 2 (0.500000 posterior)
+ motif #24: 2 of 2 (0.954545 posterior)
+ motif #25: 1 of 2 (0.500000 posterior)
+ motif #27: 1 of 2 (0.500000 posterior)
+ motif #28: 2 of 2 (0.954545 posterior)
+ motif #29: 1 of 2 (0.500000 posterior)
+ motif #30: 2 of 2 (0.954545 posterior)
+
+Program 12: total 2
+ motif #6: 2 of 2 (0.954545 posterior)
+ motif #10: 1 of 2 (0.500000 posterior)
+ motif #17: 1 of 2 (0.500000 posterior)
+ motif #18: 2 of 2 (0.954545 posterior)
+ motif #20: 2 of 2 (0.954545 posterior)
+ motif #23: 1 of 2 (0.500000 posterior)
+ motif #25: 2 of 2 (0.954545 posterior)
+ motif #26: 2 of 2 (0.954545 posterior)
+ motif #28: 2 of 2 (0.954545 posterior)
+ motif #29: 1 of 2 (0.500000 posterior)
+
+Program 13: total 252
+ motif #2: 2 of 252 (0.008327 posterior)
+ motif #3: 6 of 252 (0.024187 posterior)
+ motif #4: 19 of 252 (0.075734 posterior)
+ motif #5: 4 of 252 (0.016257 posterior)
+ motif #6: 1 of 252 (0.004362 posterior)
+ motif #7: 9 of 252 (0.036082 posterior)
+ motif #8: 1 of 252 (0.004362 posterior)
+ motif #9: 11 of 252 (0.044013 posterior)
+ motif #10: 6 of 252 (0.024187 posterior)
+ motif #11: 3 of 252 (0.012292 posterior)
+ motif #12: 9 of 252 (0.036082 posterior)
+ motif #13: 7 of 252 (0.028152 posterior)
+ motif #14: 6 of 252 (0.024187 posterior)
+ motif #15: 15 of 252 (0.059873 posterior)
+ motif #16: 17 of 252 (0.067803 posterior)
+ motif #17: 5 of 252 (0.020222 posterior)
+ motif #18: 18 of 252 (0.071768 posterior)
+ motif #19: 10 of 252 (0.040048 posterior)
+ motif #20: 23 of 252 (0.091594 posterior)
+ motif #21: 14 of 252 (0.055908 posterior)
+ motif #22: 12 of 252 (0.047978 posterior)
+ motif #23: 20 of 252 (0.079699 posterior)
+ motif #24: 35 of 252 (0.139175 posterior)
+ motif #25: 19 of 252 (0.075734 posterior)
+ motif #26: 21 of 252 (0.083664 posterior)
+ motif #27: 21 of 252 (0.083664 posterior)
+ motif #28: 45 of 252 (0.178826 posterior)
+ motif #29: 39 of 252 (0.155036 posterior)
+ motif #30: 98 of 252 (0.388977 posterior)
+
+Program 14: total 1
+ motif #12: 1 of 1 (0.916667 posterior)
+ motif #13: 1 of 1 (0.916667 posterior)
+ motif #19: 1 of 1 (0.916667 posterior)
+ motif #24: 1 of 1 (0.916667 posterior)
+ motif #29: 1 of 1 (0.916667 posterior)
+ motif #30: 1 of 1 (0.916667 posterior)
+
+Motif #2; total sequences 2; WGCCAWTGAGWMKK / MMKWCTCAWTGGCW
+Motif #3; total sequences 6; TgNgNtGNagAtNW / WNaTctNCaNcNcA
+Motif #4; total sequences 19; CNtattTNcctANN / NNTaggNAaataNG
+Motif #5; total sequences 4; gaKNaAatSStAAT / ATTaSSatTtNMtc
+Motif #6; total sequences 3; GctaANNaaANAgc / gcTNTttNNTtagC
+Motif #7; total sequences 9; tNNNcNcNaNggNc / gNccNtNgNgNNNa
+Motif #8; total sequences 3; TaGcNgGGAtTCta / taGAaTCCcNgCtA
+Motif #9; total sequences 11; tNactNtcNaaNtN / NaNttNgaNagtNa
+Motif #10; total sequences 7; gggttNGagNtCAT / ATGaNctCNaaccc
+Motif #11; total sequences 4; NGgtKagCtNgaca / tgtcNaGctMacCN
+Motif #12; total sequences 10; NNaNNaCaaaANgt / acNTtttGtNNtNN
+Motif #13; total sequences 10; NctNCctNGtCcTG / CAgGaCNagGNagN
+Motif #14; total sequences 7; AgNNgNcaACttac / gtaaGTtgNcNNcT
+Motif #15; total sequences 15; NcNNacNctTNtNN / NNaNAagNgtNNgN
+Motif #16; total sequences 19; NtNNNNtNcCtctt / aagaGgNaNNNNaN
+Motif #17; total sequences 6; NMtNCTGaNNtNgT / AcNaNNtCAGNaKN
+Motif #18; total sequences 20; gNtNNNtaaNggAg / cTccNttaNNNaNc
+Motif #19; total sequences 11; NNaacttattNtct / agaNaataagttNN
+Motif #20; total sequences 26; tgNNtgggNNttNg / cNaaNNcccaNNca
+Motif #21; total sequences 14; gNaatNtgNMaTcN / NgAtKNcaNattNc
+Motif #22; total sequences 12; tGNagtgAWaNNNA / TNNNtWTcactNCa
+Motif #23; total sequences 21; NcacNGaNtNtNac / gtNaNaNtCNgtgN
+Motif #24; total sequences 38; NcaNaNNNNtNNNN / NNNNaNNNNtNtgN
+Motif #25; total sequences 22; NWtgNNNNNNNNaN / NtNNNNNNNNcaWN
+Motif #26; total sequences 23; aNcNaKRNNNNtNt / aNaNNNNYMtNgNt
+Motif #27; total sequences 22; NatcNaNNNtttNN / NNaaaNNNtNgatN
+Motif #28; total sequences 49; aNNcaNNgNcttNN / NNaagNcNNtgNNt
+Motif #29; total sequences 42; gtaNNNNNNNgNNt / aNNcNNNNNNNtac
+Motif #30; total sequences 101; taNNNctNNNNNNt / aNNNNNNagNNNta
+.
+Iter 4: Current posterior 1943.768745, best 1943.768745
+
+Number of sequences: 257
+Number of programs: 4
+Number of motifs: 27
+Motif widths: 14 14 14 14 14 14 14 12 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 
+Program 3: total 1
+ motif #11: 1 of 1 (0.916667 posterior)
+ motif #12: 1 of 1 (0.916667 posterior)
+ motif #18: 1 of 1 (0.916667 posterior)
+ motif #22: 1 of 1 (0.916667 posterior)
+ motif #24: 1 of 1 (0.916667 posterior)
+ motif #27: 1 of 1 (0.916667 posterior)
+ motif #29: 1 of 1 (0.916667 posterior)
+
+Program 10: total 1
+ motif #8: 1 of 1 (0.916667 posterior)
+ motif #19: 1 of 1 (0.916667 posterior)
+ motif #25: 1 of 1 (0.916667 posterior)
+ motif #27: 1 of 1 (0.916667 posterior)
+ motif #28: 1 of 1 (0.916667 posterior)
+ motif #29: 1 of 1 (0.916667 posterior)
+ motif #30: 1 of 1 (0.916667 posterior)
+
+Program 12: total 1
+ motif #6: 1 of 1 (0.916667 posterior)
+ motif #17: 1 of 1 (0.916667 posterior)
+ motif #18: 1 of 1 (0.916667 posterior)
+ motif #20: 1 of 1 (0.916667 posterior)
+ motif #25: 1 of 1 (0.916667 posterior)
+ motif #26: 1 of 1 (0.916667 posterior)
+ motif #28: 1 of 1 (0.916667 posterior)
+ motif #29: 1 of 1 (0.916667 posterior)
+
+Program 13: total 254
+ motif #3: 2 of 254 (0.008261 posterior)
+ motif #4: 18 of 254 (0.071204 posterior)
+ motif #7: 2 of 254 (0.008261 posterior)
+ motif #9: 7 of 254 (0.027931 posterior)
+ motif #10: 3 of 254 (0.012195 posterior)
+ motif #13: 6 of 254 (0.023997 posterior)
+ motif #14: 5 of 254 (0.020063 posterior)
+ motif #15: 3 of 254 (0.012195 posterior)
+ motif #16: 13 of 254 (0.051534 posterior)
+ motif #17: 7 of 254 (0.027931 posterior)
+ motif #18: 22 of 254 (0.086939 posterior)
+ motif #19: 11 of 254 (0.043666 posterior)
+ motif #20: 21 of 254 (0.083006 posterior)
+ motif #21: 13 of 254 (0.051534 posterior)
+ motif #22: 15 of 254 (0.059402 posterior)
+ motif #23: 28 of 254 (0.110543 posterior)
+ motif #24: 31 of 254 (0.122345 posterior)
+ motif #25: 27 of 254 (0.106609 posterior)
+ motif #26: 44 of 254 (0.173485 posterior)
+ motif #27: 23 of 254 (0.090873 posterior)
+ motif #28: 57 of 254 (0.224626 posterior)
+ motif #29: 52 of 254 (0.204957 posterior)
+ motif #30: 88 of 254 (0.346577 posterior)
+
+Motif #3; total sequences 2; TGAKAYGKWRAYMW / WKRTYWMCRTMTCA
+Motif #4; total sequences 18; cNtatYTccaNAtN / NaTNtggARataNg
+Motif #6; total sequences 1; actgactagacatc / gatgtctagtcagt
+Motif #7; total sequences 2; AWRYCYCMAARGRY / RYCYTTKGRGRYWT
+Motif #8; total sequences 1; tagcctagattttg / caaaatctaggcta
+Motif #9; total sequences 7; TtAtCaNaNNAtct / agaTNNtNtGaTaA
+Motif #10; total sequences 3; GGGggtGGgGaCaT / AtGtCcCCaccCCC
+Motif #11; total sequences 1; ggcagcgccctc / gagggcgctgcc
+Motif #12; total sequences 1; tcactacaccatct / agatggtgtagtga
+Motif #13; total sequences 6; aCTTccNTGtCCTg / cAGGaCANggAAGt
+Motif #14; total sequences 5; NttNGgcANCTgtT / AacAGNTgcCNaaN
+Motif #15; total sequences 3; aCaNCcaNTTaTGc / gCAtAANtgGNtGt
+Motif #16; total sequences 13; NtcSgtTttCtttT / AaaaGaaAacSgaN
+Motif #17; total sequences 8; NaTNCTGANNNatT / AatNNNTCAGNAtN
+Motif #18; total sequences 24; KRtNNNtNaaagAa / tTctttNaNNNaYM
+Motif #19; total sequences 12; NTRNCAaaatGNct / agNCatttTGNYAN
+Motif #20; total sequences 22; tgNgTGgNNgtTgg / ccAacNNcCAcNca
+Motif #21; total sequences 13; gggNttTggAtTtN / NaAaTccAaaNccc
+Motif #22; total sequences 16; tGNaSNcAtaggaA / TtcctaTgNStNCa
+Motif #23; total sequences 28; NcAcaGMNNNNgac / gtcNNNNKCtgTgN
+Motif #24; total sequences 32; NcaNagNcNtNtNN / NNaNaNgNctNtgN
+Motif #25; total sequences 29; gNggcNgctNagtN / NactNagcNgccNc
+Motif #26; total sequences 45; atcNaNaNNNNtNa / tNaNNNNtNtNgat
+Motif #27; total sequences 25; aNKCaNNNgttTNt / aNAaacNNNtGMNt
+Motif #28; total sequences 59; aNNcNNtgNcttNN / NNaagNcaNNgNNt
+Motif #29; total sequences 55; gtRNNNaNRNNNat / atNNNYNtNNNYac
+Motif #30; total sequences 89; taNaaNtNNNaNNN / NNNtNNNaNttNta
+.
+Iter 5: Current posterior 2221.218698, best 2321.427718
+
+Number of sequences: 257
+Number of programs: 7
+Number of motifs: 27
+Motif widths: 12 14 12 12 12 14 14 12 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 
+Program 3: total 1
+ motif #11: 1 of 1 (0.916667 posterior)
+ motif #12: 1 of 1 (0.916667 posterior)
+ motif #18: 1 of 1 (0.916667 posterior)
+ motif #22: 1 of 1 (0.916667 posterior)
+ motif #24: 1 of 1 (0.916667 posterior)
+ motif #27: 1 of 1 (0.916667 posterior)
+ motif #29: 1 of 1 (0.916667 posterior)
+
+Program 4: total 1
+ motif #8: 1 of 1 (0.916667 posterior)
+ motif #12: 1 of 1 (0.916667 posterior)
+ motif #13: 1 of 1 (0.916667 posterior)
+ motif #19: 1 of 1 (0.916667 posterior)
+ motif #23: 1 of 1 (0.916667 posterior)
+ motif #24: 1 of 1 (0.916667 posterior)
+ motif #26: 1 of 1 (0.916667 posterior)
+ motif #30: 1 of 1 (0.916667 posterior)
+
+Program 5: total 1
+ motif #5: 1 of 1 (0.916667 posterior)
+ motif #6: 1 of 1 (0.916667 posterior)
+ motif #8: 1 of 1 (0.916667 posterior)
+ motif #10: 1 of 1 (0.916667 posterior)
+ motif #27: 1 of 1 (0.916667 posterior)
+ motif #28: 1 of 1 (0.916667 posterior)
+
+Program 10: total 1
+ motif #9: 1 of 1 (0.916667 posterior)
+ motif #25: 1 of 1 (0.916667 posterior)
+ motif #27: 1 of 1 (0.916667 posterior)
+ motif #28: 1 of 1 (0.916667 posterior)
+ motif #29: 1 of 1 (0.916667 posterior)
+ motif #30: 1 of 1 (0.916667 posterior)
+
+Program 11: total 1
+ motif #1: 1 of 1 (0.916667 posterior)
+ motif #4: 1 of 1 (0.916667 posterior)
+ motif #11: 1 of 1 (0.916667 posterior)
+ motif #14: 1 of 1 (0.916667 posterior)
+ motif #17: 1 of 1 (0.916667 posterior)
+ motif #18: 1 of 1 (0.916667 posterior)
+ motif #20: 1 of 1 (0.916667 posterior)
+ motif #21: 1 of 1 (0.916667 posterior)
+ motif #30: 1 of 1 (0.916667 posterior)
+
+Program 12: total 1
+ motif #25: 1 of 1 (0.916667 posterior)
+ motif #27: 1 of 1 (0.916667 posterior)
+ motif #28: 1 of 1 (0.916667 posterior)
+ motif #29: 1 of 1 (0.916667 posterior)
+ motif #30: 1 of 1 (0.916667 posterior)
+
+Program 13: total 251
+ motif #4: 13 of 251 (0.052150 posterior)
+ motif #9: 9 of 251 (0.036226 posterior)
+ motif #10: 4 of 251 (0.016322 posterior)
+ motif #13: 7 of 251 (0.028264 posterior)
+ motif #14: 1 of 251 (0.004379 posterior)
+ motif #15: 1 of 251 (0.004379 posterior)
+ motif #16: 14 of 251 (0.056131 posterior)
+ motif #17: 3 of 251 (0.012341 posterior)
+ motif #18: 20 of 251 (0.080016 posterior)
+ motif #19: 7 of 251 (0.028264 posterior)
+ motif #20: 20 of 251 (0.080016 posterior)
+ motif #21: 4 of 251 (0.016322 posterior)
+ motif #22: 18 of 251 (0.072054 posterior)
+ motif #23: 27 of 251 (0.107882 posterior)
+ motif #24: 28 of 251 (0.111863 posterior)
+ motif #25: 29 of 251 (0.115844 posterior)
+ motif #26: 38 of 251 (0.151672 posterior)
+ motif #27: 20 of 251 (0.080016 posterior)
+ motif #28: 69 of 251 (0.275080 posterior)
+ motif #29: 52 of 251 (0.207404 posterior)
+ motif #30: 100 of 251 (0.398487 posterior)
+
+Motif #1; total sequences 1; ggggaatgtcac / gtgacattcccc
+Motif #4; total sequences 14; cNWAtcTccatAtN / NaTatggAgaTWNg
+Motif #5; total sequences 1; caaatgacctgc / gcaggtcatttg
+Motif #6; total sequences 1; agccagaccgac / gtcggtctggct
+Motif #8; total sequences 2; YWTSTGGCCCSA / TSGGGCCASAWR
+Motif #9; total sequences 10; TTAtcNNcNNAKca / tgMTNNgNNgaTAA
+Motif #10; total sequences 5; GgGgggGGggaCgt / acGtccCCcccCcC
+Motif #11; total sequences 2; SGCAGMGCCCTC / GAGGGCKCTGCS
+Motif #12; total sequences 2; TCAYTWCASCATCT / AGATGSTGWARTGA
+Motif #13; total sequences 8; ACTTccNTGtCCTg / cAGGaCANggAAGT
+Motif #14; total sequences 2; YTTWRGMARCTKYT / ARMAGYTKCYWAAR
+Motif #15; total sequences 1; tcaccgacttatgc / gcataagtcggtga
+Motif #16; total sequences 14; YtcNgtTtcCTttT / AaaAGgaAacNgaR
+Motif #17; total sequences 4; gMTaCTGAtNaWTT / AAWtNaTCAGtAKc
+Motif #18; total sequences 22; KattNNTMAaRgAa / tTcYtTKANNaatM
+Motif #19; total sequences 8; atgNCAaaaTGtST / ASaCAtttTGNcat
+Motif #20; total sequences 21; tcNgTGGNNgttgc / gcaacNNCCAcNga
+Motif #21; total sequences 5; ttaNctTgaaTTct / agAAttcAagNtaa
+Motif #22; total sequences 19; aGNagNcAtaggAA / TTcctaTgNctNCt
+Motif #23; total sequences 28; NNAcaGaNNNNgAC / GTcNNNNtCtgTNN
+Motif #24; total sequences 30; NCatagNcatNtcN / NgaNatgNctatGN
+Motif #25; total sequences 31; gNgGcNGctgagtN / NactcagCNgCcNc
+Motif #26; total sequences 39; atcNaNaaNtNtaa / ttaNaNttNtNgat
+Motif #27; total sequences 24; actCaNNNNtTTNt / aNAAaNNNNtGagt
+Motif #28; total sequences 72; aNNcNNtgNcttNN / NNaagNcaNNgNNt
+Motif #29; total sequences 55; gtgNNNaNggKNat / atNMccNtNNNcac
+Motif #30; total sequences 104; taNaattNNNaNta / taNtNNNaattNta
+.
+Iter 6: Current posterior 2364.374509, best 2378.397529
+
+Number of sequences: 257
+Number of programs: 6
+Number of motifs: 29
+Motif widths: 12 12 12 14 12 12 12 14 14 12 14 14 14 12 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 
+Program 1: total 1
+ motif #3: 1 of 1 (0.916667 posterior)
+ motif #6: 1 of 1 (0.916667 posterior)
+ motif #16: 1 of 1 (0.916667 posterior)
+ motif #19: 1 of 1 (0.916667 posterior)
+ motif #22: 1 of 1 (0.916667 posterior)
+ motif #23: 1 of 1 (0.916667 posterior)
+ motif #24: 1 of 1 (0.916667 posterior)
+ motif #29: 1 of 1 (0.916667 posterior)
+ motif #30: 1 of 1 (0.916667 posterior)
+
+Program 2: total 1
+ motif #1: 1 of 1 (0.916667 posterior)
+ motif #2: 1 of 1 (0.916667 posterior)
+ motif #11: 1 of 1 (0.916667 posterior)
+ motif #12: 1 of 1 (0.916667 posterior)
+ motif #15: 1 of 1 (0.916667 posterior)
+ motif #17: 1 of 1 (0.916667 posterior)
+ motif #26: 1 of 1 (0.916667 posterior)
+ motif #27: 1 of 1 (0.916667 posterior)
+ motif #28: 1 of 1 (0.916667 posterior)
+ motif #30: 1 of 1 (0.916667 posterior)
+
+Program 4: total 1
+ motif #6: 1 of 1 (0.916667 posterior)
+ motif #11: 1 of 1 (0.916667 posterior)
+ motif #12: 1 of 1 (0.916667 posterior)
+ motif #18: 1 of 1 (0.916667 posterior)
+ motif #19: 1 of 1 (0.916667 posterior)
+ motif #22: 1 of 1 (0.916667 posterior)
+ motif #26: 1 of 1 (0.916667 posterior)
+
+Program 12: total 1
+ motif #1: 1 of 1 (0.916667 posterior)
+ motif #3: 1 of 1 (0.916667 posterior)
+ motif #11: 1 of 1 (0.916667 posterior)
+ motif #14: 1 of 1 (0.916667 posterior)
+ motif #17: 1 of 1 (0.916667 posterior)
+ motif #19: 1 of 1 (0.916667 posterior)
+ motif #20: 1 of 1 (0.916667 posterior)
+ motif #26: 1 of 1 (0.916667 posterior)
+ motif #28: 1 of 1 (0.916667 posterior)
+ motif #29: 1 of 1 (0.916667 posterior)
+
+Program 13: total 252
+ motif #4: 2 of 252 (0.008327 posterior)
+ motif #8: 1 of 252 (0.004362 posterior)
+ motif #9: 4 of 252 (0.016257 posterior)
+ motif #10: 8 of 252 (0.032117 posterior)
+ motif #12: 1 of 252 (0.004362 posterior)
+ motif #13: 7 of 252 (0.028152 posterior)
+ motif #14: 2 of 252 (0.008327 posterior)
+ motif #16: 22 of 252 (0.087629 posterior)
+ motif #17: 2 of 252 (0.008327 posterior)
+ motif #18: 11 of 252 (0.044013 posterior)
+ motif #20: 22 of 252 (0.087629 posterior)
+ motif #21: 2 of 252 (0.008327 posterior)
+ motif #22: 13 of 252 (0.051943 posterior)
+ motif #23: 29 of 252 (0.115385 posterior)
+ motif #24: 19 of 252 (0.075734 posterior)
+ motif #25: 19 of 252 (0.075734 posterior)
+ motif #26: 23 of 252 (0.091594 posterior)
+ motif #27: 17 of 252 (0.067803 posterior)
+ motif #28: 53 of 252 (0.210547 posterior)
+ motif #29: 50 of 252 (0.198652 posterior)
+ motif #30: 71 of 252 (0.281919 posterior)
+
+Program 14: total 1
+ motif #5: 1 of 1 (0.916667 posterior)
+ motif #12: 1 of 1 (0.916667 posterior)
+ motif #13: 1 of 1 (0.916667 posterior)
+ motif #22: 1 of 1 (0.916667 posterior)
+ motif #24: 1 of 1 (0.916667 posterior)
+ motif #27: 1 of 1 (0.916667 posterior)
+
+Motif #1; total sequences 2; GKGGMATRTCAC / GTGAYATKCCMC
+Motif #2; total sequences 1; cccactggcacc / ggtgccagtggg
+Motif #3; total sequences 2; TWCWKWCATTCA / TGAATGWMWGWA
+Motif #4; total sequences 2; CCCACMTCCTTMAY / RTKAAGGAKGTGGG
+Motif #5; total sequences 1; agaatgacctca / tgaggtcattct
+Motif #6; total sequences 2; AGAAAYMACWAK / MTWGTKRTTTCT
+Motif #8; total sequences 1; actctaaatctg / cagatttagagt
+Motif #9; total sequences 4; tTATCTCCaNATCa / tGATNtGGAGATAa
+Motif #10; total sequences 8; GGGSGgGGggNCRK / MYGNccCCcCSCCC
+Motif #11; total sequences 3; NGCAGagCCCTC / GAGGGctCTGCN
+Motif #12; total sequences 4; tYAcTtCAcCaTcY / RgAtGgTGaAgTRa
+Motif #13; total sequences 8; ACTTcccTGtccTR / YAggaCAgggAAGT
+Motif #14; total sequences 3; GgaTGCccgtgcAc / gTgcacggGCAtcC
+Motif #15; total sequences 1; tatcgtagtcct / aggactacgata
+Motif #16; total sequences 23; TtccNtTTccTGtT / AaCAggAAaNggaA
+Motif #17; total sequences 4; GcTaCtGANAatWT / AWatTNTCaGtAgC
+Motif #18; total sequences 12; tgTtacTcAaRNaA / TtNYtTgAgtaAca
+Motif #19; total sequences 3; tAGaCAAAacATtT / AaATgtTTTGtCTa
+Motif #20; total sequences 23; tcNGTGgNNgNTGg / cCANcNNcCACNga
+Motif #21; total sequences 2; TMAGTTKCAMTTCT / AGAAKTGMAACTKA
+Motif #22; total sequences 16; aggacacAtNgGAA / TTCcNaTgtgtcct
+Motif #23; total sequences 30; NaaNaGaNNNagAC / GTctNNNtCtNttN
+Motif #24; total sequences 21; gCatAgacatNtcN / NgaNatgtcTatGc
+Motif #25; total sequences 19; gaggcNGCtgaGaN / NtCtcaGCNgcctc
+Motif #26; total sequences 26; aTcWNNataWNNaN / NtNNWtatNNWgAt
+Motif #27; total sequences 19; actCAaaNNtTTNt / aNAAaNNttTGagt
+Motif #28; total sequences 55; atNNNNtgNcttcN / NgaagNcaNNNNat
+Motif #29; total sequences 52; gtgNWgNNagNNat / atNNctNNcWNcac
+Motif #30; total sequences 73; tgNNNttNNNtatt / aataNNNaaNNNca
+.......
+Iter 13: Current posterior 2581.356215, best 2581.356215
+
+Number of sequences: 257
+Number of programs: 12
+Number of motifs: 30
+Motif widths: 12 12 12 12 14 12 12 12 12 16 12 12 14 14 12 14 14 12 12 12 12 12 14 14 14 14 14 15 14 15 
+Program 1: total 10
+ motif #3: 1 of 10 (0.107843 posterior)
+ motif #4: 1 of 10 (0.107843 posterior)
+ motif #9: 2 of 10 (0.205882 posterior)
+ motif #10: 9 of 10 (0.892157 posterior)
+ motif #12: 1 of 10 (0.107843 posterior)
+ motif #16: 2 of 10 (0.205882 posterior)
+
+Program 2: total 2
+ motif #2: 2 of 2 (0.954545 posterior)
+ motif #3: 2 of 2 (0.954545 posterior)
+ motif #5: 1 of 2 (0.500000 posterior)
+ motif #8: 1 of 2 (0.500000 posterior)
+ motif #10: 2 of 2 (0.954545 posterior)
+ motif #11: 2 of 2 (0.954545 posterior)
+ motif #15: 2 of 2 (0.954545 posterior)
+ motif #21: 2 of 2 (0.954545 posterior)
+ motif #25: 1 of 2 (0.500000 posterior)
+ motif #26: 2 of 2 (0.954545 posterior)
+
+Program 3: total 4
+ motif #1: 4 of 4 (0.976190 posterior)
+ motif #2: 2 of 4 (0.500000 posterior)
+ motif #5: 1 of 4 (0.261905 posterior)
+ motif #7: 1 of 4 (0.261905 posterior)
+ motif #12: 1 of 4 (0.261905 posterior)
+ motif #15: 4 of 4 (0.976190 posterior)
+ motif #29: 1 of 4 (0.261905 posterior)
+
+Program 5: total 10
+ motif #15: 2 of 10 (0.205882 posterior)
+ motif #16: 6 of 10 (0.598039 posterior)
+ motif #21: 1 of 10 (0.107843 posterior)
+ motif #24: 1 of 10 (0.107843 posterior)
+ motif #26: 2 of 10 (0.205882 posterior)
+ motif #27: 2 of 10 (0.205882 posterior)
+ motif #28: 1 of 10 (0.107843 posterior)
+ motif #29: 4 of 10 (0.401961 posterior)
+
+Program 6: total 5
+ motif #5: 1 of 5 (0.211538 posterior)
+ motif #6: 1 of 5 (0.211538 posterior)
+ motif #11: 1 of 5 (0.211538 posterior)
+ motif #14: 3 of 5 (0.596154 posterior)
+ motif #15: 2 of 5 (0.403846 posterior)
+ motif #24: 4 of 5 (0.788462 posterior)
+ motif #25: 3 of 5 (0.596154 posterior)
+ motif #28: 4 of 5 (0.788462 posterior)
+ motif #29: 1 of 5 (0.211538 posterior)
+ motif #30: 3 of 5 (0.596154 posterior)
+
+Program 7: total 10
+ motif #1: 1 of 10 (0.107843 posterior)
+ motif #18: 2 of 10 (0.205882 posterior)
+ motif #20: 1 of 10 (0.107843 posterior)
+ motif #21: 1 of 10 (0.107843 posterior)
+ motif #22: 1 of 10 (0.107843 posterior)
+ motif #26: 4 of 10 (0.401961 posterior)
+ motif #28: 1 of 10 (0.107843 posterior)
+
+Program 8: total 3
+ motif #2: 2 of 3 (0.656250 posterior)
+ motif #12: 1 of 3 (0.343750 posterior)
+ motif #14: 1 of 3 (0.343750 posterior)
+ motif #27: 3 of 3 (0.968750 posterior)
+ motif #29: 2 of 3 (0.656250 posterior)
+ motif #30: 3 of 3 (0.968750 posterior)
+
+Program 10: total 2
+ motif #12: 1 of 2 (0.500000 posterior)
+ motif #17: 1 of 2 (0.500000 posterior)
+ motif #19: 1 of 2 (0.500000 posterior)
+ motif #22: 1 of 2 (0.500000 posterior)
+ motif #23: 1 of 2 (0.500000 posterior)
+
+Program 12: total 9
+ motif #1: 2 of 9 (0.228261 posterior)
+ motif #4: 2 of 9 (0.228261 posterior)
+ motif #5: 1 of 9 (0.119565 posterior)
+ motif #6: 1 of 9 (0.119565 posterior)
+ motif #7: 4 of 9 (0.445652 posterior)
+ motif #11: 2 of 9 (0.228261 posterior)
+ motif #13: 1 of 9 (0.119565 posterior)
+ motif #14: 1 of 9 (0.119565 posterior)
+ motif #17: 2 of 9 (0.228261 posterior)
+ motif #23: 1 of 9 (0.119565 posterior)
+ motif #25: 2 of 9 (0.228261 posterior)
+ motif #26: 3 of 9 (0.336957 posterior)
+
+Program 13: total 182
+ motif #3: 3 of 182 (0.017014 posterior)
+ motif #5: 41 of 182 (0.225576 posterior)
+ motif #9: 1 of 182 (0.006037 posterior)
+ motif #10: 27 of 182 (0.148738 posterior)
+ motif #11: 1 of 182 (0.006037 posterior)
+ motif #13: 9 of 182 (0.049945 posterior)
+ motif #15: 2 of 182 (0.011526 posterior)
+ motif #16: 9 of 182 (0.049945 posterior)
+ motif #20: 1 of 182 (0.006037 posterior)
+ motif #23: 2 of 182 (0.011526 posterior)
+ motif #26: 7 of 182 (0.038968 posterior)
+ motif #27: 7 of 182 (0.038968 posterior)
+ motif #28: 2 of 182 (0.011526 posterior)
+ motif #29: 43 of 182 (0.236553 posterior)
+ motif #30: 57 of 182 (0.313392 posterior)
+
+Program 14: total 17
+ motif #5: 2 of 17 (0.122093 posterior)
+ motif #16: 3 of 17 (0.180233 posterior)
+ motif #19: 1 of 17 (0.063953 posterior)
+ motif #21: 4 of 17 (0.238372 posterior)
+
+Program 15: total 3
+ motif #6: 1 of 3 (0.343750 posterior)
+ motif #12: 3 of 3 (0.968750 posterior)
+ motif #25: 1 of 3 (0.343750 posterior)
+ motif #29: 3 of 3 (0.968750 posterior)
+
+Motif #1; total sequences 7; TTTNAtGTTNAN / NTNAACaTNAAA
+Motif #2; total sequences 6; NARRCtagccag / ctggctaGYYTN
+Motif #3; total sequences 6; TagTGgCWtTNT / ANAaWGcCActA
+Motif #4; total sequences 3; aCtCGgaTGacc / ggtCAtcCGaGt
+Motif #5; total sequences 47; NaGATNcTTATCtN / NaGATAAgNATCtN
+Motif #6; total sequences 3; aacAgACtACCA / TGGTaGTcTgtt
+Motif #7; total sequences 5; atgtAaATGtAt / aTaCATtTacat
+Motif #8; total sequences 1; cgacgaatccac / gtggattcgtcg
+Motif #9; total sequences 3; TAgCAAtcCTAt / aTAGgaTTGcTA
+Motif #10; total sequences 38; NgGGGGNgGGGgggGg / cCcccCCCcNCCCCcN
+Motif #11; total sequences 6; tGNaGMGcYNTC / GANRgCKCtNCa
+Motif #12; total sequences 7; GaCtTCgGtgGN / NCcaCcGAaGtC
+Motif #13; total sequences 10; ACTTNctTgtcCTN / NAGgacAagNAAGT
+Motif #14; total sequences 5; cccaGgcctCtcAA / TTgaGaggcCtggg
+Motif #15; total sequences 12; KcWRaCTctCTc / gAGagAGtYWgM
+Motif #16; total sequences 20; cNCcACtTCCTNTt / aANAGGAaGTgGNg
+Motif #17; total sequences 3; gGtTGGGGtAATtc / gaATTaCCCCAaCc
+Motif #18; total sequences 2; STGTTMYATCCT / AGGATRKAACAS
+Motif #19; total sequences 2; RAYAACTTCYSC / GSRGAAGTTRTY
+Motif #20; total sequences 2; CSMYMTYTATCK / MGATARAKRKSG
+Motif #21; total sequences 8; aGGNgAGAcAgA / TcTgTCTcNCCt
+Motif #22; total sequences 2; TGTRMGTARTCT / AGAYTACKYACA
+Motif #23; total sequences 4; taRAAGCWNCNAMC / GKTNGNWGCTTYta
+Motif #24; total sequences 5; ActcAgagaAtgcC / GgcaTtctcTgagT
+Motif #25; total sequences 7; GaggcAGCcAGGtA / TaCCTgGCTgcctC
+Motif #26; total sequences 18; aacANcAANANcAa / tTgNTNTTgNTgtt
+Motif #27; total sequences 12; TCTgaNtNAgtNaa / ttNacTNaNtcAGA
+Motif #28; total sequences 8; ctctNgaNacTTctG / CagAAgtNtcNagag
+Motif #29; total sequences 54; NtactgaNaNNAAN / NTTNNtNtcagtaN
+Motif #30; total sequences 63; tgNtNtttNNtattN / NaataNNaaaNaNca
+.
+Iter 14: Current posterior 2726.307073, best 2729.576264
+
+Number of sequences: 257
+Number of programs: 12
+Number of motifs: 30
+Motif widths: 12 12 12 12 14 12 12 12 12 16 12 12 14 14 12 14 14 12 12 12 12 12 14 14 14 14 14 15 14 15 
+Program 1: total 11
+ motif #2: 1 of 11 (0.098214 posterior)
+ motif #4: 1 of 11 (0.098214 posterior)
+ motif #6: 1 of 11 (0.098214 posterior)
+ motif #9: 2 of 11 (0.187500 posterior)
+ motif #10: 9 of 11 (0.812500 posterior)
+ motif #12: 2 of 11 (0.187500 posterior)
+
+Program 2: total 2
+ motif #2: 2 of 2 (0.954545 posterior)
+ motif #3: 1 of 2 (0.500000 posterior)
+ motif #5: 2 of 2 (0.954545 posterior)
+ motif #8: 2 of 2 (0.954545 posterior)
+ motif #10: 2 of 2 (0.954545 posterior)
+ motif #21: 2 of 2 (0.954545 posterior)
+ motif #26: 2 of 2 (0.954545 posterior)
+ motif #27: 2 of 2 (0.954545 posterior)
+
+Program 3: total 2
+ motif #1: 2 of 2 (0.954545 posterior)
+ motif #2: 2 of 2 (0.954545 posterior)
+ motif #5: 1 of 2 (0.500000 posterior)
+ motif #14: 1 of 2 (0.500000 posterior)
+ motif #29: 1 of 2 (0.500000 posterior)
+
+Program 5: total 9
+ motif #1: 1 of 9 (0.119565 posterior)
+ motif #15: 5 of 9 (0.554348 posterior)
+ motif #16: 8 of 9 (0.880435 posterior)
+ motif #26: 5 of 9 (0.554348 posterior)
+ motif #29: 6 of 9 (0.663043 posterior)
+
+Program 6: total 8
+ motif #3: 1 of 8 (0.134146 posterior)
+ motif #5: 2 of 8 (0.256098 posterior)
+ motif #6: 4 of 8 (0.500000 posterior)
+ motif #8: 1 of 8 (0.134146 posterior)
+ motif #10: 1 of 8 (0.134146 posterior)
+ motif #14: 4 of 8 (0.500000 posterior)
+ motif #15: 3 of 8 (0.378049 posterior)
+ motif #16: 1 of 8 (0.134146 posterior)
+ motif #19: 1 of 8 (0.134146 posterior)
+ motif #21: 1 of 8 (0.134146 posterior)
+ motif #24: 6 of 8 (0.743902 posterior)
+ motif #25: 2 of 8 (0.256098 posterior)
+ motif #28: 3 of 8 (0.378049 posterior)
+ motif #29: 3 of 8 (0.378049 posterior)
+ motif #30: 7 of 8 (0.865854 posterior)
+
+Program 7: total 11
+ motif #1: 2 of 11 (0.187500 posterior)
+ motif #17: 1 of 11 (0.098214 posterior)
+ motif #18: 1 of 11 (0.098214 posterior)
+ motif #20: 4 of 11 (0.366071 posterior)
+ motif #22: 1 of 11 (0.098214 posterior)
+ motif #24: 1 of 11 (0.098214 posterior)
+ motif #26: 2 of 11 (0.187500 posterior)
+ motif #28: 2 of 11 (0.187500 posterior)
+ motif #29: 2 of 11 (0.187500 posterior)
+ motif #30: 7 of 11 (0.633929 posterior)
+
+Program 8: total 2
+ motif #1: 1 of 2 (0.500000 posterior)
+ motif #2: 2 of 2 (0.954545 posterior)
+ motif #24: 1 of 2 (0.500000 posterior)
+ motif #27: 2 of 2 (0.954545 posterior)
+ motif #29: 2 of 2 (0.954545 posterior)
+ motif #30: 2 of 2 (0.954545 posterior)
+
+Program 10: total 3
+ motif #10: 1 of 3 (0.343750 posterior)
+ motif #11: 1 of 3 (0.343750 posterior)
+ motif #16: 1 of 3 (0.343750 posterior)
+ motif #19: 1 of 3 (0.343750 posterior)
+ motif #21: 2 of 3 (0.656250 posterior)
+ motif #22: 2 of 3 (0.656250 posterior)
+
+Program 12: total 11
+ motif #4: 1 of 11 (0.098214 posterior)
+ motif #5: 1 of 11 (0.098214 posterior)
+ motif #6: 1 of 11 (0.098214 posterior)
+ motif #7: 5 of 11 (0.455357 posterior)
+ motif #11: 2 of 11 (0.187500 posterior)
+ motif #23: 2 of 11 (0.187500 posterior)
+ motif #25: 2 of 11 (0.187500 posterior)
+ motif #26: 3 of 11 (0.276786 posterior)
+ motif #28: 1 of 11 (0.098214 posterior)
+
+Program 13: total 181
+ motif #5: 41 of 181 (0.226821 posterior)
+ motif #9: 1 of 181 (0.006071 posterior)
+ motif #10: 27 of 181 (0.149558 posterior)
+ motif #11: 1 of 181 (0.006071 posterior)
+ motif #13: 10 of 181 (0.055740 posterior)
+ motif #16: 12 of 181 (0.066777 posterior)
+ motif #20: 4 of 181 (0.022627 posterior)
+ motif #26: 13 of 181 (0.072296 posterior)
+ motif #27: 4 of 181 (0.022627 posterior)
+ motif #29: 38 of 181 (0.210265 posterior)
+ motif #30: 53 of 181 (0.293046 posterior)
+
+Program 14: total 14
+ motif #16: 3 of 14 (0.218310 posterior)
+ motif #21: 6 of 14 (0.429577 posterior)
+ motif #27: 1 of 14 (0.077465 posterior)
+
+Program 15: total 3
+ motif #12: 3 of 3 (0.968750 posterior)
+ motif #24: 1 of 3 (0.343750 posterior)
+ motif #29: 3 of 3 (0.968750 posterior)
+
+Motif #1; total sequences 6; NTTgAtGTtNaa / ttNaACaTcAAN
+Motif #2; total sequences 7; gAaaCTAGccAa / tTggCTAGttTc
+Motif #3; total sequences 2; TASTKKCMTTST / ASAAKGMMASTA
+Motif #4; total sequences 2; ACTCGGATGACS / SGTCATCCGAGT
+Motif #5; total sequences 47; NaGATNcTTATCtN / NaGATAAgNATCtN
+Motif #6; total sequences 6; aAcARaNcACCA / TGGTgNtYTgTt
+Motif #7; total sequences 5; AtggaaAtGNAt / aTNCaTttccaT
+Motif #8; total sequences 3; CGAcgaAacCAC / GTGgtTtcgTCG
+Motif #9; total sequences 3; TaGCAATcCTAT / ATAGgATTGCtA
+Motif #10; total sequences 40; NgGgGGNGGGggggGg / cCccccCCCNCCcCcN
+Motif #11; total sequences 4; TGNWGMGNYtTC / GAaRNCKCWNCA
+Motif #12; total sequences 5; GNCtTCgGtgGN / NCcaCcGAaGNC
+Motif #13; total sequences 10; aCTTccNTgtCCTg / cAGGacANggAAGt
+Motif #14; total sequences 5; ggCAGGccNcTcaA / TtgAgNggCCTGcc
+Motif #15; total sequences 8; NCaNcCTcTCTN / NAGAgAGgNtGN
+Motif #16; total sequences 25; cNcCACtTCCTNtt / aaNAGGAaGTGgNg
+Motif #17; total sequences 1; gtgtggggtgacta / tagtcaccccacac
+Motif #18; total sequences 1; aacccgttcctt / aaggaacgggtt
+Motif #19; total sequences 2; WMWRACTTCCSC / GSGGAAGTYWKW
+Motif #20; total sequences 8; CtaYtTcTagcT / AgctAgAaRtaG
+Motif #21; total sequences 11; aGggNAGAcAGA / TCTgTCTNccCt
+Motif #22; total sequences 3; TgTgaGTAgTCT / AGAcTACtcAcA
+Motif #23; total sequences 2; YAAAAGCWSCCASC / GSTGGSWGCTTTTR
+Motif #24; total sequences 9; AattAgaNaATgcC / GgcATtNtcTaatT
+Motif #25; total sequences 4; GMGRaAGCcAGGWa / tWCCTgGCTtYCKC
+Motif #26; total sequences 25; aacANcAANaNaAA / TTtNtNTTgNTgtt
+Motif #27; total sequences 9; TcTgatTtANtNgA / TcNaNTaAatcAgA
+Motif #28; total sequences 6; cNctNKatNCtTNtg / caNAaGNatMNagNg
+Motif #29; total sequences 55; NtactgatagNAAN / NTTNctatcagtaN
+Motif #30; total sequences 69; tgttNtTtNNtNttN / NaaNaNNaAaNaaca
+.
+Iter 15: Current posterior 2874.754932, best 2931.897248
+
+Number of sequences: 257
+Number of programs: 11
+Number of motifs: 30
+Motif widths: 12 12 12 12 14 12 12 12 12 16 12 12 14 14 12 14 14 12 12 12 12 12 14 14 14 14 14 15 14 15 
+Program 1: total 14
+ motif #4: 1 of 14 (0.077465 posterior)
+ motif #9: 3 of 14 (0.218310 posterior)
+ motif #10: 8 of 14 (0.570423 posterior)
+ motif #12: 3 of 14 (0.218310 posterior)
+ motif #14: 2 of 14 (0.147887 posterior)
+ motif #21: 3 of 14 (0.218310 posterior)
+
+Program 2: total 2
+ motif #2: 1 of 2 (0.500000 posterior)
+ motif #5: 2 of 2 (0.954545 posterior)
+ motif #8: 2 of 2 (0.954545 posterior)
+ motif #10: 2 of 2 (0.954545 posterior)
+ motif #20: 1 of 2 (0.500000 posterior)
+ motif #21: 2 of 2 (0.954545 posterior)
+ motif #24: 1 of 2 (0.500000 posterior)
+ motif #26: 2 of 2 (0.954545 posterior)
+ motif #27: 2 of 2 (0.954545 posterior)
+
+Program 5: total 10
+ motif #4: 1 of 10 (0.107843 posterior)
+ motif #15: 7 of 10 (0.696078 posterior)
+ motif #16: 8 of 10 (0.794118 posterior)
+ motif #26: 4 of 10 (0.401961 posterior)
+ motif #29: 7 of 10 (0.696078 posterior)
+
+Program 6: total 7
+ motif #3: 4 of 7 (0.569444 posterior)
+ motif #5: 1 of 7 (0.152778 posterior)
+ motif #6: 5 of 7 (0.708333 posterior)
+ motif #12: 1 of 7 (0.152778 posterior)
+ motif #15: 3 of 7 (0.430556 posterior)
+ motif #16: 1 of 7 (0.152778 posterior)
+ motif #21: 2 of 7 (0.291667 posterior)
+ motif #24: 6 of 7 (0.847222 posterior)
+ motif #25: 1 of 7 (0.152778 posterior)
+ motif #28: 5 of 7 (0.708333 posterior)
+ motif #29: 1 of 7 (0.152778 posterior)
+ motif #30: 4 of 7 (0.569444 posterior)
+
+Program 7: total 16
+ motif #1: 2 of 16 (0.129630 posterior)
+ motif #11: 1 of 16 (0.067901 posterior)
+ motif #17: 3 of 16 (0.191358 posterior)
+ motif #18: 3 of 16 (0.191358 posterior)
+ motif #19: 1 of 16 (0.067901 posterior)
+ motif #20: 2 of 16 (0.129630 posterior)
+ motif #22: 2 of 16 (0.129630 posterior)
+ motif #28: 9 of 16 (0.561728 posterior)
+ motif #29: 6 of 16 (0.376543 posterior)
+ motif #30: 11 of 16 (0.685185 posterior)
+
+Program 8: total 4
+ motif #1: 4 of 4 (0.976190 posterior)
+ motif #2: 4 of 4 (0.976190 posterior)
+ motif #5: 1 of 4 (0.261905 posterior)
+ motif #19: 1 of 4 (0.261905 posterior)
+ motif #21: 1 of 4 (0.261905 posterior)
+ motif #24: 2 of 4 (0.500000 posterior)
+ motif #27: 3 of 4 (0.738095 posterior)
+ motif #29: 1 of 4 (0.261905 posterior)
+ motif #30: 2 of 4 (0.500000 posterior)
+
+Program 10: total 7
+ motif #7: 2 of 7 (0.291667 posterior)
+ motif #8: 1 of 7 (0.152778 posterior)
+ motif #11: 1 of 7 (0.152778 posterior)
+ motif #18: 4 of 7 (0.569444 posterior)
+ motif #21: 2 of 7 (0.291667 posterior)
+ motif #22: 5 of 7 (0.708333 posterior)
+
+Program 12: total 11
+ motif #4: 1 of 11 (0.098214 posterior)
+ motif #6: 2 of 11 (0.187500 posterior)
+ motif #7: 3 of 11 (0.276786 posterior)
+ motif #11: 1 of 11 (0.098214 posterior)
+ motif #19: 1 of 11 (0.098214 posterior)
+ motif #23: 1 of 11 (0.098214 posterior)
+ motif #25: 5 of 11 (0.455357 posterior)
+ motif #26: 1 of 11 (0.098214 posterior)
+ motif #29: 3 of 11 (0.276786 posterior)
+ motif #30: 1 of 11 (0.098214 posterior)
+
+Program 13: total 175
+ motif #5: 38 of 175 (0.217466 posterior)
+ motif #10: 25 of 175 (0.143265 posterior)
+ motif #13: 8 of 175 (0.046233 posterior)
+ motif #16: 8 of 175 (0.046233 posterior)
+ motif #20: 4 of 175 (0.023402 posterior)
+ motif #21: 2 of 175 (0.011986 posterior)
+ motif #26: 10 of 175 (0.057648 posterior)
+ motif #27: 2 of 175 (0.011986 posterior)
+ motif #29: 40 of 175 (0.228881 posterior)
+ motif #30: 51 of 175 (0.291667 posterior)
+
+Program 14: total 8
+ motif #16: 6 of 8 (0.743902 posterior)
+ motif #20: 2 of 8 (0.256098 posterior)
+ motif #21: 5 of 8 (0.621951 posterior)
+ motif #25: 1 of 8 (0.134146 posterior)
+ motif #27: 2 of 8 (0.256098 posterior)
+ motif #30: 2 of 8 (0.256098 posterior)
+
+Program 15: total 3
+ motif #12: 3 of 3 (0.968750 posterior)
+ motif #19: 1 of 3 (0.343750 posterior)
+ motif #24: 1 of 3 (0.343750 posterior)
+ motif #29: 3 of 3 (0.968750 posterior)
+
+Motif #1; total sequences 6; cTTgAtgTtNaa / ttNaAcaTcAAg
+Motif #2; total sequences 5; gAagCtaGccAa / tTggCtaGctTc
+Motif #3; total sequences 4; NANTtNCctTcT / AgAagGNaANTN
+Motif #4; total sequences 3; ACTCGGATGaCc / gGtCATCCGAGT
+Motif #5; total sequences 42; NaGATccTTATCtN / NaGATAAggATCtN
+Motif #6; total sequences 7; NACAgAccACCA / TGGTggTcTGTN
+Motif #7; total sequences 5; AtgtaAatgaAN / NTtcatTtacaT
+Motif #8; total sequences 3; cGAcgaAaCCAC / GTGGtTtcgTCg
+Motif #9; total sequences 3; taGcAATcCTAT / ATAGgATTgCta
+Motif #10; total sequences 35; NGGgGGNgGGGNggGg / cCccNCCCcNCCcCCN
+Motif #11; total sequences 3; NGCAGagcccTC / GAgggctCTGCN
+Motif #12; total sequences 7; GNCtTCgGtgGN / NCcaCcGAaGNC
+Motif #13; total sequences 8; ACTTCcNTGtCCTN / NAGGaCANgGAAGT
+Motif #14; total sequences 2; SAYAGGMAKCWYMA / TKRWGMTKCCTRTS
+Motif #15; total sequences 10; NCaNaCTNTCTN / NAGANAGtNtGN
+Motif #16; total sequences 23; cNcCACtTCCTStt / aaSAGGAaGTGgNg
+Motif #17; total sequences 3; gTgTGgaGCagcTa / tAgctGCtcCAcAc
+Motif #18; total sequences 7; AgCCcNNTCCtT / AaGGANNgGGcT
+Motif #19; total sequences 4; tccNACTTcYRC / GYRgAAGTNgga
+Motif #20; total sequences 9; CtActTcTatcT / AgatAgAagTaG
+Motif #21; total sequences 17; aGggNAGAcaGA / TCtgTCTNccCt
+Motif #22; total sequences 7; tGtgaGtagtCT / AGactaCtcaCa
+Motif #23; total sequences 1; caaaagctcccagc / gctgggagcttttg
+Motif #24; total sequences 10; ANNtAGgNaATgcC / GgcATtNcCTaNNT
+Motif #25; total sequences 7; GaGNaAGCcaGGag / ctCCtgGCTtNCtC
+Motif #26; total sequences 17; AaaAaNAANaNaAA / TTtNtNTTNtTttT
+Motif #27; total sequences 9; TcTgatttActcga / tcgagTaaatcAgA
+Motif #28; total sequences 14; CNctNtNNNctTgtc / gacAagNNNaNagNG
+Motif #29; total sequences 61; NtactgatNgNAAN / NTTNcNatcagtaN
+Motif #30; total sequences 71; tgNtNtTtgNtNttN / NaaNaNcaAaNaNca
+...
+Iter 18: Current posterior 2904.409227, best 2946.326865
+
+Number of sequences: 257
+Number of programs: 11
+Number of motifs: 30
+Motif widths: 12 12 12 12 14 12 12 12 12 16 12 12 14 14 12 14 14 12 12 12 12 12 12 14 14 14 14 15 14 15 
+Program 1: total 13
+ motif #4: 1 of 13 (0.083333 posterior)
+ motif #7: 3 of 13 (0.234848 posterior)
+ motif #10: 5 of 13 (0.386364 posterior)
+ motif #11: 1 of 13 (0.083333 posterior)
+ motif #12: 1 of 13 (0.083333 posterior)
+ motif #13: 1 of 13 (0.083333 posterior)
+ motif #24: 2 of 13 (0.159091 posterior)
+ motif #29: 4 of 13 (0.310606 posterior)
+
+Program 2: total 2
+ motif #2: 2 of 2 (0.954545 posterior)
+ motif #3: 2 of 2 (0.954545 posterior)
+ motif #5: 2 of 2 (0.954545 posterior)
+ motif #8: 2 of 2 (0.954545 posterior)
+ motif #9: 1 of 2 (0.500000 posterior)
+ motif #10: 1 of 2 (0.500000 posterior)
+ motif #12: 1 of 2 (0.500000 posterior)
+ motif #20: 2 of 2 (0.954545 posterior)
+ motif #21: 2 of 2 (0.954545 posterior)
+ motif #26: 2 of 2 (0.954545 posterior)
+ motif #27: 1 of 2 (0.500000 posterior)
+
+Program 5: total 14
+ motif #1: 2 of 14 (0.147887 posterior)
+ motif #16: 11 of 14 (0.781690 posterior)
+ motif #19: 1 of 14 (0.077465 posterior)
+ motif #20: 1 of 14 (0.077465 posterior)
+ motif #23: 11 of 14 (0.781690 posterior)
+ motif #24: 1 of 14 (0.077465 posterior)
+ motif #25: 1 of 14 (0.077465 posterior)
+ motif #26: 5 of 14 (0.359155 posterior)
+ motif #29: 2 of 14 (0.147887 posterior)
+ motif #30: 4 of 14 (0.288732 posterior)
+
+Program 6: total 5
+ motif #2: 2 of 5 (0.403846 posterior)
+ motif #3: 1 of 5 (0.211538 posterior)
+ motif #6: 5 of 5 (0.980769 posterior)
+ motif #11: 2 of 5 (0.403846 posterior)
+ motif #21: 1 of 5 (0.211538 posterior)
+ motif #23: 3 of 5 (0.596154 posterior)
+ motif #24: 4 of 5 (0.788462 posterior)
+ motif #30: 1 of 5 (0.211538 posterior)
+
+Program 7: total 19
+ motif #6: 1 of 19 (0.057292 posterior)
+ motif #14: 2 of 19 (0.109375 posterior)
+ motif #15: 4 of 19 (0.213542 posterior)
+ motif #17: 1 of 19 (0.057292 posterior)
+ motif #19: 5 of 19 (0.265625 posterior)
+ motif #20: 2 of 19 (0.109375 posterior)
+ motif #21: 3 of 19 (0.161458 posterior)
+ motif #22: 2 of 19 (0.109375 posterior)
+ motif #23: 5 of 19 (0.265625 posterior)
+ motif #24: 6 of 19 (0.317708 posterior)
+ motif #26: 1 of 19 (0.057292 posterior)
+ motif #29: 3 of 19 (0.161458 posterior)
+ motif #30: 6 of 19 (0.317708 posterior)
+
+Program 8: total 4
+ motif #2: 4 of 4 (0.976190 posterior)
+ motif #5: 4 of 4 (0.976190 posterior)
+ motif #19: 1 of 4 (0.261905 posterior)
+ motif #21: 2 of 4 (0.500000 posterior)
+ motif #24: 4 of 4 (0.976190 posterior)
+ motif #27: 3 of 4 (0.738095 posterior)
+
+Program 10: total 6
+ motif #3: 1 of 6 (0.177419 posterior)
+ motif #7: 3 of 6 (0.500000 posterior)
+ motif #18: 3 of 6 (0.500000 posterior)
+ motif #22: 6 of 6 (0.983871 posterior)
+
+Program 12: total 6
+ motif #4: 1 of 6 (0.177419 posterior)
+ motif #5: 1 of 6 (0.177419 posterior)
+ motif #6: 1 of 6 (0.177419 posterior)
+ motif #7: 6 of 6 (0.983871 posterior)
+ motif #11: 1 of 6 (0.177419 posterior)
+ motif #14: 1 of 6 (0.177419 posterior)
+ motif #16: 1 of 6 (0.177419 posterior)
+ motif #18: 1 of 6 (0.177419 posterior)
+ motif #23: 2 of 6 (0.338710 posterior)
+ motif #25: 5 of 6 (0.822581 posterior)
+ motif #28: 1 of 6 (0.177419 posterior)
+ motif #29: 1 of 6 (0.177419 posterior)
+
+Program 13: total 181
+ motif #5: 43 of 181 (0.237859 posterior)
+ motif #6: 1 of 181 (0.006071 posterior)
+ motif #10: 19 of 181 (0.105408 posterior)
+ motif #13: 3 of 181 (0.017108 posterior)
+ motif #16: 13 of 181 (0.072296 posterior)
+ motif #19: 2 of 181 (0.011589 posterior)
+ motif #20: 7 of 181 (0.039183 posterior)
+ motif #21: 13 of 181 (0.072296 posterior)
+ motif #26: 4 of 181 (0.022627 posterior)
+ motif #27: 3 of 181 (0.017108 posterior)
+ motif #28: 3 of 181 (0.017108 posterior)
+ motif #29: 25 of 181 (0.138521 posterior)
+ motif #30: 43 of 181 (0.237859 posterior)
+
+Program 14: total 5
+ motif #13: 4 of 5 (0.788462 posterior)
+ motif #16: 3 of 5 (0.596154 posterior)
+ motif #18: 1 of 5 (0.211538 posterior)
+ motif #24: 1 of 5 (0.211538 posterior)
+ motif #26: 3 of 5 (0.596154 posterior)
+ motif #27: 1 of 5 (0.211538 posterior)
+ motif #28: 3 of 5 (0.596154 posterior)
+ motif #30: 4 of 5 (0.788462 posterior)
+
+Program 15: total 2
+ motif #3: 2 of 2 (0.954545 posterior)
+ motif #10: 2 of 2 (0.954545 posterior)
+ motif #12: 2 of 2 (0.954545 posterior)
+ motif #15: 2 of 2 (0.954545 posterior)
+ motif #16: 1 of 2 (0.500000 posterior)
+ motif #17: 1 of 2 (0.500000 posterior)
+ motif #29: 2 of 2 (0.954545 posterior)
+
+Motif #1; total sequences 2; TACAGTSWKTGC / GCAMWSACTGTA
+Motif #2; total sequences 8; gAAGcNAGCcaA / TtgGCTNgCTTc
+Motif #3; total sequences 6; NaCTttCCttgN / NcaaGGaaAGtN
+Motif #4; total sequences 2; ACTCGGATGACS / SGTCATCCGAGT
+Motif #5; total sequences 50; NWGATNNtTATCtN / NaGATAaNNATCWN
+Motif #6; total sequences 8; cACAgaNCACcA / TgGTGNtcTGTg
+Motif #7; total sequences 12; WTNNARaTGaat / attCAtYTNNAW
+Motif #8; total sequences 2; AGGMAAWGCSAC / GTSGCWTTKCCT
+Motif #9; total sequences 1; taaataccgtgt / acacggtattta
+Motif #10; total sequences 27; NGggGGtgGGGNGgGg / cCcCNCCCcaCCccCN
+Motif #11; total sequences 4; cACAgKgaNaCM / KGtNtcMcTGTg
+Motif #12; total sequences 4; gcCTTCaGatGT / ACatCtGAAGgc
+Motif #13; total sequences 8; WCTtcCNTgtCNTG / CANGacANGgaAGW
+Motif #14; total sequences 3; NcGNCTATgcgTCA / TGAcgcATAGNCgN
+Motif #15; total sequences 6; cactGKCMTYGN / NCRAKGMCagtg
+Motif #16; total sequences 29; cNCcactTCCTctt / aagAGGAagtgGNg
+Motif #17; total sequences 2; KAKMYGATCGRGGA / TCCYCGATCRKMTM
+Motif #18; total sequences 5; AaCCaNTTCCtt / aaGGAANtGGtT
+Motif #19; total sequences 9; tCCcAcTTctgC / GcagAAgTgGGa
+Motif #20; total sequences 12; ctaNTTCTgTCT / AGAcAGAANtag
+Motif #21; total sequences 21; aGgaNAgAaAGA / TCTtTcTNtcCt
+Motif #22; total sequences 8; TgTgaGTANtCt / aGaNTACtcAcA
+Motif #23; total sequences 21; tGctgtGANtcN / NgaNTCacagCa
+Motif #24; total sequences 18; AcNtagaNAATNcM / KgNATTNtctaNgT
+Motif #25; total sequences 6; SaGtaagcCNGGag / ctCCNGgcttaCtS
+Motif #26; total sequences 15; AtcAAaaAaaNaAA / TTtNttTttTTgaT
+Motif #27; total sequences 8; TYtgAtTAagTcgN / NcgActTAaTcaRA
+Motif #28; total sequences 7; agCTATtTgtTtNtc / gaNaAacAaATAGct
+Motif #29; total sequences 37; NTaNagATNNcAaN / NtTgNNATctNtAN
+Motif #30; total sequences 58; taNtNNTtaatNNtN / NaNNattaANNaNta
+.
+Iter 19: Current posterior 2851.513979, best 2947.563376
+
+Number of sequences: 257
+Number of programs: 11
+Number of motifs: 30
+Motif widths: 12 12 12 12 14 12 12 12 12 16 12 12 14 14 12 14 14 12 12 12 12 12 12 14 14 14 14 15 14 15 
+Program 1: total 20
+ motif #4: 1 of 20 (0.054455 posterior)
+ motif #5: 1 of 20 (0.054455 posterior)
+ motif #7: 3 of 20 (0.153465 posterior)
+ motif #10: 3 of 20 (0.153465 posterior)
+ motif #11: 1 of 20 (0.054455 posterior)
+ motif #12: 3 of 20 (0.153465 posterior)
+ motif #14: 1 of 20 (0.054455 posterior)
+ motif #18: 1 of 20 (0.054455 posterior)
+ motif #23: 1 of 20 (0.054455 posterior)
+ motif #26: 4 of 20 (0.202970 posterior)
+ motif #29: 6 of 20 (0.301980 posterior)
+
+Program 2: total 2
+ motif #2: 2 of 2 (0.954545 posterior)
+ motif #3: 2 of 2 (0.954545 posterior)
+ motif #5: 2 of 2 (0.954545 posterior)
+ motif #8: 2 of 2 (0.954545 posterior)
+ motif #10: 1 of 2 (0.500000 posterior)
+ motif #12: 2 of 2 (0.954545 posterior)
+ motif #20: 2 of 2 (0.954545 posterior)
+ motif #21: 2 of 2 (0.954545 posterior)
+ motif #26: 2 of 2 (0.954545 posterior)
+
+Program 5: total 20
+ motif #1: 1 of 20 (0.054455 posterior)
+ motif #12: 1 of 20 (0.054455 posterior)
+ motif #13: 1 of 20 (0.054455 posterior)
+ motif #14: 1 of 20 (0.054455 posterior)
+ motif #16: 16 of 20 (0.797030 posterior)
+ motif #21: 1 of 20 (0.054455 posterior)
+ motif #23: 13 of 20 (0.648515 posterior)
+ motif #24: 3 of 20 (0.153465 posterior)
+ motif #26: 4 of 20 (0.202970 posterior)
+ motif #27: 2 of 20 (0.103960 posterior)
+ motif #29: 4 of 20 (0.202970 posterior)
+ motif #30: 8 of 20 (0.400990 posterior)
+
+Program 6: total 4
+ motif #2: 1 of 4 (0.261905 posterior)
+ motif #6: 4 of 4 (0.976190 posterior)
+ motif #11: 1 of 4 (0.261905 posterior)
+ motif #21: 1 of 4 (0.261905 posterior)
+ motif #23: 2 of 4 (0.500000 posterior)
+ motif #24: 4 of 4 (0.976190 posterior)
+
+Program 7: total 19
+ motif #2: 1 of 19 (0.057292 posterior)
+ motif #6: 1 of 19 (0.057292 posterior)
+ motif #14: 2 of 19 (0.109375 posterior)
+ motif #15: 4 of 19 (0.213542 posterior)
+ motif #17: 1 of 19 (0.057292 posterior)
+ motif #19: 3 of 19 (0.161458 posterior)
+ motif #20: 3 of 19 (0.161458 posterior)
+ motif #21: 1 of 19 (0.057292 posterior)
+ motif #22: 2 of 19 (0.109375 posterior)
+ motif #23: 5 of 19 (0.265625 posterior)
+ motif #24: 7 of 19 (0.369792 posterior)
+ motif #29: 1 of 19 (0.057292 posterior)
+ motif #30: 8 of 19 (0.421875 posterior)
+
+Program 8: total 5
+ motif #2: 4 of 5 (0.788462 posterior)
+ motif #5: 5 of 5 (0.980769 posterior)
+ motif #6: 1 of 5 (0.211538 posterior)
+ motif #13: 1 of 5 (0.211538 posterior)
+ motif #16: 2 of 5 (0.403846 posterior)
+ motif #24: 4 of 5 (0.788462 posterior)
+ motif #27: 3 of 5 (0.596154 posterior)
+
+Program 10: total 6
+ motif #3: 4 of 6 (0.661290 posterior)
+ motif #7: 3 of 6 (0.500000 posterior)
+ motif #12: 1 of 6 (0.177419 posterior)
+ motif #14: 2 of 6 (0.338710 posterior)
+ motif #18: 5 of 6 (0.822581 posterior)
+ motif #21: 1 of 6 (0.177419 posterior)
+ motif #22: 6 of 6 (0.983871 posterior)
+ motif #26: 1 of 6 (0.177419 posterior)
+ motif #27: 1 of 6 (0.177419 posterior)
+
+Program 12: total 6
+ motif #4: 1 of 6 (0.177419 posterior)
+ motif #6: 1 of 6 (0.177419 posterior)
+ motif #7: 6 of 6 (0.983871 posterior)
+ motif #11: 1 of 6 (0.177419 posterior)
+ motif #14: 1 of 6 (0.177419 posterior)
+ motif #18: 1 of 6 (0.177419 posterior)
+ motif #23: 2 of 6 (0.338710 posterior)
+ motif #25: 5 of 6 (0.822581 posterior)
+
+Program 13: total 171
+ motif #5: 43 of 171 (0.251752 posterior)
+ motif #8: 1 of 171 (0.006425 posterior)
+ motif #9: 1 of 171 (0.006425 posterior)
+ motif #10: 15 of 171 (0.088201 posterior)
+ motif #11: 1 of 171 (0.006425 posterior)
+ motif #13: 5 of 171 (0.029790 posterior)
+ motif #16: 7 of 171 (0.041472 posterior)
+ motif #17: 1 of 171 (0.006425 posterior)
+ motif #19: 2 of 171 (0.012266 posterior)
+ motif #20: 6 of 171 (0.035631 posterior)
+ motif #21: 9 of 171 (0.053154 posterior)
+ motif #25: 1 of 171 (0.006425 posterior)
+ motif #26: 11 of 171 (0.064836 posterior)
+ motif #27: 4 of 171 (0.023949 posterior)
+ motif #28: 6 of 171 (0.035631 posterior)
+ motif #29: 13 of 171 (0.076519 posterior)
+ motif #30: 45 of 171 (0.263435 posterior)
+
+Program 14: total 2
+ motif #13: 2 of 2 (0.954545 posterior)
+ motif #26: 2 of 2 (0.954545 posterior)
+ motif #28: 1 of 2 (0.500000 posterior)
+ motif #30: 1 of 2 (0.500000 posterior)
+
+Program 15: total 2
+ motif #3: 2 of 2 (0.954545 posterior)
+ motif #10: 2 of 2 (0.954545 posterior)
+ motif #12: 2 of 2 (0.954545 posterior)
+ motif #15: 2 of 2 (0.954545 posterior)
+ motif #16: 1 of 2 (0.500000 posterior)
+ motif #17: 1 of 2 (0.500000 posterior)
+ motif #29: 2 of 2 (0.954545 posterior)
+
+Motif #1; total sequences 1; tacagtgtgtgc / gcacacactgta
+Motif #2; total sequences 8; gAAGaNagCcaA / TtgGctNtCTTc
+Motif #3; total sequences 8; gaCTttCCTtgt / acaAGGaaAGtc
+Motif #4; total sequences 2; ACTCGGATGACS / SGTCATCCGAGT
+Motif #5; total sequences 51; NaGATNNtTATCTN / NAGATAaNNATCtN
+Motif #6; total sequences 7; cACAgacCACCA / TGGTGgtcTGTg
+Motif #7; total sequences 12; tTNNAaATGaaW / WttCATtTNNAa
+Motif #8; total sequences 3; AGgcAAtgCcAC / GTgGcaTTgcCT
+Motif #9; total sequences 1; taatttccgtgg / ccacggaaatta
+Motif #10; total sequences 21; tGggGGtgGGGNGGGg / cCCCNCCCcaCCccCa
+Motif #11; total sequences 4; CACANKgAaACc / gGTtTcMNTGTG
+Motif #12; total sequences 9; gcCTTCNGatGT / ACatCNGAAGgc
+Motif #13; total sequences 9; aCTtcccTgtccTG / CAggacAgggaAGt
+Motif #14; total sequences 7; NNGNcTaTGcgTCa / tGAcgCAtAgNCNN
+Motif #15; total sequences 6; cactGKCMTYGN / NCRAKGMCagtg
+Motif #16; total sequences 26; cNCcactTCCTStt / aaSAGGAagtgGNg
+Motif #17; total sequences 3; gAgacGAtCGgGgA / TcCcCGaTCgtcTc
+Motif #18; total sequences 7; AaCCANTTCCTg / cAGGAANTGGtT
+Motif #19; total sequences 5; tCCcAgTTNttc / gaaNAAcTgGGa
+Motif #20; total sequences 11; gtaNTtCTgtcT / AgacAGaANtac
+Motif #21; total sequences 15; aGGggAGAaAGA / TCTtTCTccCCt
+Motif #22; total sequences 8; TgTgaGTANtCt / aGaNTACtcAcA
+Motif #23; total sequences 23; tGctNtGAcTcN / NgAgTCaNagCa
+Motif #24; total sequences 18; AcNtagacAATNca / tgNATTgtctaNgT
+Motif #25; total sequences 6; SNGtNagccagGaG / CtCctggctNaCNS
+Motif #26; total sequences 24; AaaAAaaAAacaAA / TTtgtTTttTTttT
+Motif #27; total sequences 10; tctgAKTaAgTcNa / tNgAcTtAMTcaga
+Motif #28; total sequences 7; cgCTaTTTgtTtgTc / gAcaAacAAAtAGcg
+Motif #29; total sequences 26; NTActgAtNNcAtN / NaTgNNaTcagTAN
+Motif #30; total sequences 62; tattNNTNaaNNttN / NaaNNttNANNaata
+.
+Iter 20: Current posterior 2912.012747, best 2987.895324
+
+Number of sequences: 257
+Number of programs: 11
+Number of motifs: 29
+Motif widths: 12 12 12 14 12 12 12 12 16 12 12 14 14 12 14 14 12 12 12 12 12 12 14 14 14 14 15 14 15 
+Program 1: total 23
+ motif #7: 2 of 23 (0.090517 posterior)
+ motif #10: 6 of 23 (0.262931 posterior)
+ motif #12: 3 of 23 (0.133621 posterior)
+ motif #14: 3 of 23 (0.133621 posterior)
+ motif #18: 4 of 23 (0.176724 posterior)
+ motif #22: 2 of 23 (0.090517 posterior)
+ motif #23: 3 of 23 (0.133621 posterior)
+ motif #26: 5 of 23 (0.219828 posterior)
+ motif #27: 1 of 23 (0.047414 posterior)
+ motif #29: 7 of 23 (0.306034 posterior)
+ motif #30: 3 of 23 (0.133621 posterior)
+
+Program 2: total 2
+ motif #2: 2 of 2 (0.954545 posterior)
+ motif #3: 2 of 2 (0.954545 posterior)
+ motif #5: 2 of 2 (0.954545 posterior)
+ motif #8: 2 of 2 (0.954545 posterior)
+ motif #10: 1 of 2 (0.500000 posterior)
+ motif #12: 2 of 2 (0.954545 posterior)
+ motif #20: 2 of 2 (0.954545 posterior)
+ motif #21: 2 of 2 (0.954545 posterior)
+ motif #26: 2 of 2 (0.954545 posterior)
+
+Program 3: total 1
+ motif #6: 1 of 1 (0.916667 posterior)
+ motif #7: 1 of 1 (0.916667 posterior)
+ motif #11: 1 of 1 (0.916667 posterior)
+ motif #13: 1 of 1 (0.916667 posterior)
+ motif #20: 1 of 1 (0.916667 posterior)
+ motif #25: 1 of 1 (0.916667 posterior)
+ motif #26: 1 of 1 (0.916667 posterior)
+ motif #28: 1 of 1 (0.916667 posterior)
+ motif #30: 1 of 1 (0.916667 posterior)
+
+Program 5: total 17
+ motif #7: 1 of 17 (0.063953 posterior)
+ motif #11: 2 of 17 (0.122093 posterior)
+ motif #14: 2 of 17 (0.122093 posterior)
+ motif #16: 16 of 17 (0.936047 posterior)
+ motif #17: 2 of 17 (0.122093 posterior)
+ motif #19: 1 of 17 (0.063953 posterior)
+ motif #21: 2 of 17 (0.122093 posterior)
+ motif #23: 9 of 17 (0.529070 posterior)
+ motif #24: 2 of 17 (0.122093 posterior)
+ motif #26: 2 of 17 (0.122093 posterior)
+ motif #27: 1 of 17 (0.063953 posterior)
+ motif #29: 5 of 17 (0.296512 posterior)
+ motif #30: 8 of 17 (0.470930 posterior)
+
+Program 6: total 5
+ motif #2: 2 of 5 (0.403846 posterior)
+ motif #6: 5 of 5 (0.980769 posterior)
+ motif #10: 1 of 5 (0.211538 posterior)
+ motif #11: 1 of 5 (0.211538 posterior)
+ motif #21: 1 of 5 (0.211538 posterior)
+ motif #23: 2 of 5 (0.403846 posterior)
+ motif #24: 4 of 5 (0.788462 posterior)
+ motif #25: 1 of 5 (0.211538 posterior)
+
+Program 7: total 22
+ motif #2: 3 of 22 (0.139640 posterior)
+ motif #7: 1 of 22 (0.049550 posterior)
+ motif #9: 1 of 22 (0.049550 posterior)
+ motif #14: 2 of 22 (0.094595 posterior)
+ motif #15: 7 of 22 (0.319820 posterior)
+ motif #20: 4 of 22 (0.184685 posterior)
+ motif #21: 2 of 22 (0.094595 posterior)
+ motif #22: 1 of 22 (0.049550 posterior)
+ motif #23: 2 of 22 (0.094595 posterior)
+ motif #24: 8 of 22 (0.364865 posterior)
+ motif #28: 1 of 22 (0.049550 posterior)
+ motif #30: 9 of 22 (0.409910 posterior)
+
+Program 8: total 4
+ motif #2: 4 of 4 (0.976190 posterior)
+ motif #5: 4 of 4 (0.976190 posterior)
+ motif #6: 1 of 4 (0.261905 posterior)
+ motif #8: 1 of 4 (0.261905 posterior)
+ motif #16: 3 of 4 (0.738095 posterior)
+ motif #24: 3 of 4 (0.738095 posterior)
+ motif #27: 2 of 4 (0.500000 posterior)
+
+Program 10: total 5
+ motif #3: 2 of 5 (0.403846 posterior)
+ motif #7: 1 of 5 (0.211538 posterior)
+ motif #14: 1 of 5 (0.211538 posterior)
+ motif #18: 5 of 5 (0.980769 posterior)
+ motif #21: 1 of 5 (0.211538 posterior)
+ motif #22: 5 of 5 (0.980769 posterior)
+ motif #26: 2 of 5 (0.403846 posterior)
+ motif #27: 2 of 5 (0.403846 posterior)
+
+Program 12: total 3
+ motif #4: 1 of 3 (0.343750 posterior)
+ motif #7: 2 of 3 (0.656250 posterior)
+ motif #11: 2 of 3 (0.656250 posterior)
+ motif #14: 1 of 3 (0.343750 posterior)
+ motif #23: 1 of 3 (0.343750 posterior)
+ motif #25: 3 of 3 (0.968750 posterior)
+
+Program 13: total 173
+ motif #4: 1 of 173 (0.006351 posterior)
+ motif #5: 41 of 173 (0.237298 posterior)
+ motif #10: 7 of 173 (0.040993 posterior)
+ motif #11: 1 of 173 (0.006351 posterior)
+ motif #13: 6 of 173 (0.035219 posterior)
+ motif #16: 18 of 173 (0.104503 posterior)
+ motif #17: 2 of 173 (0.012125 posterior)
+ motif #20: 2 of 173 (0.012125 posterior)
+ motif #21: 12 of 173 (0.069861 posterior)
+ motif #23: 4 of 173 (0.023672 posterior)
+ motif #25: 2 of 173 (0.012125 posterior)
+ motif #26: 15 of 173 (0.087182 posterior)
+ motif #27: 4 of 173 (0.023672 posterior)
+ motif #28: 6 of 173 (0.035219 posterior)
+ motif #29: 15 of 173 (0.087182 posterior)
+ motif #30: 33 of 173 (0.191109 posterior)
+
+Program 15: total 2
+ motif #3: 2 of 2 (0.954545 posterior)
+ motif #10: 2 of 2 (0.954545 posterior)
+ motif #12: 2 of 2 (0.954545 posterior)
+ motif #15: 2 of 2 (0.954545 posterior)
+ motif #24: 1 of 2 (0.500000 posterior)
+ motif #29: 2 of 2 (0.954545 posterior)
+
+Motif #2; total sequences 11; gAAGaaagCcaA / TtgGctttCTTc
+Motif #3; total sequences 6; gaCTtNCCtTgg / ccAaGGNaAGtc
+Motif #4; total sequences 2; ACTCGGATGACS / SGTCATCCGAGT
+Motif #5; total sequences 47; NaGATNNtTATCtN / NaGATAaNNATCtN
+Motif #6; total sequences 7; cACAgacCACCa / tGGTGgtcTGTg
+Motif #7; total sequences 8; TTNNANRTGAaa / ttTCAYNTNNAA
+Motif #8; total sequences 3; AGgNAAtgCcAC / GTgGcaTTNcCT
+Motif #9; total sequences 1; agatagtgatca / tgatcactatct
+Motif #10; total sequences 17; tGgGGGtGGGGNGGGG / CCCCNCCCCaCCCcCa
+Motif #11; total sequences 7; cACActGAAaCc / gGtTTCagTGTg
+Motif #12; total sequences 7; gcCTTCaGAtGT / ACaTCtGAAGgc
+Motif #13; total sequences 7; tCTtCcNTcaCcTG / CAgGtgANgGaAGa
+Motif #14; total sequences 9; NNGatTaTGcgtCa / tGacgCAtAatCNN
+Motif #15; total sequences 9; CacNggcctcGA / TCgaggccNgtG
+Motif #16; total sequences 37; cNcCacttCCTctt / aagAGGaagtGgNg
+Motif #17; total sequences 4; GAGAcGAgcGRGga / tcCYCgcTCgTCTC
+Motif #18; total sequences 9; AaCCattTCcTg / cAgGAaatGGtT
+Motif #19; total sequences 1; tcagagtagata / tatctactctga
+Motif #20; total sequences 9; gtaNtNCTgtCT / AGacAGNaNtac
+Motif #21; total sequences 20; AGggNAGAaAGA / TCTtTCTNccCT
+Motif #22; total sequences 8; TgTgaGTagtCt / aGactACtcAcA
+Motif #23; total sequences 21; WGctNtGANTcN / NgANTCaNagCW
+Motif #24; total sequences 18; AMgtaKagAAtgNc / gNcaTTctMtacKT
+Motif #25; total sequences 7; cNGtaAgcCaGGag / ctCCtGgcTtaCNg
+Motif #26; total sequences 27; AaaAAaaAAacaAA / TTtgtTTttTTttT
+Motif #27; total sequences 10; cNggagtaAgTCag / ctGAcTtactccNg
+Motif #28; total sequences 8; CNCTNTTtgTttgtN / NacaaAcaAANAGNG
+Motif #29; total sequences 29; NTANtgATaNcAtN / NaTgNtATcaNTAN
+Motif #30; total sequences 54; tatNNNTNaaNNttN / NaaNNttNANNNata
+......
+Iter 26: Current posterior 2983.975832, best 3024.063119
+
+Number of sequences: 257
+Number of programs: 13
+Number of motifs: 30
+Motif widths: 12 12 12 12 13 12 12 12 12 16 12 12 14 12 12 15 14 12 12 12 14 12 13 14 14 15 14 15 14 15 
+Program 1: total 29
+ motif #2: 1 of 29 (0.037671 posterior)
+ motif #5: 1 of 29 (0.037671 posterior)
+ motif #6: 1 of 29 (0.037671 posterior)
+ motif #12: 2 of 29 (0.071918 posterior)
+ motif #14: 2 of 29 (0.071918 posterior)
+ motif #16: 2 of 29 (0.071918 posterior)
+ motif #18: 9 of 29 (0.311644 posterior)
+ motif #19: 5 of 29 (0.174658 posterior)
+ motif #20: 18 of 29 (0.619863 posterior)
+ motif #21: 1 of 29 (0.037671 posterior)
+ motif #22: 4 of 29 (0.140411 posterior)
+ motif #24: 2 of 29 (0.071918 posterior)
+ motif #25: 2 of 29 (0.071918 posterior)
+ motif #26: 10 of 29 (0.345890 posterior)
+ motif #28: 1 of 29 (0.037671 posterior)
+ motif #30: 7 of 29 (0.243151 posterior)
+
+Program 2: total 2
+ motif #3: 1 of 2 (0.500000 posterior)
+ motif #6: 2 of 2 (0.954545 posterior)
+ motif #9: 2 of 2 (0.954545 posterior)
+ motif #10: 1 of 2 (0.500000 posterior)
+ motif #14: 1 of 2 (0.500000 posterior)
+ motif #20: 2 of 2 (0.954545 posterior)
+ motif #21: 2 of 2 (0.954545 posterior)
+ motif #26: 1 of 2 (0.500000 posterior)
+
+Program 4: total 15
+ motif #9: 9 of 15 (0.598684 posterior)
+ motif #14: 1 of 15 (0.072368 posterior)
+ motif #15: 3 of 15 (0.203947 posterior)
+ motif #16: 4 of 15 (0.269737 posterior)
+ motif #19: 2 of 15 (0.138158 posterior)
+ motif #23: 4 of 15 (0.269737 posterior)
+
+Program 5: total 50
+ motif #3: 1 of 50 (0.021912 posterior)
+ motif #5: 1 of 50 (0.021912 posterior)
+ motif #10: 2 of 50 (0.041833 posterior)
+ motif #16: 10 of 50 (0.201195 posterior)
+ motif #17: 5 of 50 (0.101594 posterior)
+ motif #23: 14 of 50 (0.280876 posterior)
+ motif #24: 8 of 50 (0.161355 posterior)
+ motif #25: 2 of 50 (0.041833 posterior)
+ motif #26: 4 of 50 (0.081673 posterior)
+ motif #27: 2 of 50 (0.041833 posterior)
+ motif #29: 22 of 50 (0.440239 posterior)
+ motif #30: 5 of 50 (0.101594 posterior)
+
+Program 6: total 2
+ motif #10: 1 of 2 (0.500000 posterior)
+ motif #11: 2 of 2 (0.954545 posterior)
+ motif #13: 2 of 2 (0.954545 posterior)
+ motif #14: 2 of 2 (0.954545 posterior)
+ motif #20: 2 of 2 (0.954545 posterior)
+ motif #24: 2 of 2 (0.954545 posterior)
+ motif #30: 1 of 2 (0.500000 posterior)
+
+Program 7: total 8
+ motif #2: 2 of 8 (0.256098 posterior)
+ motif #3: 1 of 8 (0.134146 posterior)
+ motif #7: 1 of 8 (0.134146 posterior)
+ motif #20: 1 of 8 (0.134146 posterior)
+ motif #21: 1 of 8 (0.134146 posterior)
+ motif #24: 8 of 8 (0.987805 posterior)
+ motif #28: 1 of 8 (0.134146 posterior)
+ motif #30: 8 of 8 (0.987805 posterior)
+
+Program 8: total 3
+ motif #4: 2 of 3 (0.656250 posterior)
+ motif #5: 3 of 3 (0.968750 posterior)
+ motif #8: 3 of 3 (0.968750 posterior)
+ motif #12: 1 of 3 (0.343750 posterior)
+ motif #25: 1 of 3 (0.343750 posterior)
+ motif #27: 3 of 3 (0.968750 posterior)
+
+Program 9: total 14
+ motif #17: 6 of 14 (0.429577 posterior)
+ motif #21: 1 of 14 (0.077465 posterior)
+ motif #23: 3 of 14 (0.218310 posterior)
+ motif #24: 1 of 14 (0.077465 posterior)
+ motif #28: 8 of 14 (0.570423 posterior)
+ motif #30: 2 of 14 (0.147887 posterior)
+
+Program 10: total 5
+ motif #3: 3 of 5 (0.596154 posterior)
+ motif #6: 1 of 5 (0.211538 posterior)
+ motif #12: 2 of 5 (0.403846 posterior)
+ motif #15: 1 of 5 (0.211538 posterior)
+ motif #16: 2 of 5 (0.403846 posterior)
+ motif #18: 5 of 5 (0.980769 posterior)
+ motif #23: 5 of 5 (0.980769 posterior)
+ motif #24: 1 of 5 (0.211538 posterior)
+ motif #26: 1 of 5 (0.211538 posterior)
+
+Program 11: total 7
+ motif #10: 1 of 7 (0.152778 posterior)
+ motif #14: 1 of 7 (0.152778 posterior)
+ motif #18: 4 of 7 (0.569444 posterior)
+ motif #21: 4 of 7 (0.569444 posterior)
+
+Program 12: total 1
+ motif #1: 1 of 1 (0.916667 posterior)
+ motif #3: 1 of 1 (0.916667 posterior)
+ motif #7: 1 of 1 (0.916667 posterior)
+ motif #14: 1 of 1 (0.916667 posterior)
+ motif #16: 1 of 1 (0.916667 posterior)
+ motif #17: 1 of 1 (0.916667 posterior)
+ motif #19: 1 of 1 (0.916667 posterior)
+ motif #24: 1 of 1 (0.916667 posterior)
+ motif #30: 1 of 1 (0.916667 posterior)
+
+Program 13: total 99
+ motif #2: 5 of 99 (0.051411 posterior)
+ motif #5: 40 of 99 (0.404234 posterior)
+ motif #10: 11 of 99 (0.111895 posterior)
+ motif #16: 10 of 99 (0.101815 posterior)
+ motif #18: 4 of 99 (0.041331 posterior)
+ motif #20: 3 of 99 (0.031250 posterior)
+ motif #21: 6 of 99 (0.061492 posterior)
+ motif #26: 14 of 99 (0.142137 posterior)
+ motif #28: 3 of 99 (0.031250 posterior)
+ motif #30: 38 of 99 (0.384073 posterior)
+
+Program 14: total 22
+ motif #8: 1 of 22 (0.049550 posterior)
+ motif #9: 5 of 22 (0.229730 posterior)
+ motif #25: 2 of 22 (0.094595 posterior)
+ motif #27: 3 of 22 (0.139640 posterior)
+
+Motif #1; total sequences 1; actgttgggtat / atacccaacagt
+Motif #2; total sequences 8; GAaGtaActCAC / GTGagTtaCtTC
+Motif #3; total sequences 7; gNCTNtCCTtGg / cCaAGGaNAGNc
+Motif #4; total sequences 2; RGATTAGCCGCR / YGCGGCTAATCY
+Motif #5; total sequences 45; agaTNcTTATCtN / NaGATAAgNAtct
+Motif #6; total sequences 4; AAWaNcAMActA / TagTKTgNtWTT
+Motif #7; total sequences 2; TARAGGCSKAGG / CCTMSGCCTYTA
+Motif #8; total sequences 4; CACTgcANNGgN / NcCNNTgcAGTG
+Motif #9; total sequences 16; AGATAaNgATCa / tGATcNtTATCT
+Motif #10; total sequences 16; NGGgGGWgGGGaGgGg / cCcCtCCCcWCCcCCN
+Motif #11; total sequences 2; MMGMAGGCACMT / AKGTGCCTKCKK
+Motif #12; total sequences 5; gCCNgatgatGa / tCatcatcNGGc
+Motif #13; total sequences 2; GTGGWCWSTTRGCY / RGCYAASWGWCCAC
+Motif #14; total sequences 8; gtNGWGgATgtg / cacATcCWCNac
+Motif #15; total sequences 4; CMaARGCAtNGA / TCNaTGCYTtKG
+Motif #16; total sequences 29; aNccaCtTCCTgtct / agacAGGAaGtggNt
+Motif #17; total sequences 12; AagAGGaAGTGgGR / YCcCACTtCCTctT
+Motif #18; total sequences 22; AaCCacttCCtN / NaGGaagtGGtT
+Motif #19; total sequences 8; ANTAYttNtAGR / YCTaNaaRTANT
+Motif #20; total sequences 26; TNNttNCttKgc / gcMaaGNaaNNA
+Motif #21; total sequences 15; tAGGNNANaaAggN / NccTttNTNNCCTa
+Motif #22; total sequences 4; AtGgaNSYNTCT / AGANRSNtcCaT
+Motif #23; total sequences 26; ctgctNtGANTca / tgANTCaNagcag
+Motif #24; total sequences 23; AagtANacAaNNNc / gNNNtTgtNTactT
+Motif #25; total sequences 7; gGAcaNGAGGaggC / GcctCCTCNtgTCc
+Motif #26; total sequences 30; aaNAAaaaAANNAAA / TTTNNTTtttTTNtt
+Motif #27; total sequences 8; TTtRaWTRactSAG / CTSagtYAWtYaAA
+Motif #28; total sequences 13; CgCTNttTgTttcTg / cAgaaAcAaaNAGcG
+Motif #29; total sequences 22; NNaNWGATAaNAtC / GaTNtTATCWNtNN
+Motif #30; total sequences 62; taNtNtTNaaNNtaN / NtaNNttNAaNaNta
+.
+Iter 27: Current posterior 3205.568581, best 3260.189372
+
+Number of sequences: 257
+Number of programs: 14
+Number of motifs: 29
+Motif widths: 12 12 12 13 12 12 12 12 16 12 12 14 12 12 15 14 12 12 12 14 12 13 14 14 15 14 15 14 15 
+Program 1: total 28
+ motif #2: 1 of 28 (0.039007 posterior)
+ motif #5: 1 of 28 (0.039007 posterior)
+ motif #14: 2 of 28 (0.074468 posterior)
+ motif #16: 3 of 28 (0.109929 posterior)
+ motif #18: 9 of 28 (0.322695 posterior)
+ motif #19: 6 of 28 (0.216312 posterior)
+ motif #20: 18 of 28 (0.641844 posterior)
+ motif #22: 7 of 28 (0.251773 posterior)
+ motif #24: 2 of 28 (0.074468 posterior)
+ motif #25: 2 of 28 (0.074468 posterior)
+ motif #26: 12 of 28 (0.429078 posterior)
+ motif #28: 1 of 28 (0.039007 posterior)
+ motif #30: 7 of 28 (0.251773 posterior)
+
+Program 2: total 2
+ motif #3: 2 of 2 (0.954545 posterior)
+ motif #6: 2 of 2 (0.954545 posterior)
+ motif #9: 2 of 2 (0.954545 posterior)
+ motif #10: 1 of 2 (0.500000 posterior)
+ motif #20: 2 of 2 (0.954545 posterior)
+ motif #21: 2 of 2 (0.954545 posterior)
+ motif #26: 2 of 2 (0.954545 posterior)
+
+Program 3: total 1
+ motif #7: 1 of 1 (0.916667 posterior)
+ motif #15: 1 of 1 (0.916667 posterior)
+ motif #20: 1 of 1 (0.916667 posterior)
+ motif #25: 1 of 1 (0.916667 posterior)
+ motif #30: 1 of 1 (0.916667 posterior)
+
+Program 4: total 11
+ motif #9: 7 of 11 (0.633929 posterior)
+ motif #13: 1 of 11 (0.098214 posterior)
+ motif #15: 2 of 11 (0.187500 posterior)
+ motif #16: 5 of 11 (0.455357 posterior)
+ motif #19: 1 of 11 (0.098214 posterior)
+ motif #23: 4 of 11 (0.366071 posterior)
+
+Program 5: total 56
+ motif #3: 1 of 56 (0.019573 posterior)
+ motif #5: 1 of 56 (0.019573 posterior)
+ motif #10: 1 of 56 (0.019573 posterior)
+ motif #16: 12 of 56 (0.215302 posterior)
+ motif #17: 7 of 56 (0.126335 posterior)
+ motif #23: 17 of 56 (0.304270 posterior)
+ motif #24: 7 of 56 (0.126335 posterior)
+ motif #25: 2 of 56 (0.037367 posterior)
+ motif #26: 3 of 56 (0.055160 posterior)
+ motif #27: 3 of 56 (0.055160 posterior)
+ motif #29: 24 of 56 (0.428826 posterior)
+ motif #30: 6 of 56 (0.108541 posterior)
+
+Program 6: total 2
+ motif #10: 1 of 2 (0.500000 posterior)
+ motif #11: 2 of 2 (0.954545 posterior)
+ motif #13: 2 of 2 (0.954545 posterior)
+ motif #14: 2 of 2 (0.954545 posterior)
+ motif #20: 2 of 2 (0.954545 posterior)
+ motif #24: 2 of 2 (0.954545 posterior)
+ motif #30: 1 of 2 (0.500000 posterior)
+
+Program 7: total 8
+ motif #2: 2 of 8 (0.256098 posterior)
+ motif #6: 1 of 8 (0.134146 posterior)
+ motif #20: 2 of 8 (0.256098 posterior)
+ motif #21: 1 of 8 (0.134146 posterior)
+ motif #24: 8 of 8 (0.987805 posterior)
+ motif #28: 1 of 8 (0.134146 posterior)
+ motif #30: 8 of 8 (0.987805 posterior)
+
+Program 8: total 2
+ motif #4: 2 of 2 (0.954545 posterior)
+ motif #5: 2 of 2 (0.954545 posterior)
+ motif #8: 2 of 2 (0.954545 posterior)
+ motif #9: 1 of 2 (0.500000 posterior)
+ motif #12: 2 of 2 (0.954545 posterior)
+ motif #25: 2 of 2 (0.954545 posterior)
+ motif #27: 2 of 2 (0.954545 posterior)
+
+Program 9: total 13
+ motif #5: 1 of 13 (0.083333 posterior)
+ motif #17: 5 of 13 (0.386364 posterior)
+ motif #21: 2 of 13 (0.159091 posterior)
+ motif #23: 1 of 13 (0.083333 posterior)
+ motif #24: 2 of 13 (0.159091 posterior)
+ motif #28: 8 of 13 (0.613636 posterior)
+ motif #30: 4 of 13 (0.310606 posterior)
+
+Program 10: total 5
+ motif #3: 2 of 5 (0.403846 posterior)
+ motif #6: 1 of 5 (0.211538 posterior)
+ motif #12: 2 of 5 (0.403846 posterior)
+ motif #15: 1 of 5 (0.211538 posterior)
+ motif #16: 2 of 5 (0.403846 posterior)
+ motif #18: 5 of 5 (0.980769 posterior)
+ motif #23: 5 of 5 (0.980769 posterior)
+ motif #24: 1 of 5 (0.211538 posterior)
+ motif #26: 1 of 5 (0.211538 posterior)
+
+Program 11: total 9
+ motif #10: 1 of 9 (0.119565 posterior)
+ motif #18: 6 of 9 (0.663043 posterior)
+ motif #21: 4 of 9 (0.445652 posterior)
+
+Program 13: total 91
+ motif #2: 8 of 91 (0.088816 posterior)
+ motif #5: 40 of 91 (0.439693 posterior)
+ motif #10: 12 of 91 (0.132675 posterior)
+ motif #16: 9 of 91 (0.099781 posterior)
+ motif #18: 5 of 91 (0.055921 posterior)
+ motif #20: 2 of 91 (0.023026 posterior)
+ motif #21: 6 of 91 (0.066886 posterior)
+ motif #26: 16 of 91 (0.176535 posterior)
+ motif #27: 1 of 91 (0.012061 posterior)
+ motif #28: 2 of 91 (0.023026 posterior)
+ motif #30: 40 of 91 (0.439693 posterior)
+
+Program 14: total 28
+ motif #4: 1 of 28 (0.039007 posterior)
+ motif #8: 1 of 28 (0.039007 posterior)
+ motif #9: 5 of 28 (0.180851 posterior)
+ motif #11: 1 of 28 (0.039007 posterior)
+ motif #15: 1 of 28 (0.039007 posterior)
+ motif #20: 1 of 28 (0.039007 posterior)
+ motif #25: 3 of 28 (0.109929 posterior)
+ motif #27: 3 of 28 (0.109929 posterior)
+
+Program 15: total 1
+ motif #3: 1 of 1 (0.916667 posterior)
+ motif #4: 1 of 1 (0.916667 posterior)
+ motif #11: 1 of 1 (0.916667 posterior)
+ motif #17: 1 of 1 (0.916667 posterior)
+ motif #19: 1 of 1 (0.916667 posterior)
+ motif #22: 1 of 1 (0.916667 posterior)
+ motif #24: 1 of 1 (0.916667 posterior)
+
+Motif #2; total sequences 11; gAaGtaActCAc / gTGagTtaCtTc
+Motif #3; total sequences 6; gNCTttCCttgg / ccaaGGaaAGNc
+Motif #4; total sequences 4; RgAttAGCCRNg / cNYGGCTaaTcY
+Motif #5; total sequences 45; agaTNctTATCtN / NaGATAagNAtct
+Motif #6; total sequences 4; AAtaNMAcAYWA / TWRTgTKNtaTT
+Motif #7; total sequences 1; gacacggggcgt / acgccccgtgtc
+Motif #8; total sequences 3; CaCTgcaNTGGc / gCCANtgcAGtG
+Motif #9; total sequences 15; AGATaacgATCa / tGATcgttATCT
+Motif #10; total sequences 16; aGGgGGagGGGaGgGg / cCcCtCCCctCCcCCt
+Motif #11; total sequences 4; MaGaaKGYACNT / ANGTRCMttCtK
+Motif #12; total sequences 4; gCCNGAWgAtGa / tCaTcWTCNGGc
+Motif #13; total sequences 3; GTGGaCtgTtggCc / gGccaAcaGtCCAC
+Motif #14; total sequences 4; STNgWGRaTgKg / cMcAtYCWcNAS
+Motif #15; total sequences 5; CaaAggCAtNGA / TCNaTGccTttG
+Motif #16; total sequences 31; aNYcaCtTCCTgtct / agacAGGAaGtgRNt
+Motif #17; total sequences 13; AagAGGaAGTGggg / cccCACTtCCTctT
+Motif #18; total sequences 25; AaCCaYttCCtN / NaGGaaRtGGtT
+Motif #19; total sequences 8; ANTATTNttAGg / cCTaaNAATANT
+Motif #20; total sequences 28; TgttttCttKgc / gcMaaGaaaacA
+Motif #21; total sequences 15; NAGGNNAgAaAggN / NccTtTcTNNCCTN
+Motif #22; total sequences 8; ATGgANcNNTCT / AGANNgNTcCAT
+Motif #23; total sequences 27; cWgctNtGAgTcA / TgAcTCaNagcWg
+Motif #24; total sequences 23; AagtANaSAaNNgc / gcNNtTStNTactT
+Motif #25; total sequences 10; ggANNNGAggANKC / GMNTccTCNNNTcc
+Motif #26; total sequences 34; aaNAAAaaAANcaAA / TTtgNTTttTTTNtt
+Motif #27; total sequences 9; TTtgatTaactgAG / CTcagttAatcaAA
+Motif #28; total sequences 12; CNCTNTtTgTTtSTg / cASaAAcAaANAGNG
+Motif #29; total sequences 24; NNaNaGATAaNATC / GATNtTATCtNtNN
+Motif #30; total sequences 67; tattNtTNaaNNtaN / NtaNNttNAaNaata
+..
+Iter 29: Current posterior 3176.360230, best 3270.539071
+
+Number of sequences: 257
+Number of programs: 12
+Number of motifs: 30
+Motif widths: 12 12 12 12 13 12 12 12 12 16 12 12 14 12 12 15 14 12 12 12 14 12 13 14 14 15 14 15 14 15 
+Program 1: total 33
+ motif #6: 2 of 33 (0.063253 posterior)
+ motif #7: 4 of 33 (0.123494 posterior)
+ motif #9: 3 of 33 (0.093373 posterior)
+ motif #10: 1 of 33 (0.033133 posterior)
+ motif #14: 1 of 33 (0.033133 posterior)
+ motif #15: 6 of 33 (0.183735 posterior)
+ motif #16: 3 of 33 (0.093373 posterior)
+ motif #17: 1 of 33 (0.033133 posterior)
+ motif #18: 8 of 33 (0.243976 posterior)
+ motif #19: 4 of 33 (0.123494 posterior)
+ motif #20: 27 of 33 (0.816265 posterior)
+ motif #21: 3 of 33 (0.093373 posterior)
+ motif #22: 1 of 33 (0.033133 posterior)
+ motif #23: 3 of 33 (0.093373 posterior)
+ motif #24: 2 of 33 (0.063253 posterior)
+ motif #25: 3 of 33 (0.093373 posterior)
+ motif #26: 6 of 33 (0.183735 posterior)
+ motif #28: 2 of 33 (0.063253 posterior)
+ motif #29: 1 of 33 (0.033133 posterior)
+ motif #30: 12 of 33 (0.364458 posterior)
+
+Program 2: total 1
+ motif #1: 1 of 1 (0.916667 posterior)
+ motif #3: 1 of 1 (0.916667 posterior)
+ motif #6: 1 of 1 (0.916667 posterior)
+ motif #8: 1 of 1 (0.916667 posterior)
+ motif #9: 1 of 1 (0.916667 posterior)
+ motif #12: 1 of 1 (0.916667 posterior)
+ motif #21: 1 of 1 (0.916667 posterior)
+ motif #26: 1 of 1 (0.916667 posterior)
+
+Program 4: total 5
+ motif #1: 1 of 5 (0.211538 posterior)
+ motif #9: 4 of 5 (0.788462 posterior)
+ motif #10: 1 of 5 (0.211538 posterior)
+ motif #14: 2 of 5 (0.403846 posterior)
+ motif #16: 3 of 5 (0.596154 posterior)
+ motif #25: 1 of 5 (0.211538 posterior)
+
+Program 5: total 76
+ motif #8: 1 of 76 (0.014436 posterior)
+ motif #11: 2 of 76 (0.027559 posterior)
+ motif #12: 2 of 76 (0.027559 posterior)
+ motif #14: 1 of 76 (0.014436 posterior)
+ motif #16: 13 of 76 (0.171916 posterior)
+ motif #17: 8 of 76 (0.106299 posterior)
+ motif #22: 1 of 76 (0.014436 posterior)
+ motif #23: 16 of 76 (0.211286 posterior)
+ motif #24: 1 of 76 (0.014436 posterior)
+ motif #25: 12 of 76 (0.158793 posterior)
+ motif #26: 2 of 76 (0.027559 posterior)
+ motif #27: 1 of 76 (0.014436 posterior)
+ motif #29: 28 of 76 (0.368766 posterior)
+ motif #30: 8 of 76 (0.106299 posterior)
+
+Program 6: total 2
+ motif #2: 1 of 2 (0.500000 posterior)
+ motif #3: 1 of 2 (0.500000 posterior)
+ motif #8: 1 of 2 (0.500000 posterior)
+ motif #11: 2 of 2 (0.954545 posterior)
+ motif #17: 1 of 2 (0.500000 posterior)
+ motif #18: 2 of 2 (0.954545 posterior)
+ motif #20: 1 of 2 (0.500000 posterior)
+ motif #24: 2 of 2 (0.954545 posterior)
+ motif #27: 1 of 2 (0.500000 posterior)
+ motif #30: 2 of 2 (0.954545 posterior)
+
+Program 7: total 8
+ motif #18: 1 of 8 (0.134146 posterior)
+ motif #20: 3 of 8 (0.378049 posterior)
+ motif #22: 1 of 8 (0.134146 posterior)
+ motif #24: 8 of 8 (0.987805 posterior)
+ motif #28: 1 of 8 (0.134146 posterior)
+ motif #29: 2 of 8 (0.256098 posterior)
+ motif #30: 7 of 8 (0.865854 posterior)
+
+Program 8: total 2
+ motif #4: 2 of 2 (0.954545 posterior)
+ motif #8: 2 of 2 (0.954545 posterior)
+ motif #9: 1 of 2 (0.500000 posterior)
+ motif #11: 2 of 2 (0.954545 posterior)
+ motif #15: 1 of 2 (0.500000 posterior)
+ motif #20: 1 of 2 (0.500000 posterior)
+ motif #21: 2 of 2 (0.954545 posterior)
+ motif #25: 2 of 2 (0.954545 posterior)
+ motif #27: 2 of 2 (0.954545 posterior)
+
+Program 9: total 6
+ motif #3: 1 of 6 (0.177419 posterior)
+ motif #17: 5 of 6 (0.822581 posterior)
+ motif #23: 1 of 6 (0.177419 posterior)
+ motif #28: 4 of 6 (0.661290 posterior)
+
+Program 10: total 4
+ motif #9: 1 of 4 (0.261905 posterior)
+ motif #12: 1 of 4 (0.261905 posterior)
+ motif #13: 3 of 4 (0.738095 posterior)
+ motif #18: 4 of 4 (0.976190 posterior)
+ motif #23: 3 of 4 (0.738095 posterior)
+ motif #26: 1 of 4 (0.261905 posterior)
+ motif #28: 1 of 4 (0.261905 posterior)
+
+Program 11: total 7
+ motif #2: 1 of 7 (0.152778 posterior)
+ motif #5: 2 of 7 (0.291667 posterior)
+ motif #8: 1 of 7 (0.152778 posterior)
+ motif #17: 1 of 7 (0.152778 posterior)
+ motif #18: 7 of 7 (0.986111 posterior)
+ motif #21: 1 of 7 (0.152778 posterior)
+ motif #22: 1 of 7 (0.152778 posterior)
+
+Program 13: total 86
+ motif #2: 5 of 86 (0.059165 posterior)
+ motif #5: 38 of 86 (0.441995 posterior)
+ motif #9: 1 of 86 (0.012761 posterior)
+ motif #10: 13 of 86 (0.151972 posterior)
+ motif #16: 2 of 86 (0.024362 posterior)
+ motif #17: 5 of 86 (0.059165 posterior)
+ motif #18: 21 of 86 (0.244780 posterior)
+ motif #21: 2 of 86 (0.024362 posterior)
+ motif #26: 18 of 86 (0.209977 posterior)
+ motif #27: 1 of 86 (0.012761 posterior)
+ motif #28: 3 of 86 (0.035963 posterior)
+ motif #30: 33 of 86 (0.383991 posterior)
+
+Program 14: total 27
+ motif #9: 11 of 27 (0.408088 posterior)
+ motif #20: 5 of 27 (0.187500 posterior)
+ motif #23: 1 of 27 (0.040441 posterior)
+ motif #24: 1 of 27 (0.040441 posterior)
+ motif #25: 3 of 27 (0.113971 posterior)
+
+Motif #1; total sequences 2; TRCCTACAGKCA / TGMCTGTAGGYA
+Motif #2; total sequences 7; gAAGcaAcTcAg / cTgAgTtgCTTc
+Motif #3; total sequences 3; GNcTtTaCcTgG / CcAgGtAaAgNC
+Motif #4; total sequences 2; RGATTAGCCGCR / YGCGGCTAATCY
+Motif #5; total sequences 40; aGaTNctTATCtN / NaGATAagNAtCt
+Motif #6; total sequences 3; gCTCTCACCcAA / TTgGGTGAGAGc
+Motif #7; total sequences 4; GCKWtGGTGMGG / CCKCACCaWMGC
+Motif #8; total sequences 6; CcctGgRgtGgC / GcCacYcCaggG
+Motif #9; total sequences 22; AGATAANgATCW / WGATcNTTATCT
+Motif #10; total sequences 15; NgGGGGNgGgGggNGg / cCNccCcCcNCCCCcN
+Motif #11; total sequences 6; cWgAatGccCWT / AWGggCatTcWg
+Motif #12; total sequences 4; CCNgGAagNTGW / WCANctTCcNGG
+Motif #13; total sequences 3; GTGGagacAtaTtc / gaAtaTgtctCCAC
+Motif #14; total sequences 4; GTggMRACtGAG / CTCaGTYKccAC
+Motif #15; total sequences 7; GcaAGNCtatGA / TCataGNCTtgC
+Motif #16; total sequences 21; aNNcaCatCCTGNct / agNCAGGatGtgNNt
+Motif #17; total sequences 21; aagAGGaaGTGNgg / ccNCACttCCTctt
+Motif #18; total sequences 43; aNCcactTCCtK / MaGGAagtgGNt
+Motif #19; total sequences 4; ANTATTNTTAGR / YCTAANAATANT
+Motif #20; total sequences 37; TcttttCtttgt / acaaaGaaaagA
+Motif #21; total sequences 9; NAGGNtAgaAAGag / ctCTTtcTaNCCTN
+Motif #22; total sequences 4; NTgaCTATGtaC / GtaCATAGtcAN
+Motif #23; total sequences 24; NNNCtNTGANtCA / TGaNTCANaGNNN
+Motif #24; total sequences 14; AaggataGatNggc / gccNatCtatcctT
+Motif #25; total sequences 21; NaANNtgacaatNC / GNattgtcaNNTtN
+Motif #26; total sequences 28; agNAAaMaAANaaAA / TTttNTTtKtTTNct
+Motif #27; total sequences 5; ttgGatTggcTgAG / CTcAgccAatCcaa
+Motif #28; total sequences 11; ctcTaTtTNTttNTN / NANaaANAaAtAgag
+Motif #29; total sequences 31; NtaNtGATAaNATC / GATNtTATCaNtaN
+Motif #30; total sequences 62; tatNNNTNaaNatWN / NWatNttNANNNata
+...
+Iter 32: Current posterior 3240.946952, best 3274.329478
+
+Number of sequences: 257
+Number of programs: 14
+Number of motifs: 28
+Motif widths: 12 12 13 12 12 12 12 18 12 12 14 12 12 15 14 12 12 12 14 12 14 14 14 17 14 15 14 15 
+Program 1: total 36
+ motif #9: 3 of 36 (0.085635 posterior)
+ motif #10: 5 of 36 (0.140884 posterior)
+ motif #11: 1 of 36 (0.030387 posterior)
+ motif #12: 4 of 36 (0.113260 posterior)
+ motif #15: 12 of 36 (0.334254 posterior)
+ motif #17: 3 of 36 (0.085635 posterior)
+ motif #18: 13 of 36 (0.361878 posterior)
+ motif #19: 4 of 36 (0.113260 posterior)
+ motif #20: 29 of 36 (0.803867 posterior)
+ motif #22: 4 of 36 (0.113260 posterior)
+ motif #23: 2 of 36 (0.058011 posterior)
+ motif #25: 1 of 36 (0.030387 posterior)
+ motif #27: 1 of 36 (0.030387 posterior)
+ motif #28: 6 of 36 (0.168508 posterior)
+ motif #30: 13 of 36 (0.361878 posterior)
+
+Program 2: total 16
+ motif #13: 1 of 16 (0.067901 posterior)
+ motif #28: 3 of 16 (0.191358 posterior)
+
+Program 3: total 8
+ motif #30: 1 of 8 (0.134146 posterior)
+
+Program 4: total 3
+ motif #2: 1 of 3 (0.343750 posterior)
+ motif #9: 3 of 3 (0.968750 posterior)
+ motif #10: 3 of 3 (0.968750 posterior)
+ motif #15: 3 of 3 (0.968750 posterior)
+ motif #16: 1 of 3 (0.343750 posterior)
+ motif #20: 2 of 3 (0.656250 posterior)
+ motif #21: 2 of 3 (0.656250 posterior)
+ motif #25: 2 of 3 (0.656250 posterior)
+ motif #29: 1 of 3 (0.343750 posterior)
+
+Program 5: total 70
+ motif #1: 4 of 70 (0.058405 posterior)
+ motif #11: 2 of 70 (0.029915 posterior)
+ motif #16: 2 of 70 (0.029915 posterior)
+ motif #19: 2 of 70 (0.029915 posterior)
+ motif #22: 10 of 70 (0.143875 posterior)
+ motif #23: 16 of 70 (0.229345 posterior)
+ motif #24: 5 of 70 (0.072650 posterior)
+ motif #25: 3 of 70 (0.044160 posterior)
+ motif #26: 1 of 70 (0.015670 posterior)
+ motif #27: 2 of 70 (0.029915 posterior)
+ motif #28: 1 of 70 (0.015670 posterior)
+ motif #29: 23 of 70 (0.329060 posterior)
+ motif #30: 10 of 70 (0.143875 posterior)
+
+Program 6: total 10
+ motif #16: 2 of 10 (0.205882 posterior)
+ motif #17: 1 of 10 (0.107843 posterior)
+ motif #19: 1 of 10 (0.107843 posterior)
+ motif #22: 4 of 10 (0.401961 posterior)
+ motif #29: 4 of 10 (0.401961 posterior)
+
+Program 7: total 8
+ motif #2: 3 of 8 (0.378049 posterior)
+ motif #9: 1 of 8 (0.134146 posterior)
+ motif #18: 1 of 8 (0.134146 posterior)
+ motif #20: 8 of 8 (0.987805 posterior)
+ motif #24: 8 of 8 (0.987805 posterior)
+ motif #28: 1 of 8 (0.134146 posterior)
+ motif #30: 7 of 8 (0.865854 posterior)
+
+Program 8: total 5
+ motif #16: 1 of 5 (0.211538 posterior)
+ motif #18: 2 of 5 (0.403846 posterior)
+
+Program 9: total 11
+ motif #2: 8 of 11 (0.723214 posterior)
+ motif #11: 1 of 11 (0.098214 posterior)
+ motif #13: 1 of 11 (0.098214 posterior)
+ motif #14: 1 of 11 (0.098214 posterior)
+ motif #16: 1 of 11 (0.098214 posterior)
+ motif #17: 4 of 11 (0.366071 posterior)
+ motif #20: 1 of 11 (0.098214 posterior)
+ motif #21: 2 of 11 (0.187500 posterior)
+ motif #26: 2 of 11 (0.187500 posterior)
+ motif #28: 1 of 11 (0.098214 posterior)
+
+Program 10: total 1
+ motif #6: 1 of 1 (0.916667 posterior)
+ motif #8: 1 of 1 (0.916667 posterior)
+ motif #10: 1 of 1 (0.916667 posterior)
+ motif #14: 1 of 1 (0.916667 posterior)
+ motif #20: 1 of 1 (0.916667 posterior)
+ motif #30: 1 of 1 (0.916667 posterior)
+
+Program 11: total 13
+ motif #6: 3 of 13 (0.234848 posterior)
+ motif #14: 1 of 13 (0.083333 posterior)
+ motif #17: 1 of 13 (0.083333 posterior)
+ motif #18: 12 of 13 (0.916667 posterior)
+ motif #22: 1 of 13 (0.083333 posterior)
+ motif #23: 5 of 13 (0.386364 posterior)
+ motif #26: 4 of 13 (0.310606 posterior)
+ motif #30: 2 of 13 (0.159091 posterior)
+
+Program 13: total 52
+ motif #1: 2 of 52 (0.040230 posterior)
+ motif #5: 4 of 52 (0.078544 posterior)
+ motif #9: 18 of 52 (0.346743 posterior)
+ motif #10: 9 of 52 (0.174330 posterior)
+ motif #15: 4 of 52 (0.078544 posterior)
+ motif #18: 21 of 52 (0.404215 posterior)
+ motif #24: 1 of 52 (0.021073 posterior)
+ motif #26: 15 of 52 (0.289272 posterior)
+ motif #27: 1 of 52 (0.021073 posterior)
+ motif #28: 3 of 52 (0.059387 posterior)
+ motif #30: 24 of 52 (0.461686 posterior)
+
+Program 14: total 23
+ motif #7: 1 of 23 (0.047414 posterior)
+ motif #9: 23 of 23 (0.995690 posterior)
+ motif #10: 3 of 23 (0.133621 posterior)
+ motif #12: 3 of 23 (0.133621 posterior)
+ motif #16: 2 of 23 (0.090517 posterior)
+ motif #20: 1 of 23 (0.047414 posterior)
+ motif #25: 1 of 23 (0.047414 posterior)
+ motif #26: 3 of 23 (0.133621 posterior)
+
+Program 15: total 1
+ motif #1: 1 of 1 (0.916667 posterior)
+ motif #8: 1 of 1 (0.916667 posterior)
+ motif #9: 1 of 1 (0.916667 posterior)
+ motif #15: 1 of 1 (0.916667 posterior)
+ motif #18: 1 of 1 (0.916667 posterior)
+ motif #20: 1 of 1 (0.916667 posterior)
+ motif #21: 1 of 1 (0.916667 posterior)
+ motif #22: 1 of 1 (0.916667 posterior)
+ motif #27: 1 of 1 (0.916667 posterior)
+
+Motif #1; total sequences 7; TNcATccaGaCT / AGtCtggATgNA
+Motif #2; total sequences 12; cAAGcaRCtCag / ctGaGYtgCTTg
+Motif #5; total sequences 4; AGaTTgCtAtCtG / CaGaTaGcAAtCT
+Motif #6; total sequences 4; TggaGYcWTcTC / GAgAWgRCtccA
+Motif #7; total sequences 1; ggccgtgggatt / aatcccacggcc
+Motif #8; total sequences 2; CGGYYTTMAKAT / ATMTKAARRCCG
+Motif #9; total sequences 49; aGATAANNATCt / aGATNNTTATCt
+Motif #10; total sequences 21; NNgggGGNgGGGNggGgN / NcCccNCCCcNCCcccNN
+Motif #11; total sequences 4; CTTRGKAACYAT / ATRGTTMCYAAG
+Motif #12; total sequences 7; CACGGAgGAtGA / TCaTCcTCCGTG
+Motif #13; total sequences 2; GRMWTWCTASGTCY / RGACSTAGWAWKYC
+Motif #14; total sequences 3; caAgAGgcAGgC / GcCTgcCTcTtg
+Motif #15; total sequences 20; GNcAGNCTgtGA / TCacAGNCTgNC
+Motif #16; total sequences 9; AgccACAtCCTGtcT / AgaCAGGaTGTggcT
+Motif #17; total sequences 9; AagAGGtaGtGgga / tccCaCtaCCTctT
+Motif #18; total sequences 50; NNCcactTCCTg / cAGGAagtgGNN
+Motif #19; total sequences 7; aNTATTatTAGa / tCTAatAATANt
+Motif #20; total sequences 43; tcttNtCtgtgY / RcacaGaNaaga
+Motif #21; total sequences 5; aAgGaNAgcAAGgg / ccCTTgcTNtCcTt
+Motif #22; total sequences 20; ctNaCTNtGcAN / NTgCaNAGtNag
+Motif #23; total sequences 23; gggctNTGANTCAN / NTGANTCANagccc
+Motif #24; total sequences 14; AagKaKaGatNggC / GccNatCtMtMctT
+Motif #25; total sequences 7; AcANtacACAaGgA / TcCtTGTgtaNTgT
+Motif #26; total sequences 25; NAgNAAacaAANaaAAN / NTTttNTTtgtTTNcTN
+Motif #27; total sequences 5; tTtGAtTgactgAG / CTcagtcAaTCaAa
+Motif #28; total sequences 15; ctcTNttTgTctgTg / cAcagAcAaaNAgag
+Motif #29; total sequences 28; NNNNtGATAAcATC / GATgTTATCaNNNN
+Motif #30; total sequences 58; aattNNTaAagataN / NtatctTtANNaatt
+..............................
+Iter 62: Current posterior 3295.226859, best 3322.471637
+
+Number of sequences: 257
+Number of programs: 13
+Number of motifs: 30
+Motif widths: 12 12 12 12 12 12 12 12 14 18 12 12 14 12 12 12 18 12 12 12 12 12 14 15 12 17 14 12 16 15 
+Program 1: total 3
+ motif #16: 3 of 3 (0.968750 posterior)
+ motif #19: 1 of 3 (0.343750 posterior)
+ motif #20: 3 of 3 (0.968750 posterior)
+ motif #25: 1 of 3 (0.343750 posterior)
+
+Program 2: total 79
+ motif #1: 1 of 79 (0.013889 posterior)
+ motif #9: 27 of 79 (0.342172 posterior)
+ motif #18: 12 of 79 (0.152778 posterior)
+ motif #26: 8 of 79 (0.102273 posterior)
+ motif #28: 2 of 79 (0.026515 posterior)
+ motif #29: 1 of 79 (0.013889 posterior)
+
+Program 3: total 72
+ motif #5: 4 of 72 (0.056787 posterior)
+ motif #9: 3 of 72 (0.042936 posterior)
+ motif #10: 1 of 72 (0.015235 posterior)
+ motif #17: 3 of 72 (0.042936 posterior)
+ motif #18: 4 of 72 (0.056787 posterior)
+ motif #20: 11 of 72 (0.153740 posterior)
+ motif #21: 1 of 72 (0.015235 posterior)
+ motif #26: 3 of 72 (0.042936 posterior)
+ motif #28: 8 of 72 (0.112188 posterior)
+ motif #29: 1 of 72 (0.015235 posterior)
+ motif #30: 72 of 72 (0.998615 posterior)
+
+Program 5: total 3
+ motif #7: 3 of 3 (0.968750 posterior)
+ motif #29: 3 of 3 (0.968750 posterior)
+
+Program 6: total 2
+ motif #6: 2 of 2 (0.954545 posterior)
+ motif #19: 2 of 2 (0.954545 posterior)
+ motif #20: 1 of 2 (0.500000 posterior)
+ motif #22: 2 of 2 (0.954545 posterior)
+ motif #30: 1 of 2 (0.500000 posterior)
+
+Program 7: total 16
+ motif #2: 1 of 16 (0.067901 posterior)
+ motif #4: 1 of 16 (0.067901 posterior)
+ motif #5: 1 of 16 (0.067901 posterior)
+ motif #9: 3 of 16 (0.191358 posterior)
+ motif #11: 2 of 16 (0.129630 posterior)
+ motif #14: 1 of 16 (0.067901 posterior)
+ motif #15: 4 of 16 (0.253086 posterior)
+ motif #16: 3 of 16 (0.191358 posterior)
+ motif #18: 2 of 16 (0.129630 posterior)
+ motif #19: 7 of 16 (0.438272 posterior)
+ motif #21: 1 of 16 (0.067901 posterior)
+ motif #22: 2 of 16 (0.129630 posterior)
+ motif #24: 11 of 16 (0.685185 posterior)
+ motif #25: 6 of 16 (0.376543 posterior)
+ motif #26: 1 of 16 (0.067901 posterior)
+ motif #27: 4 of 16 (0.253086 posterior)
+ motif #29: 1 of 16 (0.067901 posterior)
+ motif #30: 16 of 16 (0.993827 posterior)
+
+Program 8: total 1
+ motif #4: 1 of 1 (0.916667 posterior)
+ motif #15: 1 of 1 (0.916667 posterior)
+ motif #18: 1 of 1 (0.916667 posterior)
+ motif #19: 1 of 1 (0.916667 posterior)
+ motif #28: 1 of 1 (0.916667 posterior)
+
+Program 10: total 3
+ motif #1: 1 of 3 (0.343750 posterior)
+ motif #8: 3 of 3 (0.968750 posterior)
+ motif #15: 1 of 3 (0.343750 posterior)
+ motif #16: 2 of 3 (0.656250 posterior)
+ motif #17: 1 of 3 (0.343750 posterior)
+ motif #19: 1 of 3 (0.343750 posterior)
+ motif #21: 1 of 3 (0.343750 posterior)
+ motif #24: 3 of 3 (0.968750 posterior)
+ motif #27: 1 of 3 (0.343750 posterior)
+
+Program 11: total 36
+ motif #11: 10 of 36 (0.279006 posterior)
+ motif #12: 1 of 36 (0.030387 posterior)
+ motif #13: 3 of 36 (0.085635 posterior)
+ motif #18: 16 of 36 (0.444751 posterior)
+ motif #20: 3 of 36 (0.085635 posterior)
+ motif #22: 3 of 36 (0.085635 posterior)
+ motif #23: 16 of 36 (0.444751 posterior)
+ motif #29: 25 of 36 (0.693370 posterior)
+ motif #30: 1 of 36 (0.030387 posterior)
+
+Program 12: total 14
+ motif #3: 2 of 14 (0.147887 posterior)
+ motif #5: 1 of 14 (0.077465 posterior)
+ motif #9: 1 of 14 (0.077465 posterior)
+ motif #21: 4 of 14 (0.288732 posterior)
+ motif #22: 4 of 14 (0.288732 posterior)
+ motif #25: 1 of 14 (0.077465 posterior)
+ motif #27: 11 of 14 (0.781690 posterior)
+ motif #29: 1 of 14 (0.077465 posterior)
+
+Program 13: total 2
+ motif #4: 1 of 2 (0.500000 posterior)
+ motif #15: 2 of 2 (0.954545 posterior)
+ motif #21: 2 of 2 (0.954545 posterior)
+
+Program 14: total 15
+ motif #2: 3 of 15 (0.203947 posterior)
+ motif #9: 12 of 15 (0.796053 posterior)
+ motif #10: 2 of 15 (0.138158 posterior)
+ motif #12: 2 of 15 (0.138158 posterior)
+ motif #14: 5 of 15 (0.335526 posterior)
+ motif #16: 2 of 15 (0.138158 posterior)
+ motif #17: 11 of 15 (0.730263 posterior)
+ motif #18: 1 of 15 (0.072368 posterior)
+ motif #22: 2 of 15 (0.138158 posterior)
+ motif #25: 1 of 15 (0.072368 posterior)
+
+Program 15: total 11
+ motif #5: 1 of 11 (0.098214 posterior)
+ motif #6: 1 of 11 (0.098214 posterior)
+ motif #12: 1 of 11 (0.098214 posterior)
+ motif #15: 1 of 11 (0.098214 posterior)
+ motif #17: 4 of 11 (0.366071 posterior)
+ motif #19: 1 of 11 (0.098214 posterior)
+ motif #20: 1 of 11 (0.098214 posterior)
+ motif #25: 4 of 11 (0.366071 posterior)
+ motif #26: 1 of 11 (0.098214 posterior)
+
+Motif #1; total sequences 2; TAGAARAGCCAK / MTGGCTYTTCTA
+Motif #2; total sequences 4; TRGAtcaTMtAg / cTaKAtgaTCYA
+Motif #3; total sequences 2; GYTTCTCGYSGC / GCSRCGAGAARC
+Motif #4; total sequences 3; ACTggAcCCAca / tgTGGgTccAGT
+Motif #5; total sequences 7; GCCCtCTGcTGG / CCAgCAGaGGGC
+Motif #6; total sequences 3; aACGNAtgCgGt / aCcGcaTNCGTt
+Motif #7; total sequences 3; atCAgCCcGTGA / TCACgGGcTGat
+Motif #8; total sequences 3; AcccATagCTTt / aAAGctATgggT
+Motif #9; total sequences 46; NaGATAagNATCWN / NWGATNctTATCtN
+Motif #10; total sequences 3; AcGgGGGtGgGGAGTGGt / aCCACTCCcCaCCCcCgT
+Motif #11; total sequences 12; gKNTATTtTtaa / ttaAaAATANMc
+Motif #12; total sequences 4; ttTCtNTGCWGM / KCWGCANaGAaa
+Motif #13; total sequences 3; CACAAAGaTTgTGC / GCAcAAtCTTTGTG
+Motif #14; total sequences 6; GCaMGGgNgGaG / CtCcNcCCKtGC
+Motif #15; total sequences 9; aNTGgctNCcAc / gTgGNagcCANt
+Motif #16; total sequences 10; cGNWcCCtNgGW / WCcNaGGgWNCg
+Motif #17; total sequences 19; ggNGggGGNgGGGNgGGg / cCCcNCCCcNCCccCNcc
+Motif #18; total sequences 36; NNCcActTCCTg / cAGGAagTgGNN
+Motif #19; total sequences 13; cTtaNcTCatCT / AGatGAgNtaAg
+Motif #20; total sequences 19; tgActTCNNTtt / aaANNGAagTca
+Motif #21; total sequences 9; NNTtatAaAaga / tctTtTataANN
+Motif #22; total sequences 13; catgctatGTAS / STACatagcatg
+Motif #23; total sequences 16; gRNNtcTgAcTCAc / gTGAgTcAgaNNYc
+Motif #24; total sequences 14; aNacWggGAagtGMc / gKCactTCccWgtNt
+Motif #25; total sequences 13; NNtTCTaTGNcT / AgNCAtAGAaNN
+Motif #26; total sequences 13; aAacAaACAaAcaAAcA / TgTTtgTtTGTtTgtTt
+Motif #27; total sequences 16; ggaGtgGKNgtgKt / aMcacNMCcaCtcc
+Motif #28; total sequences 11; TTcttaNTgGTC / GACcANtaagAA
+Motif #29; total sequences 32; NNNacaGATAaSAtCN / NGaTStTATCtgtNNN
+Motif #30; total sequences 90; tNNtgtTNNaNataN / NtatNtNNAacaNNa
+.
+Iter 63: Current posterior 3085.110172, best 3335.750720
+
+Number of sequences: 257
+Number of programs: 13
+Number of motifs: 30
+Motif widths: 12 12 12 12 12 12 12 12 14 18 12 12 14 12 12 12 18 12 12 12 12 12 14 15 12 17 14 12 16 15 
+Program 1: total 3
+ motif #16: 3 of 3 (0.968750 posterior)
+ motif #19: 1 of 3 (0.343750 posterior)
+ motif #20: 3 of 3 (0.968750 posterior)
+ motif #25: 1 of 3 (0.343750 posterior)
+
+Program 2: total 78
+ motif #1: 1 of 78 (0.014066 posterior)
+ motif #9: 26 of 78 (0.333760 posterior)
+ motif #18: 14 of 78 (0.180307 posterior)
+ motif #26: 8 of 78 (0.103581 posterior)
+ motif #28: 1 of 78 (0.014066 posterior)
+ motif #29: 1 of 78 (0.014066 posterior)
+
+Program 3: total 73
+ motif #5: 4 of 73 (0.056011 posterior)
+ motif #9: 3 of 73 (0.042350 posterior)
+ motif #10: 2 of 73 (0.028689 posterior)
+ motif #17: 4 of 73 (0.056011 posterior)
+ motif #18: 2 of 73 (0.028689 posterior)
+ motif #20: 10 of 73 (0.137978 posterior)
+ motif #21: 1 of 73 (0.015027 posterior)
+ motif #26: 3 of 73 (0.042350 posterior)
+ motif #28: 8 of 73 (0.110656 posterior)
+ motif #29: 1 of 73 (0.015027 posterior)
+ motif #30: 73 of 73 (0.998634 posterior)
+
+Program 5: total 3
+ motif #7: 3 of 3 (0.968750 posterior)
+ motif #29: 3 of 3 (0.968750 posterior)
+
+Program 6: total 2
+ motif #6: 2 of 2 (0.954545 posterior)
+ motif #19: 2 of 2 (0.954545 posterior)
+ motif #20: 1 of 2 (0.500000 posterior)
+ motif #22: 2 of 2 (0.954545 posterior)
+ motif #30: 1 of 2 (0.500000 posterior)
+
+Program 7: total 17
+ motif #2: 1 of 17 (0.063953 posterior)
+ motif #4: 1 of 17 (0.063953 posterior)
+ motif #5: 1 of 17 (0.063953 posterior)
+ motif #9: 3 of 17 (0.180233 posterior)
+ motif #11: 2 of 17 (0.122093 posterior)
+ motif #14: 1 of 17 (0.063953 posterior)
+ motif #15: 4 of 17 (0.238372 posterior)
+ motif #16: 3 of 17 (0.180233 posterior)
+ motif #18: 2 of 17 (0.122093 posterior)
+ motif #19: 7 of 17 (0.412791 posterior)
+ motif #21: 1 of 17 (0.063953 posterior)
+ motif #22: 2 of 17 (0.122093 posterior)
+ motif #23: 1 of 17 (0.063953 posterior)
+ motif #24: 12 of 17 (0.703488 posterior)
+ motif #25: 6 of 17 (0.354651 posterior)
+ motif #26: 1 of 17 (0.063953 posterior)
+ motif #27: 4 of 17 (0.238372 posterior)
+ motif #29: 1 of 17 (0.063953 posterior)
+ motif #30: 17 of 17 (0.994186 posterior)
+
+Program 8: total 1
+ motif #4: 1 of 1 (0.916667 posterior)
+ motif #15: 1 of 1 (0.916667 posterior)
+ motif #18: 1 of 1 (0.916667 posterior)
+ motif #19: 1 of 1 (0.916667 posterior)
+ motif #28: 1 of 1 (0.916667 posterior)
+
+Program 10: total 3
+ motif #1: 1 of 3 (0.343750 posterior)
+ motif #8: 3 of 3 (0.968750 posterior)
+ motif #16: 2 of 3 (0.656250 posterior)
+ motif #17: 1 of 3 (0.343750 posterior)
+ motif #19: 1 of 3 (0.343750 posterior)
+ motif #21: 3 of 3 (0.968750 posterior)
+ motif #24: 3 of 3 (0.968750 posterior)
+ motif #27: 1 of 3 (0.343750 posterior)
+
+Program 11: total 37
+ motif #11: 9 of 37 (0.244624 posterior)
+ motif #12: 1 of 37 (0.029570 posterior)
+ motif #13: 3 of 37 (0.083333 posterior)
+ motif #18: 18 of 37 (0.486559 posterior)
+ motif #20: 2 of 37 (0.056452 posterior)
+ motif #22: 2 of 37 (0.056452 posterior)
+ motif #23: 16 of 37 (0.432796 posterior)
+ motif #29: 27 of 37 (0.728495 posterior)
+
+Program 12: total 12
+ motif #3: 1 of 12 (0.090164 posterior)
+ motif #5: 1 of 12 (0.090164 posterior)
+ motif #9: 1 of 12 (0.090164 posterior)
+ motif #21: 3 of 12 (0.254098 posterior)
+ motif #22: 3 of 12 (0.254098 posterior)
+ motif #25: 1 of 12 (0.090164 posterior)
+ motif #27: 11 of 12 (0.909836 posterior)
+
+Program 13: total 2
+ motif #1: 1 of 2 (0.500000 posterior)
+ motif #15: 2 of 2 (0.954545 posterior)
+ motif #21: 2 of 2 (0.954545 posterior)
+
+Program 14: total 15
+ motif #2: 3 of 15 (0.203947 posterior)
+ motif #9: 12 of 15 (0.796053 posterior)
+ motif #10: 2 of 15 (0.138158 posterior)
+ motif #12: 2 of 15 (0.138158 posterior)
+ motif #14: 5 of 15 (0.335526 posterior)
+ motif #16: 2 of 15 (0.138158 posterior)
+ motif #17: 11 of 15 (0.730263 posterior)
+ motif #22: 2 of 15 (0.138158 posterior)
+ motif #25: 1 of 15 (0.072368 posterior)
+
+Program 15: total 11
+ motif #5: 1 of 11 (0.098214 posterior)
+ motif #6: 1 of 11 (0.098214 posterior)
+ motif #12: 1 of 11 (0.098214 posterior)
+ motif #15: 1 of 11 (0.098214 posterior)
+ motif #17: 4 of 11 (0.366071 posterior)
+ motif #19: 1 of 11 (0.098214 posterior)
+ motif #20: 1 of 11 (0.098214 posterior)
+ motif #25: 4 of 11 (0.366071 posterior)
+ motif #26: 1 of 11 (0.098214 posterior)
+
+Motif #1; total sequences 3; tAGaaNAGCCAt / aTGGCTNttCTa
+Motif #2; total sequences 4; TRGAtcaTMtAg / cTaKAtgaTCYA
+Motif #3; total sequences 1; gtttctcgcggc / gccgcgagaaac
+Motif #4; total sequences 2; ACTSSASCCACR / YGTGGSTSSAGT
+Motif #5; total sequences 7; GCCCtCTGcTGG / CCAgCAGaGGGC
+Motif #6; total sequences 3; aACGNAtgCgGt / aCcGcaTNCGTt
+Motif #7; total sequences 3; atCAgCCcGTGA / TCACgGGcTGat
+Motif #8; total sequences 3; AacCATagCTtT / AaAGctATGgtT
+Motif #9; total sequences 45; NaGATAagNATCtN / NaGATNctTATCtN
+Motif #10; total sequences 4; AcgKGGGKGgGGaGtGGt / aCCaCtCCcCMCCCMcgT
+Motif #11; total sequences 11; gtNTATTtTtaa / ttaAaAATANac
+Motif #12; total sequences 4; ttTCtNTGCWGM / KCWGCANaGAaa
+Motif #13; total sequences 3; CACAAAGaTTgTGC / GCAcAAtCTTTGTG
+Motif #14; total sequences 6; GCaMGGgNgGaG / CtCcNcCCKtGC
+Motif #15; total sequences 8; aNTGgctNCcAc / gTgGNagcCANt
+Motif #16; total sequences 10; cGNWcCCtNgGW / WCcNaGGgWNCg
+Motif #17; total sequences 20; ggNGggGGNgGGgNgGGg / cCCcNcCCcNCCccCNcc
+Motif #18; total sequences 37; NNCCActTCCTg / cAGGAagTGGNN
+Motif #19; total sequences 13; cTtaNcTCatCT / AGatGAgNtaAg
+Motif #20; total sequences 17; tgActTCNNTtt / aaANNGAagTca
+Motif #21; total sequences 10; NNTtttAaAaga / tctTtTaaaANN
+Motif #22; total sequences 11; catgctacGtac / gtaCgtagcatg
+Motif #23; total sequences 17; ggNtTcTGAcTCAc / gTGAgTCAgAaNcc
+Motif #24; total sequences 15; aNacagggAagtGNc / gNCactTccctgtNt
+Motif #25; total sequences 13; NNtTCTaTGNcT / AgNCAtAGAaNN
+Motif #26; total sequences 13; aAacAaACAaAcaAAcA / TgTTtgTtTGTtTgtTt
+Motif #27; total sequences 16; ggaGtgGKNgtgKt / aMcacNMCcaCtcc
+Motif #28; total sequences 10; TTctYaNTgGTC / GACcANtRagAA
+Motif #29; total sequences 33; NNNactGATAacAtCN / NGaTgtTATCagtNNN
+Motif #30; total sequences 91; tNNNNtTNNaNataN / NtatNtNNAaNNNNa
+.
+Iter 64: Current posterior 3256.795128, best 3349.844300
+
+Number of sequences: 257
+Number of programs: 12
+Number of motifs: 30
+Motif widths: 12 12 12 12 12 12 12 12 14 18 12 12 14 12 12 12 18 12 12 12 12 12 14 15 12 17 14 12 16 15 
+Program 1: total 3
+ motif #4: 1 of 3 (0.343750 posterior)
+ motif #16: 3 of 3 (0.968750 posterior)
+ motif #17: 2 of 3 (0.656250 posterior)
+ motif #19: 3 of 3 (0.968750 posterior)
+ motif #20: 3 of 3 (0.968750 posterior)
+ motif #23: 1 of 3 (0.343750 posterior)
+ motif #25: 2 of 3 (0.656250 posterior)
+ motif #30: 2 of 3 (0.656250 posterior)
+
+Program 2: total 78
+ motif #5: 1 of 78 (0.014066 posterior)
+ motif #9: 23 of 78 (0.295396 posterior)
+ motif #18: 15 of 78 (0.193095 posterior)
+ motif #25: 1 of 78 (0.014066 posterior)
+ motif #26: 7 of 78 (0.090793 posterior)
+
+Program 3: total 78
+ motif #4: 1 of 78 (0.014066 posterior)
+ motif #5: 5 of 78 (0.065217 posterior)
+ motif #8: 1 of 78 (0.014066 posterior)
+ motif #10: 4 of 78 (0.052430 posterior)
+ motif #17: 3 of 78 (0.039642 posterior)
+ motif #18: 1 of 78 (0.014066 posterior)
+ motif #20: 15 of 78 (0.193095 posterior)
+ motif #26: 2 of 78 (0.026854 posterior)
+ motif #28: 9 of 78 (0.116368 posterior)
+ motif #29: 1 of 78 (0.014066 posterior)
+ motif #30: 78 of 78 (0.998721 posterior)
+
+Program 5: total 3
+ motif #1: 1 of 3 (0.343750 posterior)
+ motif #3: 1 of 3 (0.343750 posterior)
+ motif #5: 1 of 3 (0.343750 posterior)
+ motif #7: 3 of 3 (0.968750 posterior)
+ motif #24: 1 of 3 (0.343750 posterior)
+ motif #29: 3 of 3 (0.968750 posterior)
+
+Program 7: total 19
+ motif #4: 1 of 19 (0.057292 posterior)
+ motif #8: 1 of 19 (0.057292 posterior)
+ motif #9: 4 of 19 (0.213542 posterior)
+ motif #16: 3 of 19 (0.161458 posterior)
+ motif #18: 3 of 19 (0.161458 posterior)
+ motif #19: 6 of 19 (0.317708 posterior)
+ motif #24: 11 of 19 (0.578125 posterior)
+ motif #25: 7 of 19 (0.369792 posterior)
+ motif #27: 6 of 19 (0.317708 posterior)
+ motif #29: 1 of 19 (0.057292 posterior)
+ motif #30: 19 of 19 (0.994792 posterior)
+
+Program 8: total 1
+ motif #4: 1 of 1 (0.916667 posterior)
+ motif #12: 1 of 1 (0.916667 posterior)
+ motif #16: 1 of 1 (0.916667 posterior)
+ motif #21: 1 of 1 (0.916667 posterior)
+ motif #27: 1 of 1 (0.916667 posterior)
+ motif #29: 1 of 1 (0.916667 posterior)
+ motif #30: 1 of 1 (0.916667 posterior)
+
+Program 10: total 2
+ motif #8: 2 of 2 (0.954545 posterior)
+ motif #16: 2 of 2 (0.954545 posterior)
+ motif #24: 2 of 2 (0.954545 posterior)
+
+Program 11: total 36
+ motif #4: 2 of 36 (0.058011 posterior)
+ motif #11: 2 of 36 (0.058011 posterior)
+ motif #13: 3 of 36 (0.085635 posterior)
+ motif #18: 21 of 36 (0.582873 posterior)
+ motif #20: 2 of 36 (0.058011 posterior)
+ motif #23: 13 of 36 (0.361878 posterior)
+ motif #29: 24 of 36 (0.665746 posterior)
+
+Program 12: total 16
+ motif #5: 1 of 16 (0.067901 posterior)
+ motif #6: 1 of 16 (0.067901 posterior)
+ motif #9: 2 of 16 (0.129630 posterior)
+ motif #12: 2 of 16 (0.129630 posterior)
+ motif #15: 1 of 16 (0.067901 posterior)
+ motif #19: 1 of 16 (0.067901 posterior)
+ motif #20: 3 of 16 (0.191358 posterior)
+ motif #22: 8 of 16 (0.500000 posterior)
+ motif #25: 2 of 16 (0.129630 posterior)
+ motif #27: 14 of 16 (0.870370 posterior)
+ motif #30: 2 of 16 (0.129630 posterior)
+
+Program 13: total 4
+ motif #1: 1 of 4 (0.261905 posterior)
+ motif #15: 2 of 4 (0.500000 posterior)
+ motif #21: 4 of 4 (0.976190 posterior)
+ motif #24: 1 of 4 (0.261905 posterior)
+ motif #25: 1 of 4 (0.261905 posterior)
+ motif #26: 1 of 4 (0.261905 posterior)
+
+Program 14: total 12
+ motif #2: 2 of 12 (0.172131 posterior)
+ motif #9: 11 of 12 (0.909836 posterior)
+ motif #10: 2 of 12 (0.172131 posterior)
+ motif #14: 6 of 12 (0.500000 posterior)
+ motif #16: 1 of 12 (0.090164 posterior)
+ motif #17: 10 of 12 (0.827869 posterior)
+ motif #22: 2 of 12 (0.172131 posterior)
+ motif #25: 6 of 12 (0.500000 posterior)
+
+Program 15: total 5
+ motif #4: 1 of 5 (0.211538 posterior)
+ motif #17: 2 of 5 (0.403846 posterior)
+ motif #19: 1 of 5 (0.211538 posterior)
+ motif #25: 5 of 5 (0.980769 posterior)
+ motif #27: 1 of 5 (0.211538 posterior)
+
+Motif #1; total sequences 2; GAAACCAGTGAW / WTCACTGGTTTC
+Motif #2; total sequences 2; TAGAWCATMKAK / MTMKATGWTCTA
+Motif #3; total sequences 1; tgcttgacgtag / ctacgtcaagca
+Motif #4; total sequences 7; TCANTTCcCNGt / aCNGgGAANTGA
+Motif #5; total sequences 8; GCCCtCTggTGG / CCAccAGaGGGC
+Motif #6; total sequences 1; gaatatcgtggc / gccacgatattc
+Motif #7; total sequences 3; AtcaaCCCGTgA / TcACGGGttgaT
+Motif #8; total sequences 4; AaCcATAAMTNT / ANAKTTATgGtT
+Motif #9; total sequences 40; NaGATAaNNATCWN / NWGATNNtTATCtN
+Motif #10; total sequences 6; ANgtGggKgRgGggtGGN / NCCaccCcYcMccCacNT
+Motif #11; total sequences 2; GTYTATTYTTAA / TTAARAATARAC
+Motif #12; total sequences 3; NCCAAAtTTAgt / acTAAaTTTGGN
+Motif #13; total sequences 3; CACAAAGaTTgTGC / GCAcAAtCTTTGTG
+Motif #14; total sequences 6; GCaMGgNRgGaG / CtCcYNcCKtGC
+Motif #15; total sequences 3; ctcGCtGcCCAt / aTGGgCaGCgag
+Motif #16; total sequences 10; cGNtcCCtggGa / tCccaGGgaNCg
+Motif #17; total sequences 17; ggNGggGGNgGGGgggGN / NCcccCCCcNCCccCNcc
+Motif #18; total sequences 40; NNCcActTCCtg / caGGAagTgGNN
+Motif #19; total sequences 11; cTgANGtCatCt / aGatGaCNTcAg
+Motif #20; total sequences 23; tgAttTCNNTtt / aaANNGAaaTca
+Motif #21; total sequences 5; aATNaTAaAaNt / aNtTtTAtNATt
+Motif #22; total sequences 10; cWtgCTatGtaC / GtaCatAGcaWg
+Motif #23; total sequences 14; ggNttCTGASTCAc / gTGASTCAGaaNcc
+Motif #24; total sequences 15; aNacagggAagNGcc / ggCNctTccctgtNt
+Motif #25; total sequences 24; attTcTNTgNcT / AgNcANAgAaat
+Motif #26; total sequences 10; aANCAAACAaACAAACA / TGTTTGTtTGTTTGNTt
+Motif #27; total sequences 22; GgaGtgGNNGtggt / accaCNNCcaCtcC
+Motif #28; total sequences 9; TtcttaNTGGTc / gACCANtaagaA
+Motif #29; total sequences 30; NNNactGATAAcAtCN / NGaTgTTATCagtNNN
+Motif #30; total sequences 102; tNtNNNTNNaNatNN / NNatNtNNANNNaNa
+.............................
+Iter 93: Current posterior 3410.650103, best 3449.546111
+
+Number of sequences: 257
+Number of programs: 14
+Number of motifs: 29
+Motif widths: 12 12 12 12 12 12 12 13 12 12 12 12 12 12 12 12 14 12 13 12 12 14 15 12 17 15 12 17 16 
+Program 1: total 2
+ motif #17: 1 of 2 (0.500000 posterior)
+ motif #18: 2 of 2 (0.954545 posterior)
+ motif #21: 2 of 2 (0.954545 posterior)
+ motif #23: 2 of 2 (0.954545 posterior)
+ motif #30: 2 of 2 (0.954545 posterior)
+
+Program 2: total 70
+ motif #2: 5 of 70 (0.072650 posterior)
+ motif #4: 1 of 70 (0.015670 posterior)
+ motif #5: 6 of 70 (0.086895 posterior)
+ motif #9: 24 of 70 (0.343305 posterior)
+ motif #13: 3 of 70 (0.044160 posterior)
+ motif #17: 1 of 70 (0.015670 posterior)
+ motif #19: 1 of 70 (0.015670 posterior)
+ motif #20: 4 of 70 (0.058405 posterior)
+ motif #21: 4 of 70 (0.058405 posterior)
+ motif #22: 1 of 70 (0.015670 posterior)
+ motif #26: 3 of 70 (0.044160 posterior)
+ motif #27: 1 of 70 (0.015670 posterior)
+ motif #28: 2 of 70 (0.029915 posterior)
+ motif #29: 1 of 70 (0.015670 posterior)
+ motif #30: 17 of 70 (0.243590 posterior)
+
+Program 3: total 105
+ motif #3: 1 of 105 (0.010456 posterior)
+ motif #5: 1 of 105 (0.010456 posterior)
+ motif #9: 13 of 105 (0.124525 posterior)
+ motif #18: 22 of 105 (0.210076 posterior)
+ motif #24: 4 of 105 (0.038973 posterior)
+ motif #26: 2 of 105 (0.019962 posterior)
+ motif #27: 24 of 105 (0.229087 posterior)
+ motif #29: 14 of 105 (0.134030 posterior)
+ motif #30: 105 of 105 (0.999049 posterior)
+
+Program 4: total 8
+ motif #3: 2 of 8 (0.256098 posterior)
+ motif #4: 1 of 8 (0.134146 posterior)
+ motif #7: 1 of 8 (0.134146 posterior)
+ motif #16: 4 of 8 (0.500000 posterior)
+ motif #25: 8 of 8 (0.987805 posterior)
+ motif #29: 1 of 8 (0.134146 posterior)
+ motif #30: 8 of 8 (0.987805 posterior)
+
+Program 5: total 21
+ motif #3: 2 of 21 (0.099057 posterior)
+ motif #5: 1 of 21 (0.051887 posterior)
+ motif #14: 2 of 21 (0.099057 posterior)
+ motif #15: 7 of 21 (0.334906 posterior)
+ motif #19: 1 of 21 (0.051887 posterior)
+ motif #23: 1 of 21 (0.051887 posterior)
+ motif #28: 3 of 21 (0.146226 posterior)
+
+Program 6: total 1
+ motif #3: 1 of 1 (0.916667 posterior)
+ motif #4: 1 of 1 (0.916667 posterior)
+ motif #11: 1 of 1 (0.916667 posterior)
+ motif #12: 1 of 1 (0.916667 posterior)
+ motif #13: 1 of 1 (0.916667 posterior)
+ motif #16: 1 of 1 (0.916667 posterior)
+ motif #18: 1 of 1 (0.916667 posterior)
+ motif #22: 1 of 1 (0.916667 posterior)
+ motif #30: 1 of 1 (0.916667 posterior)
+
+Program 8: total 7
+ motif #1: 7 of 7 (0.986111 posterior)
+ motif #7: 1 of 7 (0.152778 posterior)
+ motif #15: 1 of 7 (0.152778 posterior)
+ motif #16: 4 of 7 (0.569444 posterior)
+ motif #21: 2 of 7 (0.291667 posterior)
+ motif #24: 1 of 7 (0.152778 posterior)
+ motif #25: 1 of 7 (0.152778 posterior)
+
+Program 9: total 1
+ motif #14: 1 of 1 (0.916667 posterior)
+ motif #21: 1 of 1 (0.916667 posterior)
+ motif #22: 1 of 1 (0.916667 posterior)
+ motif #30: 1 of 1 (0.916667 posterior)
+
+Program 10: total 2
+ motif #2: 1 of 2 (0.500000 posterior)
+ motif #6: 1 of 2 (0.500000 posterior)
+ motif #9: 2 of 2 (0.954545 posterior)
+ motif #10: 2 of 2 (0.954545 posterior)
+ motif #14: 2 of 2 (0.954545 posterior)
+ motif #16: 2 of 2 (0.954545 posterior)
+ motif #18: 1 of 2 (0.500000 posterior)
+ motif #19: 1 of 2 (0.500000 posterior)
+ motif #30: 2 of 2 (0.954545 posterior)
+
+Program 11: total 28
+ motif #1: 3 of 28 (0.109929 posterior)
+ motif #7: 3 of 28 (0.109929 posterior)
+ motif #12: 5 of 28 (0.180851 posterior)
+ motif #15: 3 of 28 (0.109929 posterior)
+ motif #16: 3 of 28 (0.109929 posterior)
+ motif #18: 19 of 28 (0.677305 posterior)
+ motif #19: 1 of 28 (0.039007 posterior)
+ motif #25: 6 of 28 (0.216312 posterior)
+ motif #27: 13 of 28 (0.464539 posterior)
+ motif #28: 2 of 28 (0.074468 posterior)
+ motif #29: 17 of 28 (0.606383 posterior)
+ motif #30: 2 of 28 (0.074468 posterior)
+
+Program 12: total 2
+ motif #1: 1 of 2 (0.500000 posterior)
+ motif #6: 1 of 2 (0.500000 posterior)
+ motif #7: 1 of 2 (0.500000 posterior)
+ motif #14: 2 of 2 (0.954545 posterior)
+ motif #24: 2 of 2 (0.954545 posterior)
+ motif #25: 2 of 2 (0.954545 posterior)
+
+Program 13: total 5
+ motif #19: 1 of 5 (0.211538 posterior)
+ motif #26: 2 of 5 (0.403846 posterior)
+
+Program 14: total 3
+ motif #4: 2 of 3 (0.656250 posterior)
+ motif #6: 1 of 3 (0.343750 posterior)
+ motif #9: 3 of 3 (0.968750 posterior)
+ motif #12: 3 of 3 (0.968750 posterior)
+ motif #14: 1 of 3 (0.343750 posterior)
+ motif #21: 1 of 3 (0.343750 posterior)
+ motif #27: 3 of 3 (0.968750 posterior)
+
+Program 15: total 2
+ motif #3: 2 of 2 (0.954545 posterior)
+ motif #13: 2 of 2 (0.954545 posterior)
+ motif #23: 2 of 2 (0.954545 posterior)
+ motif #25: 2 of 2 (0.954545 posterior)
+
+Motif #1; total sequences 11; aAtCCCcAgccc / gggcTgGGGaTt
+Motif #2; total sequences 6; cTGAGaWCTgCT / AGcAGWtCTCAg
+Motif #3; total sequences 8; gTCACTGTWAct / agTWACAGTGAc
+Motif #4; total sequences 5; aNAcaTCacNCc / gGNgtGAtgTNt
+Motif #5; total sequences 8; gCCCTCTRgTGG / CCAcYAGAGGGc
+Motif #6; total sequences 3; AGatgANTCaAC / GTtGANTcatCT
+Motif #7; total sequences 6; agcaGCCCGKGa / tCMCGGGCtgct
+Motif #9; total sequences 42; aGATAaNNATCtN / NaGATNNtTATCt
+Motif #10; total sequences 2; CSTGRGGMRTKM / KMAYKCCYCASG
+Motif #11; total sequences 1; gggactctgtgc / gcacagagtccc
+Motif #12; total sequences 9; TTTcccTtCctT / AagGaAgggAAA
+Motif #13; total sequences 6; AGGWGgcYGGSg / cSCCRgcCWCCT
+Motif #14; total sequences 8; AtTaAANtaTCC / GGAtaNTTtAaT
+Motif #15; total sequences 11; AgAGatcAtttg / caaaTgatCTcT
+Motif #16; total sequences 14; gatgaCCaNgcc / ggcNtGGtcatc
+Motif #17; total sequences 2; GCCMYKKCTTGT / ACAAGMMRKGGC
+Motif #18; total sequences 45; NNNcCAcTTCCTgt / acAGGAAgTGgNNN
+Motif #19; total sequences 5; ggaAcTcNaTCC / GGAtNgAgTtcc
+Motif #20; total sequences 4; YcATCTtCCgTgM / KcAcGGaAGATgR
+Motif #21; total sequences 10; CaGaacCatTat / atAatGgttCtG
+Motif #22; total sequences 3; tNTGaGTTTagT / ActAAACtCANa
+Motif #23; total sequences 5; gcgcccTgGgaCaa / ttGtcCcAgggcgc
+Motif #24; total sequences 7; AgACACNGAAGcGCc / gGCgCTTCNGTGTcT
+Motif #25; total sequences 19; ctTtaTCTcTgA / TcAgAGAtaAag
+Motif #26; total sequences 7; AAACAAACAAACAAAaA / TtTTTGTTTGTTTGTTT
+Motif #27; total sequences 41; NgGgggtGGGGNNGg / cCNNCCCCacccCcN
+Motif #28; total sequences 7; GaCGcCAtCcaa / ttgGaTGgCGtC
+Motif #29; total sequences 33; NNNNNtGATAacATCtN / NaGATgtTATCaNNNNN
+Motif #30; total sequences 138; tNNNNWTaaaNatNNa / tNNatNtttAWNNNNa
+.
+Iter 94: Current posterior 3383.746654, best 3484.782671
+
+Number of sequences: 257
+Number of programs: 13
+Number of motifs: 30
+Motif widths: 12 12 12 12 12 12 12 12 13 12 12 12 12 12 12 12 12 14 12 13 12 12 14 15 12 17 15 12 17 16 
+Program 1: total 1
+ motif #14: 1 of 1 (0.916667 posterior)
+ motif #17: 1 of 1 (0.916667 posterior)
+ motif #18: 1 of 1 (0.916667 posterior)
+ motif #30: 1 of 1 (0.916667 posterior)
+
+Program 2: total 73
+ motif #2: 2 of 73 (0.028689 posterior)
+ motif #5: 3 of 73 (0.042350 posterior)
+ motif #9: 24 of 73 (0.329235 posterior)
+ motif #10: 3 of 73 (0.042350 posterior)
+ motif #11: 2 of 73 (0.028689 posterior)
+ motif #14: 1 of 73 (0.015027 posterior)
+ motif #17: 1 of 73 (0.015027 posterior)
+ motif #20: 2 of 73 (0.028689 posterior)
+ motif #21: 5 of 73 (0.069672 posterior)
+ motif #22: 3 of 73 (0.042350 posterior)
+ motif #24: 1 of 73 (0.015027 posterior)
+ motif #27: 2 of 73 (0.028689 posterior)
+ motif #28: 4 of 73 (0.056011 posterior)
+ motif #29: 2 of 73 (0.028689 posterior)
+ motif #30: 16 of 73 (0.219945 posterior)
+
+Program 3: total 101
+ motif #3: 1 of 101 (0.010870 posterior)
+ motif #5: 3 of 101 (0.030632 posterior)
+ motif #9: 12 of 101 (0.119565 posterior)
+ motif #18: 25 of 101 (0.248024 posterior)
+ motif #24: 4 of 101 (0.040514 posterior)
+ motif #26: 2 of 101 (0.020751 posterior)
+ motif #27: 29 of 101 (0.287549 posterior)
+ motif #29: 11 of 101 (0.109684 posterior)
+ motif #30: 101 of 101 (0.999012 posterior)
+
+Program 4: total 9
+ motif #3: 2 of 9 (0.228261 posterior)
+ motif #7: 1 of 9 (0.119565 posterior)
+ motif #9: 1 of 9 (0.119565 posterior)
+ motif #16: 4 of 9 (0.445652 posterior)
+ motif #21: 3 of 9 (0.336957 posterior)
+ motif #23: 1 of 9 (0.119565 posterior)
+ motif #25: 9 of 9 (0.989130 posterior)
+ motif #27: 1 of 9 (0.119565 posterior)
+ motif #30: 9 of 9 (0.989130 posterior)
+
+Program 5: total 20
+ motif #5: 1 of 20 (0.054455 posterior)
+ motif #13: 1 of 20 (0.054455 posterior)
+ motif #14: 3 of 20 (0.153465 posterior)
+ motif #15: 6 of 20 (0.301980 posterior)
+ motif #19: 1 of 20 (0.054455 posterior)
+ motif #22: 1 of 20 (0.054455 posterior)
+ motif #24: 3 of 20 (0.153465 posterior)
+ motif #25: 1 of 20 (0.054455 posterior)
+ motif #28: 2 of 20 (0.103960 posterior)
+
+Program 6: total 1
+ motif #1: 1 of 1 (0.916667 posterior)
+ motif #3: 1 of 1 (0.916667 posterior)
+ motif #8: 1 of 1 (0.916667 posterior)
+ motif #11: 1 of 1 (0.916667 posterior)
+ motif #12: 1 of 1 (0.916667 posterior)
+ motif #13: 1 of 1 (0.916667 posterior)
+ motif #15: 1 of 1 (0.916667 posterior)
+ motif #18: 1 of 1 (0.916667 posterior)
+ motif #19: 1 of 1 (0.916667 posterior)
+ motif #25: 1 of 1 (0.916667 posterior)
+
+Program 7: total 1
+ motif #1: 1 of 1 (0.916667 posterior)
+ motif #6: 1 of 1 (0.916667 posterior)
+ motif #7: 1 of 1 (0.916667 posterior)
+ motif #14: 1 of 1 (0.916667 posterior)
+ motif #16: 1 of 1 (0.916667 posterior)
+ motif #19: 1 of 1 (0.916667 posterior)
+ motif #21: 1 of 1 (0.916667 posterior)
+ motif #24: 1 of 1 (0.916667 posterior)
+ motif #28: 1 of 1 (0.916667 posterior)
+
+Program 8: total 11
+ motif #1: 6 of 11 (0.544643 posterior)
+ motif #4: 1 of 11 (0.098214 posterior)
+ motif #7: 1 of 11 (0.098214 posterior)
+ motif #13: 1 of 11 (0.098214 posterior)
+ motif #15: 1 of 11 (0.098214 posterior)
+ motif #16: 4 of 11 (0.366071 posterior)
+ motif #17: 1 of 11 (0.098214 posterior)
+ motif #18: 2 of 11 (0.187500 posterior)
+ motif #20: 2 of 11 (0.187500 posterior)
+ motif #21: 4 of 11 (0.366071 posterior)
+ motif #25: 4 of 11 (0.366071 posterior)
+
+Program 10: total 2
+ motif #2: 1 of 2 (0.500000 posterior)
+ motif #9: 2 of 2 (0.954545 posterior)
+ motif #10: 2 of 2 (0.954545 posterior)
+ motif #14: 1 of 2 (0.500000 posterior)
+ motif #15: 2 of 2 (0.954545 posterior)
+ motif #16: 2 of 2 (0.954545 posterior)
+ motif #18: 1 of 2 (0.500000 posterior)
+ motif #30: 2 of 2 (0.954545 posterior)
+
+Program 11: total 27
+ motif #1: 5 of 27 (0.187500 posterior)
+ motif #7: 2 of 27 (0.077206 posterior)
+ motif #8: 1 of 27 (0.040441 posterior)
+ motif #12: 3 of 27 (0.113971 posterior)
+ motif #16: 4 of 27 (0.150735 posterior)
+ motif #18: 20 of 27 (0.738971 posterior)
+ motif #25: 4 of 27 (0.150735 posterior)
+ motif #27: 11 of 27 (0.408088 posterior)
+ motif #28: 1 of 27 (0.040441 posterior)
+ motif #29: 15 of 27 (0.555147 posterior)
+ motif #30: 1 of 27 (0.040441 posterior)
+
+Program 13: total 7
+ motif #8: 1 of 7 (0.152778 posterior)
+ motif #9: 1 of 7 (0.152778 posterior)
+ motif #20: 1 of 7 (0.152778 posterior)
+ motif #22: 1 of 7 (0.152778 posterior)
+ motif #26: 6 of 7 (0.847222 posterior)
+
+Program 14: total 2
+ motif #4: 2 of 2 (0.954545 posterior)
+ motif #6: 2 of 2 (0.954545 posterior)
+ motif #9: 1 of 2 (0.500000 posterior)
+ motif #12: 2 of 2 (0.954545 posterior)
+ motif #14: 1 of 2 (0.500000 posterior)
+ motif #15: 1 of 2 (0.500000 posterior)
+ motif #27: 2 of 2 (0.954545 posterior)
+
+Program 15: total 2
+ motif #3: 2 of 2 (0.954545 posterior)
+ motif #13: 2 of 2 (0.954545 posterior)
+ motif #15: 1 of 2 (0.500000 posterior)
+ motif #21: 1 of 2 (0.500000 posterior)
+ motif #23: 2 of 2 (0.954545 posterior)
+ motif #25: 2 of 2 (0.954545 posterior)
+
+Motif #1; total sequences 13; aAaCCCCAGccc / gggCTGGGGtTt
+Motif #2; total sequences 3; tTGAGaaCTGCT / AGCAGttCTCAa
+Motif #3; total sequences 6; gTCACTgTaact / agttAcAGTGAc
+Motif #4; total sequences 3; aacCAtcgagCc / gGctcgaTGgtt
+Motif #5; total sequences 7; GCCCTCTagTGG / CCActAGAGGGC
+Motif #6; total sequences 3; AGATgaNTcAaC / GtTgANtcATCT
+Motif #7; total sequences 5; AGcaGCCCGgGA / TCcCGGGCtgCT
+Motif #8; total sequences 3; cGtActctATGa / tCATagagTaCg
+Motif #9; total sequences 41; aGATAaNNATCtN / NaGATNNtTATCt
+Motif #10; total sequences 5; cGtGAgGccTtc / gaAggCcTCaCg
+Motif #11; total sequences 3; GGGAcTcgGaGc / gCtCcgAgTCCC
+Motif #12; total sequences 6; TTtNcCTtCctT / AagGaAGgNaAA
+Motif #13; total sequences 5; AGGtGgctGGcg / cgCCagcCaCCT
+Motif #14; total sequences 8; AtTaaANaaTcC / GgAttNTttAaT
+Motif #15; total sequences 12; AGAGAtNAtatN / NataTNaTCTCT
+Motif #16; total sequences 15; gatgaCCANgcC / GgcNTGGtcatc
+Motif #17; total sequences 3; gCCatggcTTGT / ACAAgccatGGc
+Motif #18; total sequences 50; NNNccActTCCTgt / acAGGAagTggNNN
+Motif #19; total sequences 3; AGAcaTCaANCc / gGNTtGAtgTCT
+Motif #20; total sequences 5; tCAtCTTcccTGc / gCAgggAAGaTGa
+Motif #21; total sequences 14; CaGNNcCaNtaT / AtaNtGgNNCtG
+Motif #22; total sequences 5; TcgGTgtTTANT / ANTAAacACcgA
+Motif #23; total sequences 3; GcgCCctGgGACAa / tTGTCcCagGGcgC
+Motif #24; total sequences 9; AgACAcNGAAGcGCc / gGCgCTTCNgTGTcT
+Motif #25; total sequences 21; NNTtaTCTSTgA / TcASAGAtaANN
+Motif #26; total sequences 8; AAACAAACAAACAAAaA / TtTTTGTTTGTTTGTTT
+Motif #27; total sequences 45; NgGgggNGGGGNNGg / cCNNCCCCNcccCcN
+Motif #28; total sequences 8; gNCGcCANCcWa / tWgGNTGgCGNc
+Motif #29; total sequences 28; NNNNctGATAAcATCNN / NNGATgTTATCagNNNN
+Motif #30; total sequences 130; tNNaNtTaaaNataNa / tNtatNtttAaNtNNa
+..............................................................................................................
+Iter 204: Current posterior 3482.199093, best 3493.996122
+
+Number of sequences: 257
+Number of programs: 14
+Number of motifs: 30
+Motif widths: 12 12 12 12 12 12 12 12 14 12 12 12 12 12 12 12 13 12 12 13 13 13 13 15 16 17 15 17 17 22 
+Program 1: total 2
+ motif #2: 2 of 2 (0.954545 posterior)
+ motif #8: 2 of 2 (0.954545 posterior)
+ motif #10: 1 of 2 (0.500000 posterior)
+ motif #14: 2 of 2 (0.954545 posterior)
+ motif #18: 1 of 2 (0.500000 posterior)
+ motif #20: 1 of 2 (0.500000 posterior)
+ motif #21: 2 of 2 (0.954545 posterior)
+ motif #23: 1 of 2 (0.500000 posterior)
+ motif #28: 2 of 2 (0.954545 posterior)
+
+Program 2: total 3
+ motif #2: 3 of 3 (0.968750 posterior)
+ motif #8: 3 of 3 (0.968750 posterior)
+ motif #14: 3 of 3 (0.968750 posterior)
+ motif #16: 3 of 3 (0.968750 posterior)
+ motif #20: 3 of 3 (0.968750 posterior)
+ motif #21: 2 of 3 (0.656250 posterior)
+
+Program 3: total 119
+ motif #8: 2 of 119 (0.017617 posterior)
+ motif #9: 9 of 119 (0.076342 posterior)
+ motif #11: 2 of 119 (0.017617 posterior)
+ motif #14: 5 of 119 (0.042785 posterior)
+ motif #16: 15 of 119 (0.126678 posterior)
+ motif #19: 14 of 119 (0.118289 posterior)
+ motif #21: 4 of 119 (0.034396 posterior)
+ motif #23: 58 of 119 (0.487416 posterior)
+ motif #24: 7 of 119 (0.059564 posterior)
+ motif #26: 9 of 119 (0.076342 posterior)
+ motif #28: 32 of 119 (0.269295 posterior)
+ motif #30: 7 of 119 (0.059564 posterior)
+
+Program 5: total 4
+ motif #1: 1 of 4 (0.261905 posterior)
+ motif #4: 1 of 4 (0.261905 posterior)
+ motif #11: 2 of 4 (0.500000 posterior)
+ motif #12: 3 of 4 (0.738095 posterior)
+ motif #15: 4 of 4 (0.976190 posterior)
+ motif #19: 4 of 4 (0.976190 posterior)
+
+Program 6: total 30
+ motif #2: 1 of 30 (0.036424 posterior)
+ motif #6: 2 of 30 (0.069536 posterior)
+ motif #9: 4 of 30 (0.135762 posterior)
+ motif #10: 1 of 30 (0.036424 posterior)
+ motif #16: 1 of 30 (0.036424 posterior)
+ motif #19: 2 of 30 (0.069536 posterior)
+ motif #21: 6 of 30 (0.201987 posterior)
+ motif #22: 3 of 30 (0.102649 posterior)
+ motif #25: 7 of 30 (0.235099 posterior)
+ motif #27: 3 of 30 (0.102649 posterior)
+ motif #28: 6 of 30 (0.201987 posterior)
+ motif #29: 19 of 30 (0.632450 posterior)
+
+Program 7: total 22
+ motif #4: 2 of 22 (0.094595 posterior)
+ motif #10: 2 of 22 (0.094595 posterior)
+ motif #13: 5 of 22 (0.229730 posterior)
+ motif #17: 1 of 22 (0.049550 posterior)
+ motif #28: 3 of 22 (0.139640 posterior)
+ motif #29: 2 of 22 (0.094595 posterior)
+
+Program 8: total 21
+ motif #4: 1 of 21 (0.051887 posterior)
+ motif #9: 1 of 21 (0.051887 posterior)
+ motif #10: 2 of 21 (0.099057 posterior)
+ motif #11: 1 of 21 (0.051887 posterior)
+ motif #12: 4 of 21 (0.193396 posterior)
+ motif #13: 2 of 21 (0.099057 posterior)
+ motif #19: 2 of 21 (0.099057 posterior)
+ motif #20: 1 of 21 (0.051887 posterior)
+ motif #21: 9 of 21 (0.429245 posterior)
+ motif #26: 3 of 21 (0.146226 posterior)
+ motif #27: 5 of 21 (0.240566 posterior)
+ motif #29: 11 of 21 (0.523585 posterior)
+
+Program 9: total 2
+ motif #3: 2 of 2 (0.954545 posterior)
+ motif #8: 1 of 2 (0.500000 posterior)
+ motif #9: 2 of 2 (0.954545 posterior)
+ motif #10: 1 of 2 (0.500000 posterior)
+ motif #12: 1 of 2 (0.500000 posterior)
+ motif #13: 2 of 2 (0.954545 posterior)
+ motif #15: 1 of 2 (0.500000 posterior)
+ motif #17: 2 of 2 (0.954545 posterior)
+ motif #18: 2 of 2 (0.954545 posterior)
+ motif #20: 2 of 2 (0.954545 posterior)
+ motif #21: 2 of 2 (0.954545 posterior)
+ motif #24: 1 of 2 (0.500000 posterior)
+ motif #28: 2 of 2 (0.954545 posterior)
+
+Program 10: total 1
+ motif #4: 1 of 1 (0.916667 posterior)
+ motif #7: 1 of 1 (0.916667 posterior)
+ motif #13: 1 of 1 (0.916667 posterior)
+ motif #16: 1 of 1 (0.916667 posterior)
+ motif #21: 1 of 1 (0.916667 posterior)
+ motif #22: 1 of 1 (0.916667 posterior)
+ motif #26: 1 of 1 (0.916667 posterior)
+ motif #28: 1 of 1 (0.916667 posterior)
+
+Program 11: total 16
+ motif #13: 1 of 16 (0.067901 posterior)
+ motif #15: 1 of 16 (0.067901 posterior)
+ motif #28: 6 of 16 (0.376543 posterior)
+ motif #30: 11 of 16 (0.685185 posterior)
+
+Program 12: total 6
+ motif #6: 3 of 6 (0.500000 posterior)
+ motif #9: 6 of 6 (0.983871 posterior)
+ motif #12: 1 of 6 (0.177419 posterior)
+ motif #14: 6 of 6 (0.983871 posterior)
+ motif #15: 1 of 6 (0.177419 posterior)
+ motif #17: 2 of 6 (0.338710 posterior)
+ motif #23: 3 of 6 (0.500000 posterior)
+ motif #28: 2 of 6 (0.338710 posterior)
+
+Program 13: total 7
+ motif #5: 1 of 7 (0.152778 posterior)
+ motif #8: 4 of 7 (0.569444 posterior)
+ motif #9: 1 of 7 (0.152778 posterior)
+ motif #11: 2 of 7 (0.291667 posterior)
+ motif #13: 7 of 7 (0.986111 posterior)
+ motif #17: 1 of 7 (0.152778 posterior)
+ motif #23: 1 of 7 (0.152778 posterior)
+ motif #25: 3 of 7 (0.430556 posterior)
+
+Program 14: total 1
+ motif #5: 1 of 1 (0.916667 posterior)
+ motif #7: 1 of 1 (0.916667 posterior)
+ motif #18: 1 of 1 (0.916667 posterior)
+ motif #22: 1 of 1 (0.916667 posterior)
+ motif #29: 1 of 1 (0.916667 posterior)
+
+Program 15: total 23
+ motif #5: 2 of 23 (0.090517 posterior)
+ motif #7: 2 of 23 (0.090517 posterior)
+ motif #12: 2 of 23 (0.090517 posterior)
+ motif #14: 5 of 23 (0.219828 posterior)
+ motif #18: 1 of 23 (0.047414 posterior)
+ motif #24: 1 of 23 (0.047414 posterior)
+
+Motif #1; total sequences 1; gactatccgtca / tgacggatagtc
+Motif #2; total sequences 6; TgMcAgTTNgSc / gScNAAcTgKcA
+Motif #3; total sequences 2; KATARKAGAGGT / ACCTCTMYTATM
+Motif #4; total sequences 5; ACtGTtActCAg / cTGagTaACaGT
+Motif #5; total sequences 4; GGcNGGAGMaAN / NTtKCTCCNgCC
+Motif #6; total sequences 5; aGTCAaAcCtNt / aNaGgTtTGACt
+Motif #7; total sequences 4; atTTCCaNTCCC / GGGANtGGAAat
+Motif #8; total sequences 12; AAaCCCAcNtCC / GGaNgTGGGtTT
+Motif #9; total sequences 23; ccctCcCCacCccc / gggGgtGGgGaggg
+Motif #10; total sequences 7; TTTCaACATCAa / tTGATGTtGAAA
+Motif #11; total sequences 7; AAaaCaaGCAgG / CcTGCttGttTT
+Motif #12; total sequences 11; TCCTtCCCcNCt / aGNgGGGaAGGA
+Motif #13; total sequences 18; agcaGcCtSTGA / TCASaGgCtgct
+Motif #14; total sequences 21; gAgaAatgGgAa / tTcCcatTtcTc
+Motif #15; total sequences 7; aACttNCCaaGG / CCttGGNaaGTt
+Motif #16; total sequences 20; aCagtgaCtTTg / cAAaGtcactGt
+Motif #17; total sequences 6; ACCSNcgcCGgYt / aRcCGgcgNSGGT
+Motif #18; total sequences 5; cAtTcTcTacTt / aAgtAgAgAaTg
+Motif #19; total sequences 22; NNtgtNANAKAG / CTMTNTNacaNN
+Motif #20; total sequences 7; gAGcCATCTCNCT / AGNGAGATGgCTc
+Motif #21; total sequences 26; tttcttTTTCctY / RagGAAAaagaaa
+Motif #22; total sequences 5; aaNAAaaCCaAcg / cgTtGGttTTNtt
+Motif #23; total sequences 63; NaGATAagNAtCt / aGaTNctTATCtN
+Motif #24; total sequences 9; AGaCAcgGAAGagca / tgctCTTCcgTGtCT
+Motif #25; total sequences 10; aTcNTTATCTMtGNgc / gcNCaKAGATAANgAt
+Motif #26; total sequences 13; aaacAAaCAAAcAAAcA / TgTTTgTTTGtTTgttt
+Motif #27; total sequences 8; AaNTggTAAAgaNAg / cTNtcTTTAccANtT
+Motif #28; total sequences 54; NccCcNCCtCctcCtNc / gNaGgagGaGGNgGggN
+Motif #29; total sequences 33; NNNNNNWGATAAgATCt / aGATcTTATCWNNNNNN
+Motif #30; total sequences 18; tNaNRagaWTaNANatAaaAat / atTttTatNTNtAWtctYNtNa
+.
+Iter 205: Current posterior 3435.950836, best 3524.547603
+
+Number of sequences: 257
+Number of programs: 14
+Number of motifs: 30
+Motif widths: 12 12 12 12 12 12 12 12 14 12 12 12 12 12 12 12 13 12 12 13 13 13 13 15 16 17 15 17 17 22 
+Program 1: total 2
+ motif #2: 2 of 2 (0.954545 posterior)
+ motif #8: 2 of 2 (0.954545 posterior)
+ motif #10: 1 of 2 (0.500000 posterior)
+ motif #14: 2 of 2 (0.954545 posterior)
+ motif #18: 1 of 2 (0.500000 posterior)
+ motif #20: 1 of 2 (0.500000 posterior)
+ motif #21: 2 of 2 (0.954545 posterior)
+ motif #23: 1 of 2 (0.500000 posterior)
+ motif #28: 2 of 2 (0.954545 posterior)
+
+Program 2: total 3
+ motif #2: 3 of 3 (0.968750 posterior)
+ motif #8: 3 of 3 (0.968750 posterior)
+ motif #14: 3 of 3 (0.968750 posterior)
+ motif #16: 3 of 3 (0.968750 posterior)
+ motif #20: 3 of 3 (0.968750 posterior)
+ motif #21: 2 of 3 (0.656250 posterior)
+
+Program 3: total 116
+ motif #8: 2 of 116 (0.018072 posterior)
+ motif #9: 6 of 116 (0.052496 posterior)
+ motif #11: 2 of 116 (0.018072 posterior)
+ motif #14: 4 of 116 (0.035284 posterior)
+ motif #16: 15 of 116 (0.129948 posterior)
+ motif #19: 16 of 116 (0.138554 posterior)
+ motif #21: 4 of 116 (0.035284 posterior)
+ motif #23: 57 of 116 (0.491394 posterior)
+ motif #24: 7 of 116 (0.061102 posterior)
+ motif #26: 9 of 116 (0.078313 posterior)
+ motif #28: 31 of 116 (0.267642 posterior)
+ motif #30: 6 of 116 (0.052496 posterior)
+
+Program 5: total 4
+ motif #1: 1 of 4 (0.261905 posterior)
+ motif #4: 1 of 4 (0.261905 posterior)
+ motif #11: 2 of 4 (0.500000 posterior)
+ motif #12: 3 of 4 (0.738095 posterior)
+ motif #15: 4 of 4 (0.976190 posterior)
+ motif #19: 4 of 4 (0.976190 posterior)
+
+Program 6: total 30
+ motif #2: 1 of 30 (0.036424 posterior)
+ motif #6: 3 of 30 (0.102649 posterior)
+ motif #9: 4 of 30 (0.135762 posterior)
+ motif #10: 1 of 30 (0.036424 posterior)
+ motif #16: 1 of 30 (0.036424 posterior)
+ motif #19: 2 of 30 (0.069536 posterior)
+ motif #21: 7 of 30 (0.235099 posterior)
+ motif #22: 3 of 30 (0.102649 posterior)
+ motif #25: 7 of 30 (0.235099 posterior)
+ motif #27: 4 of 30 (0.135762 posterior)
+ motif #28: 7 of 30 (0.235099 posterior)
+ motif #29: 19 of 30 (0.632450 posterior)
+
+Program 7: total 23
+ motif #4: 2 of 23 (0.090517 posterior)
+ motif #10: 2 of 23 (0.090517 posterior)
+ motif #13: 5 of 23 (0.219828 posterior)
+ motif #17: 2 of 23 (0.090517 posterior)
+ motif #28: 3 of 23 (0.133621 posterior)
+ motif #29: 1 of 23 (0.047414 posterior)
+
+Program 8: total 21
+ motif #4: 1 of 21 (0.051887 posterior)
+ motif #9: 1 of 21 (0.051887 posterior)
+ motif #10: 2 of 21 (0.099057 posterior)
+ motif #11: 1 of 21 (0.051887 posterior)
+ motif #12: 4 of 21 (0.193396 posterior)
+ motif #13: 2 of 21 (0.099057 posterior)
+ motif #19: 2 of 21 (0.099057 posterior)
+ motif #20: 1 of 21 (0.051887 posterior)
+ motif #21: 9 of 21 (0.429245 posterior)
+ motif #26: 3 of 21 (0.146226 posterior)
+ motif #27: 6 of 21 (0.287736 posterior)
+ motif #29: 11 of 21 (0.523585 posterior)
+
+Program 9: total 2
+ motif #3: 2 of 2 (0.954545 posterior)
+ motif #8: 1 of 2 (0.500000 posterior)
+ motif #9: 2 of 2 (0.954545 posterior)
+ motif #12: 1 of 2 (0.500000 posterior)
+ motif #13: 2 of 2 (0.954545 posterior)
+ motif #15: 2 of 2 (0.954545 posterior)
+ motif #17: 2 of 2 (0.954545 posterior)
+ motif #18: 1 of 2 (0.500000 posterior)
+ motif #20: 2 of 2 (0.954545 posterior)
+ motif #21: 2 of 2 (0.954545 posterior)
+ motif #24: 1 of 2 (0.500000 posterior)
+ motif #28: 2 of 2 (0.954545 posterior)
+
+Program 10: total 1
+ motif #4: 1 of 1 (0.916667 posterior)
+ motif #7: 1 of 1 (0.916667 posterior)
+ motif #13: 1 of 1 (0.916667 posterior)
+ motif #16: 1 of 1 (0.916667 posterior)
+ motif #21: 1 of 1 (0.916667 posterior)
+ motif #22: 1 of 1 (0.916667 posterior)
+ motif #26: 1 of 1 (0.916667 posterior)
+ motif #28: 1 of 1 (0.916667 posterior)
+
+Program 11: total 17
+ motif #13: 1 of 17 (0.063953 posterior)
+ motif #15: 1 of 17 (0.063953 posterior)
+ motif #28: 7 of 17 (0.412791 posterior)
+ motif #30: 11 of 17 (0.645349 posterior)
+
+Program 12: total 6
+ motif #6: 3 of 6 (0.500000 posterior)
+ motif #9: 6 of 6 (0.983871 posterior)
+ motif #12: 1 of 6 (0.177419 posterior)
+ motif #14: 6 of 6 (0.983871 posterior)
+ motif #15: 1 of 6 (0.177419 posterior)
+ motif #17: 2 of 6 (0.338710 posterior)
+ motif #23: 3 of 6 (0.500000 posterior)
+ motif #28: 2 of 6 (0.338710 posterior)
+
+Program 13: total 7
+ motif #5: 1 of 7 (0.152778 posterior)
+ motif #8: 4 of 7 (0.569444 posterior)
+ motif #9: 1 of 7 (0.152778 posterior)
+ motif #11: 1 of 7 (0.152778 posterior)
+ motif #13: 7 of 7 (0.986111 posterior)
+ motif #17: 1 of 7 (0.152778 posterior)
+ motif #22: 1 of 7 (0.152778 posterior)
+ motif #25: 3 of 7 (0.430556 posterior)
+
+Program 14: total 1
+ motif #16: 1 of 1 (0.916667 posterior)
+ motif #17: 1 of 1 (0.916667 posterior)
+ motif #24: 1 of 1 (0.916667 posterior)
+
+Program 15: total 24
+ motif #5: 2 of 24 (0.086777 posterior)
+ motif #7: 3 of 24 (0.128099 posterior)
+ motif #12: 2 of 24 (0.086777 posterior)
+ motif #14: 7 of 24 (0.293388 posterior)
+ motif #18: 2 of 24 (0.086777 posterior)
+ motif #22: 2 of 24 (0.086777 posterior)
+ motif #24: 1 of 24 (0.045455 posterior)
+ motif #29: 1 of 24 (0.045455 posterior)
+
+Motif #1; total sequences 1; gactatccgtca / tgacggatagtc
+Motif #2; total sequences 6; TgMcAgTTNgSc / gScNAAcTgKcA
+Motif #3; total sequences 2; GATAASAGWGKW / WMCWCTSTTATC
+Motif #4; total sequences 5; ACtGTtActCAg / cTGagTaACaGT
+Motif #5; total sequences 3; GGcNGGAGcAAg / cTTgCTCCNgCC
+Motif #6; total sequences 6; aGTCAWANCYNt / aNRGNTWTGACt
+Motif #7; total sequences 4; atTTCCaNTCCC / GGGANtGGAAat
+Motif #8; total sequences 12; AAaCCCAcNtCC / GGaNgTGGGtTT
+Motif #9; total sequences 20; ccctCcCCacCccc / gggGgtGGgGaggg
+Motif #10; total sequences 6; tTTCaACATCAa / tTGATGTtGAAa
+Motif #11; total sequences 6; AAaacaaGcAgg / ccTgCttgttTT
+Motif #12; total sequences 11; TCCTtCCCcNCt / aGNgGGGaAGGA
+Motif #13; total sequences 18; agcaGcCtSTGA / TCASaGgCtgct
+Motif #14; total sequences 22; gANaAatgGgAA / TTcCcatTtNTc
+Motif #15; total sequences 8; aACYtNCCaaGG / CCttGGNaRGTt
+Motif #16; total sequences 21; aCagtgaCtTTg / cAAaGtcactGt
+Motif #17; total sequences 8; ACCSNcgYCGGtN / NaCCGRcgNSGGT
+Motif #18; total sequences 4; cAtTYTcTAcTt / aAgTAgARAaTg
+Motif #19; total sequences 24; NNtgtNANAgAG / CTcTNTNacaNN
+Motif #20; total sequences 7; gAGcCATCTCNCT / AGNGAGATGgCTc
+Motif #21; total sequences 27; ttTcttTTTCctc / gagGAAAaagAaa
+Motif #22; total sequences 7; aANAAaACCaaNg / cNttGGTtTTNTt
+Motif #23; total sequences 61; NaGATAagNAtCt / aGaTNctTATCtN
+Motif #24; total sequences 10; aGaCAcNGAAGagcM / KgctCTTCNgTGtCt
+Motif #25; total sequences 10; aTcNTTATCTMtGNgc / gcNCaKAGATAANgAt
+Motif #26; total sequences 13; aaacAAaCAAAcAAAcA / TgTTTgTTTGtTTgttt
+Motif #27; total sequences 10; AWNTggtAAASaNAg / cTNtSTTTaccANWT
+Motif #28; total sequences 55; NccCcNCCtCctcCtNc / gNaGgagGaGGNgGggN
+Motif #29; total sequences 32; NNNNNNWGATAASATCt / aGATSTTATCWNNNNNN
+Motif #30; total sequences 17; tNaaaagaaTaNANatAaaAat / atTttTatNTNtAttcttttNa
+.
+Iter 206: Current posterior 3547.595357, best 3583.739758
+
+Number of sequences: 257
+Number of programs: 13
+Number of motifs: 29
+Motif widths: 12 12 12 12 12 12 12 14 12 12 12 12 12 12 12 13 12 12 13 13 13 13 15 16 17 15 17 17 22 
+Program 1: total 1
+ motif #14: 1 of 1 (0.916667 posterior)
+ motif #22: 1 of 1 (0.916667 posterior)
+ motif #27: 1 of 1 (0.916667 posterior)
+
+Program 2: total 4
+ motif #2: 4 of 4 (0.976190 posterior)
+ motif #8: 4 of 4 (0.976190 posterior)
+ motif #14: 3 of 4 (0.738095 posterior)
+ motif #16: 3 of 4 (0.738095 posterior)
+ motif #20: 4 of 4 (0.976190 posterior)
+ motif #21: 3 of 4 (0.738095 posterior)
+ motif #28: 1 of 4 (0.261905 posterior)
+
+Program 3: total 137
+ motif #9: 11 of 137 (0.080904 posterior)
+ motif #11: 9 of 137 (0.066327 posterior)
+ motif #14: 14 of 137 (0.102770 posterior)
+ motif #16: 8 of 137 (0.059038 posterior)
+ motif #19: 16 of 137 (0.117347 posterior)
+ motif #20: 2 of 137 (0.015306 posterior)
+ motif #21: 8 of 137 (0.059038 posterior)
+ motif #22: 7 of 137 (0.051749 posterior)
+ motif #23: 62 of 137 (0.452624 posterior)
+ motif #24: 12 of 137 (0.088192 posterior)
+ motif #25: 1 of 137 (0.008017 posterior)
+ motif #26: 8 of 137 (0.059038 posterior)
+ motif #27: 2 of 137 (0.015306 posterior)
+ motif #28: 34 of 137 (0.248542 posterior)
+ motif #29: 3 of 137 (0.022595 posterior)
+ motif #30: 4 of 137 (0.029883 posterior)
+
+Program 5: total 4
+ motif #1: 3 of 4 (0.738095 posterior)
+ motif #2: 1 of 4 (0.261905 posterior)
+ motif #11: 3 of 4 (0.738095 posterior)
+ motif #12: 4 of 4 (0.976190 posterior)
+ motif #15: 4 of 4 (0.976190 posterior)
+ motif #19: 4 of 4 (0.976190 posterior)
+
+Program 6: total 16
+ motif #6: 3 of 16 (0.191358 posterior)
+ motif #9: 4 of 16 (0.253086 posterior)
+ motif #20: 1 of 16 (0.067901 posterior)
+ motif #21: 1 of 16 (0.067901 posterior)
+ motif #26: 1 of 16 (0.067901 posterior)
+ motif #28: 4 of 16 (0.253086 posterior)
+ motif #29: 9 of 16 (0.561728 posterior)
+
+Program 7: total 18
+ motif #4: 3 of 18 (0.170330 posterior)
+ motif #10: 3 of 18 (0.170330 posterior)
+ motif #13: 8 of 18 (0.445055 posterior)
+ motif #20: 1 of 18 (0.060440 posterior)
+ motif #25: 2 of 18 (0.115385 posterior)
+ motif #28: 1 of 18 (0.060440 posterior)
+
+Program 8: total 30
+ motif #7: 2 of 30 (0.069536 posterior)
+ motif #10: 4 of 30 (0.135762 posterior)
+ motif #12: 2 of 30 (0.069536 posterior)
+ motif #14: 1 of 30 (0.036424 posterior)
+ motif #16: 1 of 30 (0.036424 posterior)
+ motif #17: 1 of 30 (0.036424 posterior)
+ motif #18: 1 of 30 (0.036424 posterior)
+ motif #21: 15 of 30 (0.500000 posterior)
+ motif #22: 1 of 30 (0.036424 posterior)
+ motif #25: 4 of 30 (0.135762 posterior)
+ motif #26: 2 of 30 (0.069536 posterior)
+ motif #27: 12 of 30 (0.400662 posterior)
+ motif #29: 17 of 30 (0.566225 posterior)
+
+Program 9: total 2
+ motif #3: 1 of 2 (0.500000 posterior)
+ motif #8: 1 of 2 (0.500000 posterior)
+ motif #9: 2 of 2 (0.954545 posterior)
+ motif #13: 1 of 2 (0.500000 posterior)
+ motif #15: 2 of 2 (0.954545 posterior)
+ motif #17: 1 of 2 (0.500000 posterior)
+ motif #20: 1 of 2 (0.500000 posterior)
+ motif #21: 2 of 2 (0.954545 posterior)
+ motif #24: 2 of 2 (0.954545 posterior)
+ motif #28: 2 of 2 (0.954545 posterior)
+
+Program 11: total 14
+ motif #13: 2 of 14 (0.147887 posterior)
+ motif #20: 1 of 14 (0.077465 posterior)
+ motif #25: 1 of 14 (0.077465 posterior)
+ motif #28: 5 of 14 (0.359155 posterior)
+ motif #30: 13 of 14 (0.922535 posterior)
+
+Program 12: total 5
+ motif #6: 2 of 5 (0.403846 posterior)
+ motif #7: 3 of 5 (0.596154 posterior)
+ motif #9: 5 of 5 (0.980769 posterior)
+ motif #12: 2 of 5 (0.403846 posterior)
+ motif #14: 5 of 5 (0.980769 posterior)
+ motif #15: 2 of 5 (0.403846 posterior)
+ motif #16: 1 of 5 (0.211538 posterior)
+ motif #17: 2 of 5 (0.403846 posterior)
+ motif #23: 5 of 5 (0.980769 posterior)
+
+Program 13: total 4
+ motif #8: 4 of 4 (0.976190 posterior)
+ motif #13: 4 of 4 (0.976190 posterior)
+ motif #17: 1 of 4 (0.261905 posterior)
+ motif #25: 1 of 4 (0.261905 posterior)
+
+Program 14: total 1
+ motif #1: 1 of 1 (0.916667 posterior)
+ motif #8: 1 of 1 (0.916667 posterior)
+ motif #10: 1 of 1 (0.916667 posterior)
+ motif #11: 1 of 1 (0.916667 posterior)
+ motif #14: 1 of 1 (0.916667 posterior)
+ motif #18: 1 of 1 (0.916667 posterior)
+ motif #21: 1 of 1 (0.916667 posterior)
+ motif #22: 1 of 1 (0.916667 posterior)
+ motif #28: 1 of 1 (0.916667 posterior)
+
+Program 15: total 21
+ motif #12: 1 of 21 (0.051887 posterior)
+ motif #14: 2 of 21 (0.099057 posterior)
+ motif #16: 2 of 21 (0.099057 posterior)
+ motif #17: 2 of 21 (0.099057 posterior)
+ motif #22: 1 of 21 (0.051887 posterior)
+ motif #24: 1 of 21 (0.051887 posterior)
+ motif #25: 1 of 21 (0.051887 posterior)
+ motif #29: 1 of 21 (0.051887 posterior)
+ motif #30: 1 of 21 (0.051887 posterior)
+
+Motif #1; total sequences 4; GAYNWtCagacA / TgtctGaWNRTC
+Motif #2; total sequences 5; TGaCAgTTNggc / gccNAAcTGtCA
+Motif #3; total sequences 1; aattatagaata / tattctataatt
+Motif #4; total sequences 3; AcTaTTaCCcga / tcgGGtAAtAgT
+Motif #6; total sequences 5; aGTCAtAcCttT / AaaGgTaTGACt
+Motif #7; total sequences 5; gTTtccActccC / GggagTggaAAc
+Motif #8; total sequences 10; aAacCCAccKCc / gGMggTGGgtTt
+Motif #9; total sequences 22; ccctCcCCacCccc / gggGgtGGgGaggg
+Motif #10; total sequences 8; TTTCaACATCAa / tTGATGTtGAAA
+Motif #11; total sequences 13; AAaagcAgNAgG / CcTNcTgcttTT
+Motif #12; total sequences 9; TCCTTCCCcNct / agNgGGGAAGGA
+Motif #13; total sequences 15; agcNGcCtgTGA / TCAcaGgCNgct
+Motif #14; total sequences 27; gAgaAaagGgAa / tTcCcttTtcTc
+Motif #15; total sequences 8; aACttNCCaaGG / CCttGGNaaGTt
+Motif #16; total sequences 15; aCAttGNCTTTg / cAAAGNCaaTGt
+Motif #17; total sequences 7; aCCctNGNCGGtc / gaCCGNCNagGGt
+Motif #18; total sequences 2; MATTWTCTACTT / AAGTAGAWAATK
+Motif #19; total sequences 20; tcTgtNagagAG / CTctctNacAga
+Motif #20; total sequences 10; KaGcCaTCTCacT / AgtGAGAtGgCtM
+Motif #21; total sequences 30; TtTcttTTtCctc / gagGaAAaagAaA
+Motif #22; total sequences 11; aaNaAaACCcAag / ctTgGGTtTtNtt
+Motif #23; total sequences 67; NaGATAaNNAtCt / aGaTNNtTATCtN
+Motif #24; total sequences 15; AgaCacNGAAGaggc / gcctCTTCNgtGtcT
+Motif #25; total sequences 10; AtSNTTATCTcWGNRN / NYNCWgAGATAANSaT
+Motif #26; total sequences 11; aaacAAACAaAcAAAcA / TgTTTgTtTGTTTgttt
+Motif #27; total sequences 15; AattggtAAAgaaAN / NTttcTTTaccaatT
+Motif #28; total sequences 48; YNcCCNCCYCcttCNcc / ggNGaagGRGGNGGgNR
+Motif #29; total sequences 30; NNNNNNWGAtAAgATCN / NGATcTTaTCWNNNNNN
+Motif #30; total sequences 18; tNaaRANaWTaNANatAaaAat / atTttTatNTNtAWtNTYttNa
+.
+Iter 207: Current posterior 3720.378099, best 3809.951050
+
+Number of sequences: 257
+Number of programs: 12
+Number of motifs: 30
+Motif widths: 12 12 12 12 12 12 12 12 14 12 12 12 12 12 12 12 13 12 12 13 13 13 13 15 16 17 15 17 17 22 
+Program 2: total 4
+ motif #2: 4 of 4 (0.976190 posterior)
+ motif #8: 4 of 4 (0.976190 posterior)
+ motif #14: 3 of 4 (0.738095 posterior)
+ motif #16: 2 of 4 (0.500000 posterior)
+ motif #20: 4 of 4 (0.976190 posterior)
+ motif #28: 1 of 4 (0.261905 posterior)
+
+Program 3: total 130
+ motif #6: 3 of 130 (0.023810 posterior)
+ motif #8: 2 of 130 (0.016129 posterior)
+ motif #9: 15 of 130 (0.115975 posterior)
+ motif #11: 8 of 130 (0.062212 posterior)
+ motif #14: 14 of 130 (0.108295 posterior)
+ motif #16: 10 of 130 (0.077573 posterior)
+ motif #17: 1 of 130 (0.008449 posterior)
+ motif #19: 10 of 130 (0.077573 posterior)
+ motif #20: 1 of 130 (0.008449 posterior)
+ motif #21: 5 of 130 (0.039171 posterior)
+ motif #22: 10 of 130 (0.077573 posterior)
+ motif #23: 62 of 130 (0.476959 posterior)
+ motif #24: 13 of 130 (0.100614 posterior)
+ motif #26: 8 of 130 (0.062212 posterior)
+ motif #27: 3 of 130 (0.023810 posterior)
+ motif #28: 41 of 130 (0.315668 posterior)
+ motif #29: 6 of 130 (0.046851 posterior)
+ motif #30: 1 of 130 (0.008449 posterior)
+
+Program 4: total 1
+ motif #6: 1 of 1 (0.916667 posterior)
+ motif #7: 1 of 1 (0.916667 posterior)
+ motif #8: 1 of 1 (0.916667 posterior)
+ motif #10: 1 of 1 (0.916667 posterior)
+ motif #16: 1 of 1 (0.916667 posterior)
+ motif #18: 1 of 1 (0.916667 posterior)
+ motif #21: 1 of 1 (0.916667 posterior)
+ motif #22: 1 of 1 (0.916667 posterior)
+ motif #28: 1 of 1 (0.916667 posterior)
+
+Program 5: total 4
+ motif #1: 1 of 4 (0.261905 posterior)
+ motif #11: 2 of 4 (0.500000 posterior)
+ motif #12: 4 of 4 (0.976190 posterior)
+ motif #15: 4 of 4 (0.976190 posterior)
+ motif #19: 4 of 4 (0.976190 posterior)
+ motif #22: 3 of 4 (0.738095 posterior)
+
+Program 6: total 17
+ motif #5: 1 of 17 (0.063953 posterior)
+ motif #6: 1 of 17 (0.063953 posterior)
+ motif #9: 2 of 17 (0.122093 posterior)
+ motif #16: 1 of 17 (0.063953 posterior)
+ motif #20: 3 of 17 (0.180233 posterior)
+ motif #21: 2 of 17 (0.122093 posterior)
+ motif #26: 1 of 17 (0.063953 posterior)
+ motif #28: 2 of 17 (0.122093 posterior)
+ motif #29: 7 of 17 (0.412791 posterior)
+ motif #30: 1 of 17 (0.063953 posterior)
+
+Program 7: total 22
+ motif #4: 5 of 22 (0.229730 posterior)
+ motif #10: 2 of 22 (0.094595 posterior)
+ motif #11: 1 of 22 (0.049550 posterior)
+ motif #12: 2 of 22 (0.094595 posterior)
+ motif #13: 8 of 22 (0.364865 posterior)
+ motif #25: 3 of 22 (0.139640 posterior)
+
+Program 8: total 39
+ motif #10: 6 of 39 (0.155612 posterior)
+ motif #12: 5 of 39 (0.130102 posterior)
+ motif #14: 6 of 39 (0.155612 posterior)
+ motif #16: 2 of 39 (0.053571 posterior)
+ motif #18: 4 of 39 (0.104592 posterior)
+ motif #21: 18 of 39 (0.461735 posterior)
+ motif #22: 7 of 39 (0.181122 posterior)
+ motif #25: 3 of 39 (0.079082 posterior)
+ motif #27: 14 of 39 (0.359694 posterior)
+ motif #29: 18 of 39 (0.461735 posterior)
+
+Program 9: total 2
+ motif #3: 2 of 2 (0.954545 posterior)
+ motif #7: 1 of 2 (0.500000 posterior)
+ motif #8: 1 of 2 (0.500000 posterior)
+ motif #9: 2 of 2 (0.954545 posterior)
+ motif #12: 1 of 2 (0.500000 posterior)
+ motif #13: 2 of 2 (0.954545 posterior)
+ motif #15: 2 of 2 (0.954545 posterior)
+ motif #17: 1 of 2 (0.500000 posterior)
+ motif #20: 2 of 2 (0.954545 posterior)
+ motif #21: 2 of 2 (0.954545 posterior)
+ motif #24: 1 of 2 (0.500000 posterior)
+ motif #28: 2 of 2 (0.954545 posterior)
+
+Program 11: total 18
+ motif #13: 3 of 18 (0.170330 posterior)
+ motif #15: 1 of 18 (0.060440 posterior)
+ motif #21: 3 of 18 (0.170330 posterior)
+ motif #23: 1 of 18 (0.060440 posterior)
+ motif #28: 8 of 18 (0.445055 posterior)
+ motif #30: 18 of 18 (0.994505 posterior)
+
+Program 12: total 4
+ motif #6: 2 of 4 (0.500000 posterior)
+ motif #9: 4 of 4 (0.976190 posterior)
+ motif #12: 1 of 4 (0.261905 posterior)
+ motif #14: 4 of 4 (0.976190 posterior)
+ motif #15: 2 of 4 (0.500000 posterior)
+ motif #16: 2 of 4 (0.500000 posterior)
+ motif #17: 1 of 4 (0.261905 posterior)
+ motif #23: 4 of 4 (0.976190 posterior)
+
+Program 13: total 4
+ motif #8: 4 of 4 (0.976190 posterior)
+ motif #13: 4 of 4 (0.976190 posterior)
+ motif #17: 1 of 4 (0.261905 posterior)
+ motif #25: 1 of 4 (0.261905 posterior)
+
+Program 15: total 12
+ motif #17: 1 of 12 (0.090164 posterior)
+ motif #22: 4 of 12 (0.336066 posterior)
+ motif #30: 2 of 12 (0.172131 posterior)
+
+Motif #1; total sequences 1; gaccatctggga / tcccagatggtc
+Motif #2; total sequences 4; TGMCAgTTRgSc / gScYAAcTGKCA
+Motif #3; total sequences 2; CCSAKGCCKACY / RGTMGGCMTSGG
+Motif #4; total sequences 5; AcTaTtNcCcat / atgGgNaAtAgT
+Motif #5; total sequences 1; attctggatcat / atgatccagaat
+Motif #6; total sequences 7; aGtCAaAcCttT / AaaGgTtTGaCt
+Motif #7; total sequences 2; GKTTSCYCTCTC / GAGAGRGSAAMC
+Motif #8; total sequences 12; AAaCCCAcctCC / GGaggTGGGtTT
+Motif #9; total sequences 23; cccaCCCCacCcca / tggGgtGGGGtggg
+Motif #10; total sequences 9; tTTCaACATCAa / tTGATGTtGAAa
+Motif #11; total sequences 11; AAAaNcagaAGG / CCTtctgNtTTT
+Motif #12; total sequences 13; TCCTTCCCctct / agagGGGAAGGA
+Motif #13; total sequences 17; aGcNGNCYgtGA / TCacRGNCNgCt
+Motif #14; total sequences 27; gANaAANgGgAA / TTcCcNTTtNTc
+Motif #15; total sequences 9; aACttNCCaaGG / CCttGGNaaGTt
+Motif #16; total sequences 18; aCAtTGaCtTTg / cAAaGtCAaTGt
+Motif #17; total sequences 5; ACCctcGcCGGct / agCCGgCgagGGT
+Motif #18; total sequences 5; cAtttTCcACtt / aaGTgGAaaaTg
+Motif #19; total sequences 14; tSTGtgagaNAG / CTNtctcaCASa
+Motif #20; total sequences 10; gaGcCATCTCacT / AgtGAGATGgCtc
+Motif #21; total sequences 31; ttTcttTTTCctc / gagGAAAaagAaa
+Motif #22; total sequences 25; AaagAAacCcAag / ctTgGgtTTcttT
+Motif #23; total sequences 67; NaGATAagNAtCt / aGaTNctTATCtN
+Motif #24; total sequences 14; AGAcacNGAAGagca / tgctCTTCNgtgTCT
+Motif #25; total sequences 7; ATcNTTATCTaaGNgc / gcNCttAGATAANgAT
+Motif #26; total sequences 9; AAAcAAaCAAACAAAaA / TtTTTGTTTGtTTgTTT
+Motif #27; total sequences 17; AaNtggtAAAgaaAN / NTttcTTTaccaNtT
+Motif #28; total sequences 55; tNCCcNCctCcttCNNN / NNNGaagGagGNgGGNa
+Motif #29; total sequences 31; NNNNNNtGATAAgATCt / aGATcTTATCaNNNNNN
+Motif #30; total sequences 22; tNaNRANaataaANaTAaaAat / atTttTAtNTttattNTYNtNa
+......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+Doing hill climbing
+
+Best before cleaning: 3370.586821
+posterior after randomizing for 1 programs: 1943.071571
+posterior after randomizing for 2 programs: 1769.173756
+posterior after randomizing for 3 programs: 1669.779167
+posterior after randomizing for 4 programs: 1589.905722
+posterior after randomizing for 5 programs: 1534.037074
+posterior after randomizing for 6 programs: 1489.739597
+posterior after randomizing for 7 programs: 1448.152719
+posterior after randomizing for 8 programs: 1438.288511
+posterior after randomizing for 9 programs: 1389.960236
+posterior after randomizing for 10 programs: 1379.756537
+posterior after randomizing for 11 programs: 1353.323437
+posterior after randomizing for 12 programs: 1315.641731
+posterior after randomizing for 13 programs: 1313.828808
+posterior after randomizing for 14 programs: 1296.386999
+posterior after randomizing for 15 programs: 1278.835025
+python ./createLogosPNG.py /home/sreedev/Downloads/Output/output6//run4 /home/sreedev/Downloads/Output/output6//run4
+python ./postProcessNoOptions.py /home/sreedev/Downloads/Processed/masked/masked6.fa /home/sreedev/Downloads/Output/output6//run4/info.txt /home/sreedev/Downloads/Output/output6//run4/pssm.txt /home/sreedev/Downloads/Output/output6//run4 
+Rscript  ./createPlots.r /home/sreedev/Downloads/Output/output6//run4
+python  ./createData.py /home/sreedev/Downloads/Output/output6//run4 /home/sreedev/Downloads/Processed/masked/masked6.fa .

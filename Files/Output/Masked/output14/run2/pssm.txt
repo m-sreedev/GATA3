@@ -1,0 +1,8 @@
+Number of sequences: 66
+Number of programs: 1
+Number of motifs: 0
+Motif widths: 
+Program 1: total 66
+
+
+Full posterior for run 2 is -2.000698

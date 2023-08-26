@@ -1,0 +1,50 @@
+Number of sequences: 899
+Number of programs: 2
+Number of motifs: 5
+Motif widths: 9 9 12 12 12 
+Program 1: total 673
+ motif #1: 569 of 673 (0.845365 posterior)
+ motif #2: 207 of 673 (0.307635 posterior)
+ motif #3: 82 of 673 (0.121955 posterior)
+ motif #4: 34 of 673 (0.050654 posterior)
+ motif #5: 21 of 673 (0.031343 posterior)
+
+Program 2: total 226
+
+Motif #1
+total sequences 569
+A	[ 162.0	31.0	39.0	31.0	60.0	566.0	1.0	-0.0	153.0	]
+C	[ 79.0	139.0	277.0	115.0	31.0	0.0	-0.0	569.0	-0.0	]
+G	[ 72.0	124.0	147.0	-0.0	1.0	3.0	-0.0	-0.0	10.0	]
+T	[ 256.0	275.0	106.0	423.0	477.0	-0.0	568.0	0.0	406.0	]
+Motif #2
+total sequences 207
+A	[ 94.0	-0.0	-0.0	-0.0	6.0	-0.0	-0.0	8.0	29.0	]
+C	[ 26.0	126.0	-0.0	-0.0	201.0	207.0	-0.0	46.0	58.0	]
+G	[ 64.0	-0.0	0.0	0.0	-0.0	-0.0	0.0	114.0	22.0	]
+T	[ 23.0	81.0	207.0	207.0	-0.0	-0.0	207.0	39.0	98.0	]
+Motif #3
+total sequences 82
+A	[ 29.0	-0.0	-0.0	82.0	13.0	0.0	6.0	82.0	-0.0	27.0	28.0	17.0	]
+C	[ 27.0	2.0	-0.0	-0.0	20.0	4.0	76.0	-0.0	37.0	55.0	30.0	20.0	]
+G	[ 17.0	-0.0	82.0	-0.0	49.0	1.0	-0.0	0.0	23.0	-0.0	6.0	23.0	]
+T	[ 9.0	80.0	0.0	-0.0	0.0	77.0	-0.0	-0.0	22.0	0.0	18.0	22.0	]
+Motif #4
+total sequences 34
+A	[ 18.0	3.0	15.0	34.0	30.0	23.0	-0.0	2.0	27.0	4.0	34.0	4.0	]
+C	[ 2.0	1.0	-0.0	-0.0	2.0	-0.0	34.0	32.0	7.0	29.0	-0.0	-0.0	]
+G	[ 12.0	30.0	19.0	-0.0	2.0	11.0	-0.0	-0.0	-0.0	1.0	-0.0	25.0	]
+T	[ 2.0	-0.0	-0.0	-0.0	-0.0	0.0	-0.0	0.0	0.0	-0.0	-0.0	5.0	]
+Motif #5
+total sequences 21
+A	[ 1.0	5.0	8.0	14.0	-0.0	-0.0	21.0	-0.0	16.0	-0.0	-0.0	0.0	]
+C	[ 16.0	-0.0	7.0	7.0	21.0	21.0	-0.0	18.0	-0.0	-0.0	21.0	17.0	]
+G	[ -0.0	-0.0	6.0	-0.0	-0.0	-0.0	-0.0	-0.0	-0.0	-0.0	-0.0	-0.0	]
+T	[ 4.0	16.0	-0.0	-0.0	-0.0	-0.0	-0.0	3.0	5.0	21.0	-0.0	4.0	]
+Motif #1; total sequences 569; NNNtTATCt / aGATAaNNN
+Motif #2; total sequences 207; NcTTCCTgN / NcAGGAAgN
+Motif #3; total sequences 82; NTGAgTCANcNN / NNgNTGAcTCAN
+Motif #4; total sequences 34; aGgAAaCCaCAg / cTGtGGtTTcCt
+Motif #5; total sequences 21; ctNaCCACaTCc / gGAtGTGGtNag
+
+Full posterior for run 2 is 4701.551931

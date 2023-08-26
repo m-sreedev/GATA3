@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<script type="text/javascript" src="data.js"></script>
+		<script type="text/javascript" src="md.js"></script>
+	</head>
+	<body>
+		<h3>Module 2</h3>
+		<div id="Module_2"></div>
+		<script>
+		buildModule(2);
+		tableCreate("Module_2",2);
+		window.onbeforeunload = function(){
+		window.scrollTo(0,0);
+		}
+		</script>
+		<style>
+		#Module_2{
+		position: relative;
+		}</style>
+	</body>
+</html>

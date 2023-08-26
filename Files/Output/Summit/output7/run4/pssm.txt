@@ -1,0 +1,114 @@
+Number of sequences: 6192
+Number of programs: 9
+Number of motifs: 8
+Motif widths: 11 12 14 9 11 15 18 23 
+Program 1: total 2608
+
+Program 2: total 1181
+ motif #1: 196 of 1181 (0.166018 posterior)
+ motif #2: 1181 of 1181 (0.999915 posterior)
+ motif #6: 24 of 1181 (0.020403 posterior)
+ motif #7: 12 of 1181 (0.010244 posterior)
+ motif #8: 2 of 1181 (0.001778 posterior)
+
+Program 3: total 1040
+ motif #1: 1039 of 1040 (0.998943 posterior)
+ motif #4: 154 of 1040 (0.148145 posterior)
+ motif #5: 1 of 1040 (0.001057 posterior)
+ motif #6: 2 of 1040 (0.002019 posterior)
+ motif #8: 9 of 1040 (0.008748 posterior)
+
+Program 4: total 723
+ motif #1: 2 of 723 (0.002904 posterior)
+ motif #2: 5 of 723 (0.007052 posterior)
+ motif #3: 722 of 723 (0.998479 posterior)
+ motif #4: 102 of 723 (0.141178 posterior)
+ motif #5: 63 of 723 (0.087251 posterior)
+ motif #6: 4 of 723 (0.005669 posterior)
+ motif #8: 4 of 723 (0.005669 posterior)
+
+Program 5: total 262
+ motif #1: 93 of 262 (0.355072 posterior)
+ motif #2: 2 of 262 (0.008009 posterior)
+ motif #3: 1 of 262 (0.004195 posterior)
+ motif #5: 259 of 262 (0.988177 posterior)
+ motif #8: 4 of 262 (0.015637 posterior)
+
+Program 6: total 206
+ motif #4: 206 of 206 (0.999515 posterior)
+ motif #6: 18 of 206 (0.087779 posterior)
+ motif #8: 1 of 206 (0.005335 posterior)
+
+Program 7: total 141
+ motif #1: 1 of 141 (0.007790 posterior)
+ motif #2: 1 of 141 (0.007790 posterior)
+ motif #6: 140 of 141 (0.992210 posterior)
+ motif #8: 1 of 141 (0.007790 posterior)
+
+Program 8: total 29
+ motif #1: 5 of 29 (0.174658 posterior)
+ motif #4: 1 of 29 (0.037671 posterior)
+ motif #5: 6 of 29 (0.208904 posterior)
+ motif #7: 29 of 29 (0.996575 posterior)
+
+Program 9: total 2
+ motif #8: 2 of 2 (0.954545 posterior)
+
+Motif #1
+total sequences 1336
+A	[ 768.0	223.0	1272.0	1.0	-0.0	1316.0	1142.0	415.0	128.0	275.0	377.0	]
+C	[ 108.0	792.0	64.0	-0.0	0.0	20.0	-0.0	29.0	259.0	190.0	184.0	]
+G	[ 372.0	318.0	-0.0	1335.0	1336.0	-0.0	33.0	892.0	145.0	677.0	644.0	]
+T	[ 88.0	3.0	-0.0	0.0	-0.0	-0.0	161.0	-0.0	804.0	194.0	131.0	]
+Motif #2
+total sequences 1189
+A	[ 495.0	176.0	671.0	150.0	52.0	110.0	41.0	152.0	1189.0	0.0	0.0	326.0	]
+C	[ 146.0	222.0	51.0	161.0	354.0	606.0	163.0	0.0	0.0	3.0	1186.0	0.0	]
+G	[ 133.0	630.0	207.0	115.0	266.0	260.0	41.0	0.0	0.0	0.0	0.0	26.0	]
+T	[ 415.0	161.0	260.0	763.0	517.0	213.0	944.0	1037.0	0.0	1186.0	3.0	837.0	]
+Motif #3
+total sequences 723
+A	[ 279.0	239.0	214.0	597.0	660.0	430.0	-0.0	161.0	639.0	137.0	601.0	228.0	299.0	223.0	]
+C	[ 96.0	35.0	114.0	75.0	-0.0	28.0	547.0	534.0	54.0	429.0	80.0	55.0	134.0	184.0	]
+G	[ 146.0	338.0	349.0	24.0	63.0	265.0	1.0	-0.0	0.0	140.0	11.0	281.0	163.0	242.0	]
+T	[ 202.0	111.0	46.0	27.0	0.0	-0.0	175.0	28.0	30.0	17.0	31.0	159.0	127.0	74.0	]
+Motif #4
+total sequences 463
+A	[ 90.0	377.0	0.0	463.0	-0.0	447.0	459.0	138.0	183.0	]
+C	[ 139.0	-0.0	-0.0	-0.0	-0.0	-0.0	-0.0	62.0	111.0	]
+G	[ 181.0	-0.0	463.0	0.0	-0.0	16.0	4.0	263.0	154.0	]
+T	[ 53.0	86.0	0.0	0.0	463.0	-0.0	-0.0	-0.0	15.0	]
+Motif #5
+total sequences 329
+A	[ 200.0	4.0	326.0	0.0	283.0	182.0	73.0	320.0	-0.0	0.0	105.0	]
+C	[ 6.0	0.0	0.0	-0.0	-0.0	55.0	160.0	0.0	7.0	324.0	0.0	]
+G	[ 0.0	325.0	0.0	0.0	-0.0	83.0	69.0	9.0	15.0	-0.0	9.0	]
+T	[ 123.0	0.0	3.0	329.0	46.0	9.0	27.0	0.0	307.0	5.0	215.0	]
+Motif #6
+total sequences 188
+A	[ 7.0	3.0	15.0	0.0	1.0	61.0	0.0	0.0	5.0	49.0	0.0	24.0	0.0	5.0	26.0	]
+C	[ 64.0	107.0	0.0	185.0	187.0	126.0	106.0	187.0	0.0	6.0	62.0	24.0	0.0	7.0	113.0	]
+G	[ 102.0	0.0	145.0	0.0	0.0	0.0	0.0	1.0	0.0	111.0	126.0	0.0	187.0	160.0	3.0	]
+T	[ 15.0	78.0	28.0	3.0	0.0	1.0	82.0	0.0	183.0	22.0	0.0	140.0	1.0	16.0	46.0	]
+Motif #7
+total sequences 41
+A	[ 10.0	5.0	12.0	4.0	8.0	0.0	1.0	8.0	0.0	4.0	0.0	2.0	0.0	10.0	5.0	0.0	8.0	0.0	]
+C	[ 7.0	18.0	5.0	2.0	0.0	2.0	0.0	3.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	]
+G	[ 19.0	8.0	12.0	34.0	33.0	38.0	38.0	0.0	41.0	37.0	41.0	37.0	41.0	1.0	35.0	41.0	33.0	41.0	]
+T	[ 5.0	10.0	12.0	1.0	0.0	1.0	2.0	30.0	0.0	0.0	0.0	1.0	0.0	30.0	1.0	0.0	0.0	0.0	]
+Motif #8
+total sequences 23
+A	[ 10.0	8.0	16.0	23.0	0.0	0.0	19.0	0.0	23.0	18.0	0.0	2.0	0.0	0.0	0.0	20.0	4.0	8.0	17.0	5.0	0.0	0.0	8.0	]
+C	[ 4.0	1.0	0.0	0.0	23.0	0.0	1.0	23.0	0.0	2.0	11.0	1.0	23.0	23.0	23.0	0.0	2.0	9.0	0.0	0.0	1.0	22.0	13.0	]
+G	[ 3.0	13.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	3.0	16.0	2.0	6.0	10.0	20.0	0.0	0.0	]
+T	[ 6.0	1.0	0.0	0.0	0.0	23.0	3.0	0.0	0.0	3.0	7.0	20.0	0.0	0.0	0.0	0.0	1.0	4.0	0.0	8.0	2.0	1.0	2.0	]
+Motif #1; total sequences 1336; acAGGAAgtgN / NcacTTCCTgt
+Motif #2; total sequences 1189; NgatNctTATCt / aGATAagNatcN
+Motif #3; total sequences 723; NNNAAaccAcANNN / NNNTgTggtTTNNN
+Motif #4; total sequences 463; NAGATAAgN / NcTTATCTN
+Motif #5; total sequences 329; aGATAaNATCt / aGATNtTATCt
+Motif #6; total sequences 188; gcgCCccCTggtGGc / gCCaccAGggGGcgc
+Motif #7; total sequences 41; NNNGgGGtGGGGGtGGgG / CcCCaCCCCCaCCcCNNN
+Motif #8; total sequences 23; NgaACTACAaNTCCCAgNaNGCc / gGCNtNcTGGGANtTGTAGTtcN
+
+Full posterior for run 4 is 20914.701283
